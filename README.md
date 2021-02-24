@@ -20,7 +20,7 @@
 | PHYSICS 4AL | Spring '20 | A |
 
 ## Other Requirements
-| Course | Term | Grade | 
-|:---:|:---:|:---:|
-| C&EE 110 | Spring '21 | PL |
-| ENGR 182EW | ??? | ??? |
+| Requirement | Course | Term | Grade | 
+|:---:|:---:|:---:|:---:|
+| Stats | ??? | ??? | ??? |
+| Ethics/Writing | ENGR 182EW | ??? | ??? |
