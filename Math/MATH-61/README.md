@@ -1,9 +1,11 @@
 # MATH 61 - Introduction to Discrete Structures
+
 # Salazar - Spring '20
 
 ## Overall: A | Raw Percentage: 95.4%
 
 ## Grading
+
 | Category | Percentage |
 |:---:|:---:|
 | Homeworks | 20% |
@@ -13,6 +15,7 @@
 | Final | 20% |
 
 ## Homeworks
+
 | # | Score |
 |:---:|:---:|
 | 1 | 10/10 |
@@ -25,6 +28,7 @@
 | 8 | 10/10 |
 
 ## Quizzes
+
 | # | Score |
 |:---|:---:|
 | 1 | 10/10 |
@@ -37,6 +41,7 @@
 | 8 | 10/10 |
 
 ## Exams
+
 | Exam | Score |
 |:---:|:---:|
 | Midterm 1 | 44/50 |

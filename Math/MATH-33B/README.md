@@ -1,9 +1,11 @@
 # MATH 33B - Differential Equations
+
 # Fan - Winter '20
 
 ## Overall: A | Raw Percentage: 93.4%
 
 ## Grading
+
 | Category | Percentage |
 |:---:|:---:|
 | Homeworks | 10% |
@@ -11,6 +13,7 @@
 | Final | 60% |
 
 ## Homeworks
+
 | # | Score |
 |:---:|:---:|
 | 1 | 10/10 |
@@ -23,6 +26,7 @@
 | 8 | Ungraded |
 
 ## Exams
+
 | Exam | Score |
 |:---|:---:|
 | Midterm 1 | 48/50 |

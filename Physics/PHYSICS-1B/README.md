@@ -1,9 +1,11 @@
 # PHYSICS 1B - Oscillations, Waves, Electric and Magnetic Fields
+
 # Dumitrescu - Winter '20
 
 ## Overall: B+ | Raw Percentage: 84.6%
 
 ## Grading
+
 | Category | Percentage |
 |:---:|:---:|
 | Participation | 3% |
@@ -12,6 +14,7 @@
 | Final | 45% |
 
 ## Homeworks
+
 | # | Score |
 |:---:|:---:|
 | 1 | ??? |
@@ -26,6 +29,7 @@
 | 10 | ??? |
 
 ## Exams
+
 | Exam | Score |
 |:---:|:---:|
 | Midterm 1 | 86/105 |

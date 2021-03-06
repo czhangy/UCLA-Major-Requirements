@@ -1,7 +1,8 @@
 # Charles Zhang - GPA: 3.90 - Computer Science
 
 ## Math Requirements
-| Course | Term | Grade | 
+
+| Course | Term | Grade |
 |:---:|:---:|:---:|
 | MATH 31A | AP Credit | - |
 | MATH 31B | AP Credit | - |
@@ -12,7 +13,8 @@
 | MATH 61 | Spring '20 | A |
 
 ## Physics Requirements
-| Course | Term | Grade | 
+
+| Course | Term | Grade |
 |:---:|:---:|:---:|
 | PHYSICS 1A | AP Credit | - |
 | PHYSICS 1B | Winter '20 | B+ |
@@ -20,7 +22,8 @@
 | PHYSICS 4AL | Spring '20 | A |
 
 ## Other Requirements
-| Requirement | Course | Term | Grade | 
+
+| Requirement | Course | Term | Grade |
 |:---:|:---:|:---:|:---:|
 | Stats | ??? | ??? | ??? |
 | Ethics/Writing | ??? | ??? | ??? |

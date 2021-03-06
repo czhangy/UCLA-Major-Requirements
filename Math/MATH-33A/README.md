@@ -1,9 +1,11 @@
 # MATH 33A - Linear Algebra and Applications
+
 # Otter - Fall '19
 
 ## Overall: A | Raw Percentage: 94.2%
 
 ## Grading
+
 | Category | Percentage |
 |:---:|:---:|
 | Homeworks | 20% |
@@ -12,6 +14,7 @@
 | Final | 40% |
 
 ## Homeworks
+
 | # | Score |
 |:---:|:---:|
 | 1 | 24/24 |
@@ -25,6 +28,7 @@
 | 9 | 29/30 |
 
 ## Exams
+
 | Exam | Score |
 |:---:|:---:|
 | Midterm 1 | 46/50 |
