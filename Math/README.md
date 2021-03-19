@@ -1,4 +1,4 @@
-## Math Requirements
+# Math Requirements
 
 | Course                                        |    Term    | Professor | Grade |
 | :-------------------------------------------- | :--------: | :-------: | :---: |
