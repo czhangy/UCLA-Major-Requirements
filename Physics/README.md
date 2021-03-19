@@ -1,4 +1,4 @@
-## Physics Requirements
+# Physics Requirements
 
 | Course                                                       |    Term    | Professor  | Grade |
 | :----------------------------------------------------------- | :--------: | :--------: | :---: |
