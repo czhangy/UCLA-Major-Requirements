@@ -24,6 +24,6 @@
 ## Misc. Requirements
 
 | Requirement | Course | Term | Grade |
-|:---:|:---:|:---:|:---:|
+|:----|:---:|:---:|:---:|
 | Stats | ??? | ??? | ??? |
 | Ethics/Writing | ??? | ??? | ??? |
