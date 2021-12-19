@@ -1,4 +1,4 @@
-# Charles Zhang - GPA: 3.92 - Computer Science
+# Charles Zhang - Major Requirements
 
 ## Math Requirements
 
