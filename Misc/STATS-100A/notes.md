@@ -24,7 +24,7 @@
   - To make decisions properly, it helps to have clear what are acceptable values
     - That requires knowing the domain experiment
     - Without knowing the values that make sense for an experiment (and that depends on the kind of experiment), it is impossible to assign probabilities to them and to be precise
-  - A random experiment is a very brod concept
+  - A random experiment is a very broad concept
     - It is any action for which the outcome is not pre-determined
   - The sample space, `S`
     - The answer to the question: what could potentially be the outcome of the random experiment
