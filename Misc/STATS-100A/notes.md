@@ -66,7 +66,49 @@
 
 
 
-## Lecture 2:
+## Lecture 2: Probability Measure
+
+- In this lecture:
+
+  - Probability is not an intrinsic property of physical objects, but rather a mathematical function on sets in a sample space
+  - This generality, and the results that follow from it makes probability very useful for decision-making and many of its other uses
+  - We will describe the Kolmogorov axioms of probability which characterize the measure called probability
+  - We will state (without proof) some theorems which follow from the axioms
+    - Union rule, complement rule, probability of only one event, etc.
+    - To get probabilities right, you must know these rules
+    - Probability calculations are based on these rules
+  - We will apply the theorems in different contexts
+    - The same rules but a large variety of different contexts is what makes probability so useful for many things
+
+- Notation:
+
+  - `S` denotes the sample space
+  - `P` denotes the probability of an event
+  - Any other capital letter represents an event
+
+- Kolmogorov's Probability Axioms:
+
+  - Probability is a function `P` defined on sets of the larger set `S` such that this function satisfies Kolmogorov's axioms
+
+  - If `A` is an event in the sample space `S`:
+
+    - $$
+      P(A)\ge0\text{ for all events }A 
+      $$
+
+    - $$
+      P(S)=1
+      $$
+
+      - `S` always happens, any outcome of the experiment is in `S`
+
+    - Axiom of countable additivity: if `A1`, `A2`, ... is a collection of pairwise disjoint or mutually exclusive events, all defined on a sample space `S`, then:
+
+      - $$
+        P(\bigcup^{\infty}_{i=1}A_i)=\sum^\infty_{i=1}P(A_i)
+        $$
+
+      - The probability of the union of mutually exclusive events is the sum of their probabilities
 
 - 
 
