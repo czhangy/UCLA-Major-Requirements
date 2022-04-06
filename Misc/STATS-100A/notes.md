@@ -2,7 +2,7 @@
 
 [TOC]
 
-## Lecture 1: Modern Probability and Partitions
+## Lecture 1: Classical Probability and Partitions
 
 - Classical definition:
 
@@ -66,7 +66,7 @@
 
 
 
-## Lecture 2: Probability Measure
+## Lecture 2: Modern Probability, Bayes' Theorem, and Independence
 
 - In this lecture:
 
@@ -109,6 +109,193 @@
         $$
 
       - The probability of the union of mutually exclusive events is the sum of their probabilities
+
+  - The classical definition of probability satisfies the axioms
+
+    - All other definitions of probability must satisfy them
+
+  - For any given sample space `S`, many different probability functions can be defined that satisfy the axioms
+
+  - Properties of a Probability Function that Follow from the Axioms
+
+    - Theorem: let `P` be a probability function and let `A` be any event in a sample space `S`, then:
+
+      - $$
+        P(\emptyset)=0
+        $$
+
+    - Theorem: let `P` be a probability function and let `A` be any event in a sample space `S`, then:
+
+      - $$
+        P(A^C)=1-P(A)
+        $$
+
+      - Complement rule
+
+    - Theorem: let `P` be a probability function and let `A` and `B`  be any events in a sample space `S`, then the probability that "only `A` happens is":
+
+      - $$
+        P(A\cap B^C)=P(A)-P(A\cap B)
+        $$
+
+    - Theorem:  let `P` be a probability function and let `A` and `B`  be any events in a sample space `S`, then:
+
+      - $$
+        P(A\cup B)=P(A)+P(B)-P(A\cap B)
+        $$
+
+      - Addition rule
+
+    - Worth noting the different between probability of "only `A` or only `B`" and the probability of "`A` or `B`"
+
+      - Probability of only `A` or only `B` is a union of mutually exclusive events and its solution follows from the third axiom
+
+  - Summary:
+
+    - We saw the Kolmogorov axioms of probability and learned some rules that follow from those axioms
+    - We distinguished between the events "`A` or `B`" and "only `A` or only `B`"
+    - In future lessons, we will see how repeated use of the rules allow us to calculate events of increasing complexity
+      - No matter what the context is, if using probability, we must satisfy the axioms and theorems
+
+- Conditional Probability, Total Probability, and Bayes' Theorem
+
+  - Learning goal: distinguish between the probability of an event in the universal set, `S`, and the probability of the same event in a subset of `S`
+
+    - Calculating the probability that two events happen to elements in the universal set
+    - Calculate conditional probability and unconditional probability of an event
+      - Given two events `A`, `B`, `P(A|B)` denotes probability of event `A` happening in the subset of `S` represented in `B`
+        - That is a conditional probability
+        - In contrast, `P(A)` denotes the probability of event `A` happening to elements in `S` (whether they are in `B` or not)
+    - Calculate probability of `A` using information about joint probabilities and also definition of conditional probabilities
+      - Law of total probability
+
+  - Definition of Conditional Probability
+
+    - Let `G` and `B` be two events, the conditional probability of event `G` given that `B` has occurred is denoted by `P(G|B)` and is defined as:
+
+      - $$ {c}
+        P(G|B)=\frac{P(G\cap B)}{P(B)}
+        $$
+
+      - The symbol `|` means "given that"
+
+      - Similarly:
+
+        - $$
+          P(B|G)=\frac{P(B\cap G)}{P(G)}
+          $$
+
+    - 1st implication: product rule
+
+      - We may calculate the probability of the intersection of two events if we know the conditional probability of one given the other and unconditional probabilities
+
+      - $$
+        P(G\cap B)=P(G|B)P(B)=P(B|G)P(G)
+        $$
+
+  - Bayes' Theorem
+
+    - If you know the conditional probability `P(B|G)` you are able to calculate the inverse probability `P(G|B)`, if you also happen to know the total probabilities of the two events using Bayes' formula:
+
+      - $$
+        P(G|B)=\frac{P(B|G)P(G)}{P(B)}
+        $$
+
+  - Law of Total Probability of an Event
+
+    - $$
+      P(A)=P(A|B)P(B)+P(A|B^C)P(B^C)
+      $$
+
+    - More generally, if we have a partition of the sample space into `n` events `Gi`, then:
+
+      - $$
+        P(A)=\sum^n_{i=1}P(A|B_i)P(B_i)
+        $$
+
+  - Summary
+
+    - Conditional probability, law of total probability, product rule, and Bayes' theorem broaden our ability to solve probability problems and make decisions under uncertainty when some extra information is known
+      - They allow us to compute many more probabilities than we could compute with just the union rule, the complement rule, and other theorems derived from the axioms seen last time
+      - They make decision making under uncertainty easier by giving us good decision rules
+    - We can translate the information given regarding conditional events with a table, a tree, or just with the formulas, if we label what things represent what correctly
+    - A student of probability must be able to indicate technically the probabilities of events, indicating which are the events , and also to represent that information verbally in everyday language
+
+- Independence
+
+  - Learning goals:
+
+    - Appreciate the important role that independence plays in solving many problems and in finding the probabilities of outcomes in sample spaces resulting from repeated experiments
+    - Understand what independence means
+    - Definition of independence and apply the definition to prove independence
+    - Product rule to calculate the joint probability of independent events
+    - Show the implication of independence for conditional probability
+
+  - Definition of Independence
+
+    - Let `A` and `B` be two events defined on the same sample space
+
+      - The events `A` and `B` are independent if:
+
+        - $$
+          P(A\cap B)=P(A)P(B)
+          $$
+
+      - A collection of events `A1`, `A2`, ..., `An` are independent if:
+
+        - $$
+          P(A_1\cap A_2\cap\ ...\ \cap A_n)=P(A_1)P(A_2)...P(A_n)
+          $$
+
+        - If `n` events are independent, any subsets of those events are also independent
+
+    - We prove independence by applying the definition of independence
+
+  - The Product Rule for Independence
+
+    - Used to calculate joint probability of independent events
+
+    - If two events `A`, `B` are independent, then we calculate their joint probability as follows:
+
+      - $$
+        P(A\cap B)=P(A)P(B)
+        $$
+
+  - Implication of Independence for Conditional Probability
+
+    - $$
+      P(G|B)=\frac{P(G\cap B)}{P(B)}=\frac{P(G)P(B)}{P(B)}=P(G)
+      $$
+
+    - The probability of event `G` happening in subgroup `B` is the same as the probability of `G` happening in the overall population
+
+      - Group `B` is no different than the whole population
+
+    - Seeing that event `B` has happened doesn't change our initial probability of event `G` happening
+
+    - The prior probability of event `G` is the same as the posterior probability of `G`
+
+  - Summary
+
+    - Applied the definition to prove independence
+    - Showed that independence implies that the conditional probability of an event `A` given `B` equals the unconditional probability of `A`
+    - Applied independence and previously learned probability rules to different contextual problems
+
+- Judgements Under Uncertainty
+
+  - The Representativeness Heuristic
+    - How likely is `X` to be a member of category `Y` vs. how much does `X` resemble the stereotype of `Y`
+    - What's wrong with using representativeness?
+      - The likelihood that `X` is a member of category `Y` depends on how many `Y`s there are
+        - That is, depends on the prior probability of `Y`
+  - What Can You Do About It?
+    - Now that you know it exists, you are better able to recognize it in your own life and correct for it
+      - Consider prior probabilities
+      - Be wary of small samples
+
+
+
+## Lecture 3:
 
 - 
 
