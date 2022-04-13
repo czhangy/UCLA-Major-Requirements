@@ -295,7 +295,207 @@
 
 
 
-## Lecture 3:
+## Lecture 3: Random Variables and Cumulative Distributions
+
+- Discrete Variables
+
+  - Introduction
+
+    - In the study of probability we start with sample spaces and probability measures, but modeling real problems leads very quickly to the need to use function as a way of describing experiments
+    - Generally these functions are real-valued and they measure some relevant information about an experiment or a process having probabilities associated with the different outcomes or states of the process
+    - This is simply saying that the object we are usually interested in is a function defined on some sample space where there is a probability measure
+
+  - Goal:
+
+    - Appreciate the convenience of summarizing the outcomes of the experiments that interest us with a function call random variables and its probability mass function
+    - We will learn to create tables (or a mathematical formula) for discrete random variables associated with sample spaces to which we have assigned a probability measure
+      - We will call the most important table or formula PMF
+    - We will use the PMF as a model for real problems
+    - We will learn to calculate the expectation, variance, and standard deviation of a random variable using the PMF
+
+  - Definition of Discrete Random Variable
+
+    - A function whose domain are events in a discrete sample space and whose range is the set of real numbers is called a random variable
+      - If the random variable is denoted by `X` and has as  a domain the sample space `S = {o1, o2, ..., on}`, then we write `X({ok, ..., ok})`, for the value of `X` that is shared by each of the elements in the event `{ok, ..., oj}`
+
+  - Definition of Probability Mass Function of a Discrete Random Variable
+
+    - A PMF of a finite random variable summarizes the unique values of the random variables and the probability of seeing those unique values
+      - To find that probability we find out the probabilities of the outcomes in `S` that have that value of the random variable and add those probabilities
+    - Alternative representations of PMFs:
+      - Table (if the random variable doesn't have too many values)
+      - Graph
+      - Formula (in some well known PMFs)
+
+  - Expectation, Variance, and Standard Deviation of a Discrete Random Variable
+
+    - Expected value of a discrete random variable `X`:
+
+      - Center of gravity of the PMF
+
+      - $$
+        \mu_X=E(X)=\sum_xxP(X=x)
+        $$
+
+    - Variance of a discrete random variable `X`:
+
+      - Average of the square distance of values of `X` from the expected value
+
+      - $$
+        \sigma^2_X=Var(X)=E[(X-\mu_X)^2]=\sum_x(x-\mu_X)^2P(x)
+        $$
+
+    - Solving the units problem of variance:
+
+      - The standard deviation of a discrete random variable `X`
+
+      - $$
+        \sigma=SD(X)=\sqrt{Var(X)}
+        $$
+
+  - Summary
+
+    - Put in more compact form, from scratch, the outcome of an experiment and their probabilities
+    - Create tables (or a mathematical formula) that helped us find answers without having to do the longer calculations we had done so far
+      - We need everything from lectures 1-2 also
+    - Calculate the expectation, variance, and standard deviation of a random variable
+
+-  Continuous Variables
+
+  - Goals
+
+    - Appreciate the generality of the concepts already learned and the power of mathematics to allow us to generalize them
+    - Continuous sample spaces need calculus for us to be able to answer the usual probability, expectations, and other probability questions we have about experiments
+    - Families of continuous random variable are conspicuous in many domains of nature and human endeavors
+      - It is important that we can apply what we learned to them
+
+  - Introduction
+
+    - If a measurement can take any value in an interval in a real line, then it is not possible to assign a probability to every point, becuase there are infinite points
+      - The `P(S)` would be greater than `1` and the axioms would not be satisfied
+    - Assigning probability of `0` to each point would not make sense either, the axioms must be satisfied
+    - A convention to avoid the problem is the concept of probability density function
+
+  - Density Function of a Continuous Random Variable
+
+    - Suppose the simple events of a sample space can be indexed by the real number `x`
+
+      - Let `a` be the smallest possible simple event (which could be `-INF`) and `b` the largest (which could be `+INF`)
+      - Any other real number in between is allowed
+
+    - If a function `f(x)` exists such that:
+
+      - $$
+        f(x)\ge0,a\le x\le b\\
+        \int^a_bf(x)dx=1\\
+        \text{For event }B=\{k<x<m\},P(B)=\int^m_kf(x)dx
+        $$
+
+      - The function `f` is called the probability density function (PDF) of the random variable `X`, `a <= X <= b` and we say that `X` is a continuous random variable
+
+        - We could write the range of random variable as `a < X <= b` or `a <= X < b` or `a < X < b` and it would all be the same range
+
+    - We can make a nonnegative function a density function by finding the constant of proportionality that makes it so
+
+    - The exponential family
+
+      - Suppose an event happens at a constant rate `λ`
+
+      - The random variable `X` measuring the time until the first event and the time between events is a random variable with range `[0, INF)` and has density function:
+
+        - $$
+          f(x)=\lambda e^{\lambda x},x\ge0
+          $$
+
+  -  Expectation, Variance, and Standard Deviation of a Discrete Random Variable
+
+    - For the continuous random variable `X` with domain in the real line equal to `[a, b]`:
+
+      - $$
+        \mu_X=E(X)=\int^b_axf(x)dx\\
+        E(X^k)=\int^b_ax^kf(x)dx\\
+        E(g(X))=\int^b_ag(x)f(x)dx\\
+        \sigma^2=E[(X-\mu_X)^2]=\int^b_a(X-\mu_X)^2f(x)dx=E(X^2)-[E(X)]^2
+        $$
+
+  - The Uniform Family
+
+    - A uniform random variable `X` on an interval `(a, b)` is a uniform random variable if its density function `f(x)` is constant on `(a, b)` and `0` elsewhere
+
+    - $$
+      f(x)=\frac{1}{b-a},a<x<b
+      $$
+
+  - Summary
+
+    - Continuous sample spaces need calculus for us to be able to answer the usual probability, expectations and other probability questions we have about experiments
+    - Review of expectation and variance, for continuous random variables
+      - Seeing the common threads between the discrete and the continuous
+      - We defined them in general, and illustrated the definitions with several examples
+
+- Cumulative Distributions
+
+  - Goals
+
+    - To be flexible: we use what we can , depending on what we know, always
+    - Define and calculate the cumulative distribution function given a density function
+    - Calculate probabilities using the CDF when it's known
+    - Define and calculate percentiles using the CDF
+    - Using the CDF as a method to find the distribution of a function of a random variable
+
+  - CDF of a Continuous Random Variable
+
+    - If `X` is a continuous random variable with density `f(x)`, then the cumulative distribution function is a function `F` from `R -> R` such that:
+
+      - $$
+        F(X)=Prob(X\le x)
+        $$
+
+    - The limit of `F(X)` as `X` goes to infinity is `1`, and as `X` goes to negative infinity is `0`
+
+    - Example:
+
+      - $$
+        f(x)=\lambda e^{-\lambda t}\\
+        F(x)=1-e^{\lambda x},x\ge0\\
+        P(a\le X\le b)=F(b)-F(a)
+        $$
+
+  - Property of the CMF of a Continuous Random Variable `x`
+
+    - The density is the derivative of the CDF with respect to `x`
+
+    - $$
+      f(x)=\frac{dF(x)}{dx}=\lambda e^{-\lambda t},x\ge 0
+      $$
+
+  - Percentiles
+
+    - We define the 100th percentile of a continuous variable `X` with domain `[a, b]` as the value `c` of the random variable such that:
+
+      - $$
+        F(c)=P(X\le c)=\int^c_af(x)dx=q
+        $$
+
+  - Density of Functions of a Continuous Random Variable
+
+    - Let `X` be a random variable with density `f(x)`
+    - Finding the expected value or variance of a linear function of a continuous random variable `g(x)` doesn't require knowing the probability distribution of `g(x)`; only the equation of `g(x)` is required and `f(x)`
+    - If we wanted to compute probabilities for the function fo the random variable, we will need the density of that function
+      - A more complicated topic is to find the actual density of that function of the random variable
+    - If `X` has a density function `f(X)`, and if `U` is some function of `X`, then we find `F(u) = P(U <= u)` directly by integrating `f(X)` over the region for which `U <= u`
+      - We can find the probability density function for `U` by differentiating `F(u)`
+
+  - Summary
+
+    - Defined and calculated the cumulative distribution function given a density function
+    - Calculated probabilities using the CDF when it's known
+    - Defined and calculated percentiles using the CDF
+    - Used the CDF as a method to find the distribution of a function of a random variable
+
+
+
+## Lecture 4:
 
 - 
 
