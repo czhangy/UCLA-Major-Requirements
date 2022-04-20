@@ -495,7 +495,46 @@
 
 
 
-## Lecture 4:
+## Lecture 4: Sampling
+
+- Random Sampling
+
+  - Besides avoiding bias, why is random sampling desirable
+    - Random sampling has properties that are well understood thanks to probability theory, whereas the properties of other methods are unknown
+
+  - Goal: to comprehend that we can be transparent only when we do random sampling because:
+    - We can use mathematical urn models to see the different in number of samples obtained with or without replacement
+    - We can calculate probability of an event when sampling with or without replacement
+    - We can calculate probability of obtaining a number of success when sampling with or without replacement
+
+
+  - Goal: to realize that a simple probability density function model can help us answer important questions, when we translate from everyday language to the more technical language of probability
+
+    - We will go through the type of activity that a data scientist would do to use probability to answer a research question
+
+  - Lognormal Probability Model for a Continuous Nonnegative Random Variable
+
+    - $$
+      f(y)=\frac{1}{y\sqrt{2\pi\sigma^2}}e^{-\frac{(\log y-\mu)^2}{2\sigma^2}},0<y\le\infty,\sigma>0\\
+      E(y)=e^{\mu+\frac{\sigma^2}{2}}\\
+      Var(y)=(e^{\sigma^2}-1)e^{2\mu+\sigma^2}
+      $$
+
+    - If the random variable `Y` is lognormally distributed with that expected value and that variance, then:
+
+      - $$
+        \log(y)\sim N(\mu,\sigma^2)
+        $$
+
+  - Process:
+
+    - Data
+    - Probability modeling of the whole population guided by the distribution of data
+    - Estimation of the population model and more probability models for property of the estimated model
+
+
+
+## Lecture 5:
 
 - 
 
