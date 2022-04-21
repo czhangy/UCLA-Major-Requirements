@@ -495,7 +495,7 @@
 
 
 
-## Lecture 4: Sampling
+## Lecture 4: Sampling, Poisson Model, and LOTUS
 
 - Random Sampling
 
@@ -508,29 +508,155 @@
     - We can calculate probability of obtaining a number of success when sampling with or without replacement
 
 
-  - Goal: to realize that a simple probability density function model can help us answer important questions, when we translate from everyday language to the more technical language of probability
+    - Goal: to realize that a simple probability density function model can help us answer important questions, when we translate from everyday language to the more technical language of probability
 
-    - We will go through the type of activity that a data scientist would do to use probability to answer a research question
+      - We will go through the type of activity that a data scientist would do to use probability to answer a research question
 
-  - Lognormal Probability Model for a Continuous Nonnegative Random Variable
 
-    - $$
-      f(y)=\frac{1}{y\sqrt{2\pi\sigma^2}}e^{-\frac{(\log y-\mu)^2}{2\sigma^2}},0<y\le\infty,\sigma>0\\
-      E(y)=e^{\mu+\frac{\sigma^2}{2}}\\
-      Var(y)=(e^{\sigma^2}-1)e^{2\mu+\sigma^2}
-      $$
+        - Lognormal Probability Model for a Continuous Nonnegative Random Variable
 
-    - If the random variable `Y` is lognormally distributed with that expected value and that variance, then:
+          - $$
+            f(y)=\frac{1}{y\sqrt{2\pi\sigma^2}}e^{-\frac{(\log y-\mu)^2}{2\sigma^2}},0<y\le\infty,\sigma>0\\
+            E(y)=e^{\mu+\frac{\sigma^2}{2}}\\
+            Var(y)=(e^{\sigma^2}-1)e^{2\mu+\sigma^2}
+            $$
 
-      - $$
-        \log(y)\sim N(\mu,\sigma^2)
-        $$
+          - If the random variable `Y` is lognormally distributed with that expected value and that variance, then:
+
+            - $$
+              \log(y)\sim N(\mu,\sigma^2)
+              $$
+
+
 
   - Process:
 
-    - Data
-    - Probability modeling of the whole population guided by the distribution of data
-    - Estimation of the population model and more probability models for property of the estimated model
+      - Data
+        - Probability modeling of the whole population guided by the distribution of data
+        - Estimation of the population model and more probability models for property of the estimated model
+
+- The Poisson Model
+
+  - Goal: increase awareness of how the same probability models that tell us probabilities of events under usual random conditions can help us detect anomalies and appreciate the combination of models to solve more complex problems
+
+    - Learn how to identify a Poisson experiment
+    - Learn the formula for the Poisson probability model, its expectation, variance, moment generating function, expectations of functions of a Poisson random variable
+      - Combining the Poisson with other models
+
+    - Learn to determine when we are talking about a Poisson extended period
+
+  - Poisson random variables are present in uniform distributions
+
+  - When a count per unit of time or space is not a Poisson random variable
+
+    - Epidemics, contagion: the occurrence of one case of mumps increases the probability of seeing another case nearby
+      - Event occurrences clustered together
+
+    - Overdispersion: event occurrences more dispersed than expected
+      - e.g., seeing a territorial animal decreases the probability of seeing another animal nearby
+
+  - The Poisson Random Variable
+
+    - Probability Mass Function:
+
+      - $$
+        P(Y=y)=\frac{\lambda^ye^{-\lambda}}{y!},y=0,1,2,...,\lambda>0\\
+        E(Y)=\lambda,Var(Y)=\lambda
+        $$
+
+      - `λ` is the parameter of the Poisson model
+
+        - Affects the location of the distribution and its shape
+
+  - The grid for which we know the rate could be time, space, volume, distance, etc.
+
+    - Examples:
+      - The number of calls to an office telephone per business hour
+      - The number of atoms decaying per sample of some radioactive substance
+      - The number of mutations carried per individual in a population
+      - The number of seeds successfully germinated per mother plant
+      - The number of failures per power plant pump
+
+  - Poisson Extended Period
+
+    - Example:
+      - Suppose they tell us that the `X`, number of people entering a hospital per hour, is expected to be 2
+        - `λ = 2` for the Poisson model
+
+      - But they ask us for the probability that a total of 3 people enter in 2 hours
+        - In this case, the model to use is the model for `Y` = number of people entering per 2 hours
+          - `λ = 4` for this model
+
+    - In a Poisson extended period, the new `λ` is proportional to the old `λ`
+
+  - Summary
+
+    - Distinguished between when a Poisson model makes sense to use as a model and when it does not make sense to use it
+    - Learned the formula of the Poisson PMF, its expectation, variance, and used it to solve simple and complex problems
+    - Learned what Poisson extended period is and applied the concept
+
+- LOTUS
+
+  - $$
+    E(g(x))=\sum_xg(x)P(x)\\
+    E(g(x))=\int_xg(x)f(x)dx
+    $$
+
+  - Allows for the discovery of:
+
+    - The linearity of the expected operator
+    - A particular property of variance
+
+  - Linearity of Expected Operator
+
+    - Discrete Case:
+
+      - $$
+        g(x) = a + bx\\
+        E(g(x))=\sum_x(a+bx)P(x)\\
+        E(g(x))=\sum_xaP(x)+\sum_xbxP(x)\\
+        E(g(x))=a\sum_xP(x)+b\sum_xxP(x)\\
+        E(g(x))=a+bE(x)
+        $$
+
+    - Continuous Case:
+
+      - $$
+        g(x)=a+bx
+        E(g(x))=\int_x(a+bx)f(x)fx\\
+        E(g(x))=\int_xaf(x)dx+\int_xbxf(x)dx\\
+        E(g(x))=a\int_xf(x)dx+b\int_xxf(x)dx\\
+        E(g(x))=a+bE(x)
+        $$
+
+  - Variance Shortcut
+
+    - $$
+      Var(x)=E(x^2)-\mu_x^2
+      $$
+
+      - $$
+        \sigma_x^2=E[(x-\mu_x)^2]=E[(x^2+\mu_x^2-2\mu_xx)]\\
+        \sigma_x^2=\sum_x(x^2+\mu_x^2-2\mu_xx)P(x)\\
+        \sigma_x^2=\sum_xx^2P(x)+\sum_x\mu_x^2P(x)-\sum_x2\mu_xxP(x)\\
+        \sigma_x^2=E(x^2)+\mu_x^2\sum_xP(x)-2\mu_x\sum_xxP(x)\\
+        \sigma_x^2=E(x^2)+\mu_x^2-2\mu_x(\mu_x)=E(x^2)-\mu_x^2
+        $$
+
+    - $$
+      Var(a+bx)
+      $$
+
+      - $$
+        Var(a+bx)=\sum_x(a+bx-E(a+bx))^2P(x)\\
+        Var(a+bx)=\sum_x(a+bx-(a+\mu_x))^2P(x)\\
+        Var(a+bx)=\sum_x(b(x-\mu_x))^2P(x)\\
+        Var(a+bx)=\sum_xb^2(x-\mu_x)^2P(x)=b^2\sum_x(x-\mu_x)^2P(x)\\
+        Var(a+bx)=b^2Var(x)
+        $$
+
+    - 
+
 
 
 
