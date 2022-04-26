@@ -654,8 +654,234 @@
 
 
 
+## Lecture 5: Discrete Models
 
-## Lecture 5:
+- The Binomial Model
+
+  - Goal: to understand how useful probability models are to guide us in the modeling of random variables found in research
+
+    - Define a Bernoulli random variable and its expected value and variance
+    - Define the Binomial random variable and its expected value and variance
+    - Use the Binomial model when the parameter is known to answer questions
+    - Have a framework for conducting empirical analysis of a random variable that can be modeled with the Binomial model
+
+  - Bernoulli Random Variables
+
+    - Have a value of either 0 or 1 (is binary)
+
+      - $$
+        P(X=x)=\begin{cases}1-p,&x=0\\p,&x=1\end{cases}
+        $$
+
+    - If the variable has a probability `p` to have a value of 1:
+
+      - $$
+        \mu_x=E(X)=\sum_xxP(X=x)=0(1-p)+1(p)=p\\
+        \sigma_x^2=Var(X)=E[(X-\mu_x)^2]=\sum_x(x-\mu_x)^2P(x)=(0-p)^2(1-p)+(1-p)^2(p)\\
+        =p(1-p)
+        $$
+
+    - We say that `X ~ Ber(p)`
+
+  - Binomial Model
+
+    - $$
+      P(X=x)={n\choose x}p^xq^{n-x},x=0,1,2,...,n
+      $$
+
+      - `n` is the length of the sequence (the sample size)
+      - `p` is the probability of success in each trial of the sequence
+
+    - Assume:
+
+      - All sequences in the sample space `S` have the same number of trials
+      - `p` is the same in each of the `n` trials in the sequence
+      - Independent Bernoulli trials (binary outcome in each independent trial)
+
+    - $$
+      E(X)=\sum_xxP(X=x)=\sum_xx{n\choose x}p^xq^{n-x}=np\\
+      Var(X)=\sum_x(x-\mu_x)^2{n\choose x}p^xq^{n-x}=nqp
+      $$
+
+      - `q = 1 - p`
+
+    - Be aware that with a large enough sample, you could approximate the Binomial model with a Gaussian distribution
+
+  - Summary
+
+    - We defined a Bernoulli random variable and its expected value and variance because a Binomial is a sequence of Bernoullis
+    - We defined the Binomial random variable and its expectation and variance
+      - The proof of the latter will be done separately
+
+    - We were able to use the Bernoulli and Binomial when their parameters are known to answer questions
+    - We acknowledged that the estimates of the parameters of the binomial obtained with data sampling are not the true parameters
+
+- The Hypergeometric Model
+
+  - Combinations Formula:
+
+    - $$
+      {n\choose x}=\frac{n!}{x!(n-x)!}
+      $$
+
+  - Relevant when the trials are not independent => probability of success changes from trial to trial
+
+    - Ex) picking without replacement
+
+  - Suppose:
+
+    - We are randomly sampling `n` objects without replacement from a source that contains `a` successes and `N - a` failures
+    - `X` represents the number of successes in the sample
+
+  - $$
+    P(X=x)=\frac{{a\choose x}{N-a\choose n-x}}{N\choose n}\\
+    \text{for }x=\text{Max}(0,n+a-N),...,\text{Min}(a,n)
+    $$
+
+  - $$
+    E(X)=n\times\frac{a}{N}\\
+    Var(X)=\frac{na}{N}\times(1-\frac{a}{N})\times\frac{N-n}{N-1}
+    $$
+
+  - The binomial distribution can sometimes provide a reasonable approximation to the hypergeometric
+
+    - Rough guideline: if we are not sampling more than 5% of the population, the binomial provides a reasonable approximation
+
+- The Geometric Model
+
+  - Goals:
+
+    - Define a geometric random variable and know its expected value and variance
+    - Use the geometric PMF when the parameter is known to predict events
+    - Have a framework for conducting empirical analysis of a random variable that can be modeled with the geometric probability model
+
+  - Model the random variable with a geometric PMF
+
+    - Let `Y` be the number of Bernoulli trials it takes to find the first success
+    - Note that the sequences of Bernoulli trials all have different length
+
+  - $$
+    P(Y=k)=(1-p)^{k-1}p,y=1,2,...
+    $$
+
+    - `p` is the same in each of the trials in the sequence
+    - Independent Bernoulli trials (binary outcome in each independent trial)
+
+  - $$
+    E(Y)=\frac{1}{p}\\
+    Var(Y)=\frac{1-p}{p^2}
+    $$
+
+  - Summary
+
+    - Defined a geometric random variable and will know its expected value and variance
+    - Used the geometric PMF when the parameter is known to predict events
+    - Got a framework for conducting empirical analysis of a random variable that can be modeled with the geometric probability model
+
+- The Negative Binomial Model
+
+  - Goals
+
+    - Define a negative binomial random variable and will know its expected value and variance
+    - Use the distribution when the parameter is known to predict events
+    - Have a framework for conducting empirical analysis of a random variable that can be modeled with the negative binomial probability model
+
+  - Model the random variable with a negative binomial PMF
+
+    - Let `Y` be the number of Bernoulli trials it takes to find the first `r` successes
+
+  - $$
+    P(Y=y)={y-1\choose r-1}p^r(1-p)^{y-r},y=r,r+1,...
+    $$
+
+    - `p` is the same in each of the trials in the sequence
+    - Independent Bernoulli trials (binary outcome in each independent trial)
+
+  - $$
+    E(Y)=\frac{r}{p}\\
+    Var(Y)=\frac{r(1-p)}{p^2}
+    $$
+
+  - Summary
+
+    - Able to define a negative binomial random variable and know its expected value and variance
+    - Able to use the distribution when the parameter is known to predict probabilities of events
+    - Have a framework for conducting empirical analysis of a random variable that can be modeled with the negative binomial probability model
+
+- The Gaussian Model
+
+  - Goal: become aware of the important role the Gaussian model plays in measuring uncertainty when many factors are determining the value of a random variable and as an approximation to the binomial model
+
+    - Indicate when the Gaussian density function is an appropriate model to measure uncertainty
+    - State, without proof, the expected value and variance of a Gaussian random variable
+    - Learn to calculate probabilities and percentiles for the Gaussian model using the Rossman/Chance app
+    - Learn to convert any normal to a standard normal density and to express the value of a normal random variable in standard deviation units
+    - Learn to apply the theoretical things learned to different contexts where the Gaussian density model is appropriate to measure our uncertainty
+
+  - The Normal Random Variable
+
+    - A random value is normal or Gaussian with parameters `μ` and `σ^2` if its probability density function is given by:
+
+      - $$
+        f(x)=\frac{1}{\sqrt{2\pi\sigma^2}}e^{\frac{(x-\mu)^2}{2\sigma^2}},-\infty<x<\infty,-\infty<\mu<\infty,\sigma>0
+        $$
+
+    - Features:
+
+      - Bell-shaped and symmetrical
+      - Mean, median, and mode are equal
+      - Location is determined by the mean, `μ`
+      - Spread is determined by the standard deviation, `σ`
+      - The random variable has an infinite theoretical range: `-INF` to `INF`
+
+  - The Empirical Rule
+
+    - 68% of the distribution lies within one standard deviation of the mean
+    - 95% of the distribution lies within two standard deviations of the mean
+    - 99.7% of the distribution lies within three standard deviations of the mean
+
+  - Recall that for any random variable with nonzero density in the domain `[a, b]`:
+
+    - $$
+      \mu_x=E(X)=\int^b_axf(x)dx\\
+      E(X^k)=\int^b_ax^kf(x)dx\\
+      E(g(X))=\int^b_ag(x)f(x)dx\\
+      \sigma^2=E[(X-\mu_X)^2]=\int^b_a(X-\mu)^2f(x)dx=E(X^2)-\mu^2
+      $$
+
+    - Since the domain of a Gaussian is `[-INF, INF]`, we integrate from `-INF` to `INF`
+
+  - Finding probabilities of normal random variables
+
+    - Not easy mathematically, must be estimated
+
+  - The Standard Normal Density
+
+    - A normal distribution with mean 0 and variance 1
+
+    - If we standardize a normal random variable `X` with parameters `μ` and `σ` in the following way:
+
+      - $$
+        Z=\frac{X-\mu}{\sigma}
+        $$
+
+    - The new standardizes normal random variable `Z` follows a standard normal distribution with `μ = 0` and standard deviation `σ = 1`
+
+    - The advantages of presenting the information in `Z` version is that the measurement is then in standard deviations from the mean
+
+  - Normal Approximation to the Binomial
+
+    - If the sample size `n` is large and value of `p` is such that:
+
+      - $$
+        np>10\quad n(1-p)>10
+        $$
+
+- 
+
+
+
+## Lecture 6:
 
 - 
 
