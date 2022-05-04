@@ -877,11 +877,158 @@
         np>10\quad n(1-p)>10
         $$
 
-- 
+
+
+## Lecture 6: Vector Random Variables
+
+- Vector Random Variables: Introduction
+
+  - Goal: to realize that more useful knowledge and predictive power is gained when we acknowledge the vector (multivariate) nature of information and use it according to the laws of probability
+
+    - Construct joint bivariate discrete probability mass functions directly from a sample space
+    - Calculate the total probability mass functions from a table of a joint PMF
+    - Calculate total expectations, variance, and standard deviation
+    - Define and determine independence of two discrete random variables in a table
+    - Doing all of the above with both tables and formulas
+
+  - Review: Total and Joint Probabilities
+
+    - Ex) the factory with defective parts
+    - We will do the same for other contexts, but the events will be values of random variables, numerical values that will allow us to put together different PMFs
+
+  - Joint Probability Mass Function for a Vector Random Variable
+
+    - Definition: let `X` and `Y` be discrete random variables, then the probability mass function of `X` and `Y` is given by:
+
+      - $$
+        P(x,y)=P(X=x,Y=y)\begin{cases}P(x,y)\ge0\\\sum\sum P(x,y)=1\end{cases}
+        $$
+
+      - Defined for all real numbers `x` and `y`
+
+    - Can be given as a formula as well
+
+      - Example:
+
+        - $$
+          P(X=x,Y=y)=\frac{1}{32}(x^2+y^2)
+          $$
+
+
+      - You may construct a table from a formula, but you would not do that if `X` or `Y` can take 1000 values
+        - The formula would be much easier to work with
+        - Abstraction with mathematics is there just to help us when things get too big to handle them as we would with a few numbers
+
+  - Building a Join PMF to answer a research question
+
+    - Ex) on randomly chosen Mondays, observe independent work-study students that may show up or not show up to work their shift
+
+    - Methodology:
+
+      - First think of what we might observe doing the random experiment
+
+        - The sample space
+        - Define your notation
+
+      - Define the random variables of interest in our research question
+
+      - Calculate the probability of each outcome
+
+      - Summarize in one single joint PMF for `X` and `Y`
+
+        - $$
+          P(x,y)=P(X=x,Y=y)=\sum P(\{o_i\}\in S|X(o_i)=x\text{ and }Y(o_i)=y)
+          $$
+
+  - Extract as Much Information as We Can from the Joint PMF
+
+    - Add across each row to obtain total probability of `X`
+    - Add down each column to obtain total probability of `Y`
+    - Use what we learned about univariate discrete PMFs to calculate expected value, variance, and standard deviation
+
+  - Independence of 2 Discrete Random Variables
+
+    - Definition: two discrete random variables `X` and `Y` are independent if the events `(X = x)` and `(Y = y)` are independent, i.e., if:
+
+      - $$
+        P(X=x,Y=y)=P(X=x)P(Y=y)\text{ for all }x\text{ and }y
+        $$
+
+    - If the condition doesn't hold for one pair, then we can conclude that they're not independent
+
+      - If the condition holds for the first pair we try, then we must continue checking more pairs
+
+  - If the Joint PMF is Given by a Formula, then Less Work Needs to be Done
+
+    - We just need definitions of total probability mass function and review of the summation operator
+
+    - Example:
+
+      - $$
+        P(X=x,Y=y)=\frac{1}{32}(x^2+y^2)\\
+        P(X)=\sum_yP(X,y)=\sum_y[\frac{1}{32}(x^2)]+\sum_y[\frac{1}{32}(y^2)]=\frac{2}{32}(x^2)+\frac{1}{32}\\
+        P(Y)=\sum_xP(x,Y)=\sum_x[\frac{1}{32}(x^2)]+\sum_x[\frac{1}{32}(y^2)]=\frac{14}{32}+\frac{4}{32}(y^2)
+        $$
+
+      - Using the definitions of expectation and variance, and properties of the summation operator, we can find:
+
+        - $$
+          \mu_x=E(X)=\sum_xxP(X=x)=\sum_x(\frac{2}{32}(x^3)+\frac{1}{32}x)=\frac{86}{32}=2.6875\\
+          \sigma_x^2=Var(X)=\sum_x(x-2,6875)^2P(X=x)=\sum_x(x-2.6875)^2(\frac{2}{32}(x^2)+\frac{1}{32})\\
+          =0.6836\\
+          \sigma_x=\sqrt{0.6836}=0.8268
+          $$
+
+- Vector Random Variables: Conditional Probabilities
+
+  - Goal: to realize that a conditional probability mass function is more accurate than an unconditional one when independence doesn't hold
+
+    - How to use the joint bivariate discrete probability mass function table of two non-independent random variables, and the total probability mass function, to calculate the conditional probability mass functions for relevant subgroups
+    - To calculate conditional expectations, variance, and standard deviation
+    - To do all of the above but instead of using tables, using formulas
+    - To construct joint PMFs given the unconditional PMFs of two independent random variables
+
+  - Start with the Joint and Total PMFs
+
+    - The total probability mass function is also called marginal probability, or prior probability, or unconditional probability mass function
+      - Plainly speaking, it is called "the probability mass function when we have no additional information that allows us to be more specific"
+
+    - If `X` and `Y` are not independent, then we need to be more precise in stating our probabilities of events corresponding to `X` and `Y`
+      - Ex) "what is the probability of event `{ Y = 2 }` when `{ X  = 0 }` is true?"
+
+  - Since `X` and `Y` are Not Independent, Calculate the Conditional PMF of `Y`
+
+    - $$
+      P(Y|X=x)=\frac{P(X=x\text{ and }Y)}{P(X=x)}
+      $$
+
+    - Notice that the conditional probabilities of `Y | X = 0` are not the same as the total probabilities
+
+      - This happens when `X` and `Y` are not independent
+
+  - Conditional Expectation, Conditional Variance, and Conditional Standard Deviation
+
+    - $$
+      E(Y|X=x)=\sum_yyP(Y|X=x)\\
+      Var(Y|X=x)=\sum_y(y-E(Y))^2P(Y|X=x)
+      $$
+
+  - We Can Calculate Many More Conditional PMFs
+
+  - If the Joint PMF is Given as a Formula, Less Work Needs to be Done
+
+    - First find the general function
+    - Then specialize it to the desired value
+
+  - What Would the Conditional Probability Mass Function be if Two Discrete Random Variables `X` and `Y` are Independent?
+
+    - First find the joint PMF
+      - Since `X` and `Y` are independent, we can calculate the joint PMF by multiplying the probabilities found in the unconditional PMF
 
 
 
-## Lecture 6:
+
+## Lecture 7:
 
 - 
 
