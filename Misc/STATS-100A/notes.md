@@ -913,13 +913,12 @@
         - $$
           P(X=x,Y=y)=\frac{1}{32}(x^2+y^2)
           $$
-
-
-      - You may construct a table from a formula, but you would not do that if `X` or `Y` can take 1000 values
+    
+    - You may construct a table from a formula, but you would not do that if `X` or `Y` can take 1000 values
         - The formula would be much easier to work with
         - Abstraction with mathematics is there just to help us when things get too big to handle them as we would with a few numbers
 
-  - Building a Join PMF to answer a research question
+- Building a Joint PMF to answer a research question
 
     - Ex) on randomly chosen Mondays, observe independent work-study students that may show up or not show up to work their shift
 
@@ -940,13 +939,13 @@
           P(x,y)=P(X=x,Y=y)=\sum P(\{o_i\}\in S|X(o_i)=x\text{ and }Y(o_i)=y)
           $$
 
-  - Extract as Much Information as We Can from the Joint PMF
+- Extract as Much Information as We Can from the Joint PMF
 
     - Add across each row to obtain total probability of `X`
     - Add down each column to obtain total probability of `Y`
     - Use what we learned about univariate discrete PMFs to calculate expected value, variance, and standard deviation
 
-  - Independence of 2 Discrete Random Variables
+- Independence of 2 Discrete Random Variables
 
     - Definition: two discrete random variables `X` and `Y` are independent if the events `(X = x)` and `(Y = y)` are independent, i.e., if:
 
@@ -958,7 +957,7 @@
 
       - If the condition holds for the first pair we try, then we must continue checking more pairs
 
-  - If the Joint PMF is Given by a Formula, then Less Work Needs to be Done
+- If the Joint PMF is Given by a Formula, then Less Work Needs to be Done
 
     - We just need definitions of total probability mass function and review of the summation operator
 
@@ -1024,6 +1023,123 @@
 
     - First find the joint PMF
       - Since `X` and `Y` are independent, we can calculate the joint PMF by multiplying the probabilities found in the unconditional PMF
+
+- Joint Behavior of Two Continuous Random Variables
+
+  - Goal: to realize that by adding calculus to our bag of tools, we can generalize the concepts learned for discrete vector random variables to continuous vector random variables
+
+    - Be able to calculate the joint probability of an event involving values of two continuous random variables using the joint probability density function
+    - Be able to extract from the joint PDF the unconditional univariate PDFs
+    - Be able to calculate unconditional expectations and variance
+    - Be able to determine whether two continuous random variables are independent
+
+  - Joint Probability of Two Continuous Random Variables
+
+    - If `X` and `Y` are two continuous random variables, then the joint probability that values of `X` and `Y` lie in an interval `B` of the plane is calculated by the volume under the joint density function in that region
+
+      - If region `B` is defined by intervals `a1, a2` for `X` and interval `b1, b2` for `Y`, then
+
+        - $$
+          P(a_1\le X\le a_2,b_1\le Y\le b_2)=\int^{a_2}_{a_1}\int^{b_2}_{b_1}f(x,y)dxdy
+          $$
+
+        - Where `f(x, y)` is the joint density function of `X` and `Y`, a nonnegative joint density function with volume under it throughout equal to `1`
+
+  - Unconditional PDF of `X` and `Y`, `f(X)` and `f(Y)`
+
+    - $$
+      f(x)=\int^{\infty}_{-\infty}f(x,y)dy\\
+      f(y)=\int^{\infty}_{-\infty}f(x,y)dx
+      $$
+
+    - The integration will be done over the domain of the corresponding variable, not necessarily infinity
+
+      - We must watch out for the domain to find the densities correctly
+
+  - Unconditional Expectations and Variance
+
+    - $$
+      \mu_x=E(X)=\int^{\infty}_{-\infty}xf(x)dx\\
+      \sigma_x^2=\int^{\infty}_{-\infty}(x-\mu_x)^2f(x)dx=E(x^2)=[E(x)]^2\\
+      \mu_y=E(Y)=\int^{\infty}_{-\infty}yf(y)dy\\
+      \sigma_y^2=\int^{\infty}_{-\infty}(y-\mu_y)^2f(y)dy=E(y^2)=[E(y)]^2\\
+      $$
+
+    - The integration will be done over the domain of the corresponding variable, not necessarily infinity
+
+      - We must watch out for the domain to find the densities correctly
+
+  - Independence of Two Continuous Random Variables
+
+    - Two continuous random variables `X` and `Y` are independent if:
+
+      - $$
+        f(x,y)=f(x)f(y)
+        $$
+
+  - Example: predicting the proportion of samples with certain amounts of total and type I impurities
+
+    - Problem:
+
+      - A certain process for production of an industrial chemical yields a product that contains two main types of impurities
+
+      - For a certain volume of sample from this process, let `X` denote the proportion of total impurities in the sample, and let `Y` denote the proportion of type I impurities among all impurities found
+
+      - Suppose that under investigation of many such samples, the joint distribution of `X` and `Y` can be adequately modeled by the following joint density function:
+
+        - $$
+          f(x,y)=\begin{cases}2(1-x),&0\le x\le1,0\le y\le1\\0&\text{elsewhere}\end{cases}
+          $$
+
+      - Find the proportion of samples having less than 50% impurities and proportion of type I impurities between 40% and 70%
+
+        - $$
+          P(x\le0.5,0.4\le y\le0.7)
+          $$
+
+    - Process:
+
+      - $$
+        P(x\le0.5,0.4\le y\le0.7)\\
+        =\int^{0.7}_{0.4}\int^{0.5}_02(1-x)dxdy\\
+        =\int^{0.7}_{0.4}[2x-x^2]^{0.5}_0dy\\
+        =\int^{0.7}_{0.4}0.75dy\\
+        =0.75y|^{0.7}_{0.4}=0.75(0.3)=0.225
+        $$
+
+    - Unconditional Probability Density Functions:
+
+      - $$
+        f(x)=\int^{\infty}_{-\infty}f(x,y)dy\\
+        =\int^1_02(1-x)dy\\
+        =2(1-x),0\le x\le1\\
+        f(y)=\int^{\infty}_{-\infty}f(x,y)dx\\
+        =\int^1_02(1-x)dx\\
+        =(2x-x^2)^1_0\\
+        =1,0\le y\le1\\
+        $$
+
+
+- Joint Behavior of Many Continuous Random Variables
+
+  - If `xi` is continuous and independent:
+
+    - $$
+      f(x_1,x_2,...,x_n)=f(x_1)f(x_2)...f(x_n)
+      $$
+
+  - If `xi` is discrete and independent:
+
+    - $$
+      P(x_1, x_2,...,x_n)=P(x_1)P(x_2)...P(x_n)
+      $$
+
+  - If `x1, x2, ..., xn` are independent continuous and `f(x1) = f(x2) = ... = f(xn)`, then we say that they are independent, identically distributed (IID)
+
+  - Examples:
+
+    - Number of people per square meter in a mall
+    - Time it takes a plane to reach flying altitude after take off
 
 
 
