@@ -41,8 +41,8 @@
 
 ## Exams
 
-|  Exam   | Score |
-| :-----: | :---: |
-| Midterm |  ???  |
-|  Final  |  ???  |
+|  Exam   |   Score   |
+| :-----: | :-------: |
+| Midterm | 95.12/100 |
+|  Final  |    ???    |
 
