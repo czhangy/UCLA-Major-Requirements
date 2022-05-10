@@ -939,44 +939,43 @@
           P(x,y)=P(X=x,Y=y)=\sum P(\{o_i\}\in S|X(o_i)=x\text{ and }Y(o_i)=y)
           $$
 
-- Extract as Much Information as We Can from the Joint PMF
+    - Extract as Much Information as We Can from the Joint PMF
 
-    - Add across each row to obtain total probability of `X`
-    - Add down each column to obtain total probability of `Y`
-    - Use what we learned about univariate discrete PMFs to calculate expected value, variance, and standard deviation
+      - Add across each row to obtain total probability of `X`
+      - Add down each column to obtain total probability of `Y`
+      - Use what we learned about univariate discrete PMFs to calculate expected value, variance, and standard deviation
+    - Independence of 2 Discrete Random Variables
 
-- Independence of 2 Discrete Random Variables
-
-    - Definition: two discrete random variables `X` and `Y` are independent if the events `(X = x)` and `(Y = y)` are independent, i.e., if:
-
-      - $$
-        P(X=x,Y=y)=P(X=x)P(Y=y)\text{ for all }x\text{ and }y
-        $$
-
-    - If the condition doesn't hold for one pair, then we can conclude that they're not independent
-
-      - If the condition holds for the first pair we try, then we must continue checking more pairs
-
-- If the Joint PMF is Given by a Formula, then Less Work Needs to be Done
-
-    - We just need definitions of total probability mass function and review of the summation operator
-
-    - Example:
-
-      - $$
-        P(X=x,Y=y)=\frac{1}{32}(x^2+y^2)\\
-        P(X)=\sum_yP(X,y)=\sum_y[\frac{1}{32}(x^2)]+\sum_y[\frac{1}{32}(y^2)]=\frac{2}{32}(x^2)+\frac{1}{32}\\
-        P(Y)=\sum_xP(x,Y)=\sum_x[\frac{1}{32}(x^2)]+\sum_x[\frac{1}{32}(y^2)]=\frac{14}{32}+\frac{4}{32}(y^2)
-        $$
-
-      - Using the definitions of expectation and variance, and properties of the summation operator, we can find:
+      - Definition: two discrete random variables `X` and `Y` are independent if the events `(X = x)` and `(Y = y)` are independent, i.e., if:
 
         - $$
-          \mu_x=E(X)=\sum_xxP(X=x)=\sum_x(\frac{2}{32}(x^3)+\frac{1}{32}x)=\frac{86}{32}=2.6875\\
-          \sigma_x^2=Var(X)=\sum_x(x-2,6875)^2P(X=x)=\sum_x(x-2.6875)^2(\frac{2}{32}(x^2)+\frac{1}{32})\\
-          =0.6836\\
-          \sigma_x=\sqrt{0.6836}=0.8268
+          P(X=x,Y=y)=P(X=x)P(Y=y)\text{ for all }x\text{ and }y
           $$
+
+      - If the condition doesn't hold for one pair, then we can conclude that they're not independent
+
+        - If the condition holds for the first pair we try, then we must continue checking more pairs
+
+    - If the Joint PMF is Given by a Formula, then Less Work Needs to be Done
+
+      - We just need definitions of total probability mass function and review of the summation operator
+
+      - Example:
+
+        - $$
+          P(X=x,Y=y)=\frac{1}{32}(x^2+y^2)\\
+          P(X)=\sum_yP(X,y)=\sum_y[\frac{1}{32}(x^2)]+\sum_y[\frac{1}{32}(y^2)]=\frac{2}{32}(x^2)+\frac{1}{32}\\
+          P(Y)=\sum_xP(x,Y)=\sum_x[\frac{1}{32}(x^2)]+\sum_x[\frac{1}{32}(y^2)]=\frac{14}{32}+\frac{4}{32}(y^2)
+          $$
+
+        - Using the definitions of expectation and variance, and properties of the summation operator, we can find:
+
+          - $$
+            \mu_x=E(X)=\sum_xxP(X=x)=\sum_x(\frac{2}{32}(x^3)+\frac{1}{32}x)=\frac{86}{32}=2.6875\\
+            \sigma_x^2=Var(X)=\sum_x(x-2.6875)^2P(X=x)=\sum_x(x-2.6875)^2(\frac{2}{32}(x^2)+\frac{1}{32})\\
+            =0.6836\\
+            \sigma_x=\sqrt{0.6836}=0.8268
+            $$
 
 - Vector Random Variables: Conditional Probabilities
 
