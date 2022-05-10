@@ -1144,7 +1144,186 @@
 
 
 
-## Lecture 7:
+## Lecture 7: Correlation
+
+- Bivariate Discrete Random Variables: Correlation
+
+  - If two random variables are not independent, how related are they?
+
+    - The answer to this question, if the two variables are linearly related, is given by the correlation coefficient
+
+      - $$
+        \rho_{X,Y}=\frac{Cov(X,Y)}{\sqrt{Var(X)}\sqrt{Var(Y)}}
+        $$
+
+      - $$
+        Cov(X,Y)=E[(X-\mu_x)(Y-\mu_y)]=\sum_x\sum_y[(x-\mu_x)(y-\mu_y)]P(X=x,Y=y)
+        $$
+
+  - Goal: calculate the correlation between two discrete random variables that have a linear relation
+
+    - Be able to calculate the covariance between two random variables directly from a joint PMF table, using as an example, the restaurant menu and the couple
+    - Be able to calculate the correlation coefficient directly from the joint PMF table
+    - Calculate covariance and correlation when the joint PMF is a function
+
+  - If `X` and `Y` are not independent, then it makes sense to study the correlation
+
+    - We start by calculating the covariance
+
+      - We need the expected values of `X` and `Y` for covariance, so we must start by calculating those
+
+      - We also need the variances of `X` and `Y` for correlation, so we calculate those next
+
+      - Next, we must calculate the following for each cell of the joint probability table and then sum up the results:
+
+        - $$
+          [(x-\mu_x)(y-\mu_y)]P(x,y)
+          $$
+
+      - Finally, we plug in the covariance and solve
+
+      - Note that correlation and covariance can both be negative values
+
+  - Interpretation of the correlation coefficient
+
+    - Closer to `+1`: stronger positive relation
+    - Closer to `0`: very little linear relation
+    - Closer to `-1`: stronger negative relation
+
+  - If the joint PMF is given by a formula, we use the formula instead of a table
+
+    - Example: the joint PMF of `X` and `Y` is given by:
+
+      - $$
+        P(X=x,Y=y)=\frac{1}{32}(x^2+y^2),x=0,1,2,3\text{ and }y=0,1
+        $$
+
+      - $$
+        \mu_x=2.6875\\
+        \mu_y=0.5625\\
+        \sigma_x^2=0.6836\\
+        \sigma_y^2=0.2461
+        $$
+
+      - $$
+        Cov(X,Y)=\sum_x\sum_y[(x-2.6875)(y-0.5625)]\frac{1}{32}(x^2+y^2)=-0.0586
+        $$
+
+        - Plug in values from the function's discrete domain
+
+      - $$
+        \rho_{X,Y}=\frac{-0.0586}{\sqrt{0.6836}\sqrt{0.2461}}=-0.1428
+        $$
+
+  - If two discrete random values are not independent, how strong is the relation?
+
+    - Depends on the joint PMF
+
+- Bivariate Continuous Random Variables: Conditional Densities and Correlation
+
+  - Calculate expectations and variances as before
+
+  - Calculate covariance as follows:
+
+    - $$
+      E(xy)=\int_{x_1}^{x_2}\int_{y_1}^{y_2}(xy)f(x,y)dydx
+      $$
+
+    - $$
+      Cov(x,y)=E(xy)-E(x)E(y)
+      $$
+
+  - Calculate correlation as before
+
+- The Bivariate Gaussian Distribution
+
+  - Goal: introduction to the world of regression analysis by figuring out where the regression line comes from
+
+    - Joint bivariate normal and its multivariate matrix notation
+    - Marginal distributions derived from a joint bivariate normal, which are univariate normal
+    - Conditional distributions derived from a joint bivariate normal, which are univariate normal; finding probabilities; the regression line
+    - The multinomial probability mass function
+
+  - The Joint Bivariate Normal Density Function
+
+    - $$
+      f(x,y)=\frac{1}{2\pi\sigma_x\sigma_y\sqrt{1-\rho^2}}\text{exp}\{{-\frac{1}{2(1-\rho^2)}[(\frac{x-\mu_x}{\sigma_x})^2+(\frac{y-\mu_y}{\sigma_y})^2-2\rho(\frac{x-\mu_x}{\sigma_x})(\frac{y-\mu_y}{\sigma_y})]}\}
+      $$
+
+  - An Exception to `Cov(X, Y)`: The Independence Rule
+
+    - If 2 random vairbales are independent, the covariance is `0` and so is the correlation
+      - In general, covariance `0` doesn't imply independence
+
+    - If `X` and `Y` follow a bivariate normal density, `Cov(X, Y) = 0` implies independence
+
+  - Generalization: Multivariate Normal
+
+    - In general, we say a `p`-dimensional vector random variable `Y` has a multivariate normal distribution if its density is given by:
+
+      - $$
+        f(y|\mu,\Sigma)=(2\pi)^{-\frac{p}{2}}|\Sigma|^{-\frac{1}{2}}\text{exp}\{-(y=\mu)^T\Sigma^{-1}(y-\mu)/2\}\\
+        y=\begin{pmatrix}y_1\\y_2\\.\\.\\y_p\end{pmatrix},\quad\mu_y=\begin{pmatrix}\mu_1\\\mu_2\\.\\.\\\mu_p\end{pmatrix},\quad\Sigma=\begin{pmatrix}\sigma^2_1&\sigma_{1,2}&...&\sigma_{1,p}\\\sigma_{2,1}&\sigma_2^2&...&\sigma_2^p\\.&.&&.\\.&.&&.\\\sigma_{p,1}&...&...&\sigma_p^2\end{pmatrix}
+        $$
+
+  - Marginal Densities
+
+    - $$
+      f(x)\sim N(\mu_x,\sigma_x)\quad f(y)\sim N(\mu_y,\sigma_y)
+      $$
+
+    - $$
+      f(x)=\int_{-\infty}^{\infty}f(x,y)dy=\frac{1}{\sqrt{2\pi\sigma_x^2}}\text{exp}\{-\frac{1}{2\sigma_x^2}(x-\mu_x)^2\},\quad-\infty<x<\infty\\
+      f(y)=\int_{-\infty}^{\infty}f(x,y)dx=\frac{1}{\sqrt{2\pi\sigma_y^2}}\text{exp}\{-\frac{1}{2\sigma_y^2}(y-\mu_y)^2\},\quad-\infty<y<\infty\\
+      $$
+
+  - Conditional Densities
+
+    - As in the general case:
+
+      - $$
+        f(X|Y)=\frac{f(x,y)}{f(y)}\quad f(Y|X)=\frac{f(x,y)}{f(x)}
+        $$
+
+    - Doing this in the bivariate normal case, we can obtain the conditional distributions:
+
+      - $$
+        f(Y|X=x)\sim N(\mu_{Y|X}=\mu_Y+\rho\frac{\sigma_Y}{\sigma_X}(x-\mu_X),\sigma_{Y|X}^2=(1-\rho^2)\sigma_Y^2)\\
+        f(X|Y=y)\sim N(\mu_{X|Y}=\mu_X+\rho\frac{\sigma_X}{\sigma_Y}(y-\mu_Y),\sigma_{X|Y}^2=(1-\rho^2)\sigma_X^2)
+        $$
+
+      - Regression line
+
+  - The Regression Line
+
+    - The conditional mean of `Y` given `X` is called the regression line and is given by:
+
+      - $$
+        \mu_{Y|X}=\mu_Y+\rho\frac{\sigma_Y}{\sigma_X}(x-\mu_X)
+        $$
+
+    - The line represents the relation between `X` and `Y` as a linear regression
+
+    - The intercept is:
+
+      - $$
+        \mu_Y
+        $$
+
+    - The slope is:
+
+      - $$
+        \rho\frac{\sigma_Y}{\sigma_X}
+        $$
+
+    - When we want to study the relation between two variables, it is assumed that we want to estimate that conditional expectation
+
+      - So we fit the best possible line to the data (the regression line) and use that estimated line as an estimate of that conditional probability
+
+
+
+
+## Lecture 8:
 
 - 
 
