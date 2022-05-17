@@ -1322,7 +1322,258 @@
 
 
 
-## Lecture 8:
+## Lecture 8: Central Limit Theorem and Markov and Chebyshev's Theorems
+
+- LOTUS
+
+  - $$
+    E(g(x,y))=\sum_y\sum_xg(x,y)P(x,y)\\
+    E(g(x,y))=\int_y\int_xg(x,y)f(x,y)dxdy
+    $$
+
+  - Use the linearity of the expectation operator to find some important properties:
+
+    - $$
+      g(x,y)=ax+by\\
+      E(g(x,y))=E[ax+by]=E(ax)+E(by)=aE(x)+bE(y)
+      $$
+
+    - $$
+      g(x,y)=(ax+by-E(ax+by))^2\\
+      E(g(x,y))=E[(ax+by)-E(ax+by)]^2=E[(ax+by)-(a\mu_x+b\mu_y)]^2=\\
+      E[a(x-\mu_x)+b(y-\mu_y)]^2=E[a^2(x-\mu_x)^2+b^2(y-\mu_y)^2+2ab(x-\mu_x)(y-\mu_y)]=\\
+      E[a^2(x-\mu_x)^2]+E[b^2(y-\mu_y)^2]+E[2ab(x-\mu_x)(y-\mu_y)]=\\
+      a^2E(x-\mu_x)^2+b^2E(y-\mu_y)^2+2abE[(x-\mu_x)(y-\mu_y)]=\\
+      Var(ax+by)=a^2Var(x)+b^2Var(y)+2abCov(x,y)
+      $$
+
+    - Ex) Soft drink machine with random supply/amount dispensed
+
+  - Generalizing Results:
+
+    - $$
+      U_1=\sum_{i=1}^na_ix_i\quad U_2=\sum_{j=1}^mb_jy_j\\
+      E(U_1)=\sum_{i=1}^na_iE(x_i)\\
+      Var(U_1)=\sum_{i=1}^na^2Var(x_i)+2\sum_{i<j}\sum a_ia_jCov(x_i,x_j)\\
+      Cov(U_1,U_2)=\sum_i\sum_ja_ib_jCov(x_i,y_j)
+      $$
+
+- Central Limit Theorem
+
+  - Goal: understand that the random aggregate of many independent random variables could have very different distributional properties than the behavior of one random variable
+
+    - We will remind ourselves of the calculation of the expectation and variance of linear functions of two random variables
+    - We will generalize to a large number of independent random variables
+    - We will invoke convergence in distribution of the linear function of many independent random variables to a normal density, regardless of the original distribution of the individual random variables
+      - The Central Limit Theorem
+
+    - We will apply the results to different contexts
+
+  - For two random variables, `X` and `Y`, we will prove using integrals/summation that:
+
+    - $$
+      E(aX+bY)=E(aX)+E(bY)=aE(X)+bE(Y)\\
+      Var(aX+bY)=a^2Var(X)+b^2Var(Y)+2abCov(X,Y)
+      $$
+
+    - These results generalize to many random variables
+
+    - When `X` and `Y` are independent:
+
+      - $$
+        Var(aX+bY)=a^2Var(X)+b^2Var(Y)
+        $$
+
+      - In particular, if `a = b = 1`, and `X` and `Y` are independent:
+
+        - $$
+          E(X+Y)=E(X)+E(Y)\\
+          Var(X+Y)=Var(X)+Var(Y)
+          $$
+
+        - These results generalize to many, `n`, independent random variables
+
+  - The results we just saw about expectation and variance is true for any `n`
+
+    - Let's focus on independent random variables => covariances are `0`
+
+    - Let's denote the linear combination of `n` independent random variables identically distributed:
+
+      - $$
+        S_n=a_1X_1+a_2X_2+\ ...\ +a_nX_n=\sum_{i=1}^na_iX_i
+        $$
+
+      - $$
+        E(X_i)=\mu\quad Var(X_i)=\sigma^2\\
+        E(S_n)=E\left(\sum_{i=1}^na_iX_i\right)=\sum_{i=1}^na_iE(X_i)=a_1\mu+\ ...\ +a_n\mu=\mu\sum_{i=1}^na_i\\
+        Var(S_n)=Var\left(\sum_{i=1}^na_iX_i\right)=\sum_{i=1}^na_i^2Var(X_i)=a_1^2\sigma^2++\ ...\ +a_n^2\sigma^2=\sigma^2\sum_{i=1}^na_i^2
+        $$
+
+    - If the `a`s are all equal to `1`, then we have the results seen earlier
+
+      - $$
+        E(S_n)=E\left(\sum_{i=1}^nX_i\right)=\sum_{i=1}^nE(X_i)=\mu+\ ...\ +\mu=n\mu\\
+        Var(S_n)=Var\left(\sum_{i=1}^nX_i\right)=\sum_{i=1}^nVar(X_i)=\sigma^2+\ ...\ +\sigma^2=n\sigma^2
+        $$
+
+  - Application of the results to different families of random variables
+
+    - Expected sum and variance of the sum of 100 fair six-sided dice rolls
+    - The amount of corn that one of three flour mills can process in one day
+    - Amount of sugar consumed when 10 pieces of candy are eaten
+    - Hospitals' patients aggregate behavior
+    - Aggregate opinions of UCLA students
+
+  - If the sum is of many IID random variables, the CLT tells us that we do not need to worry about what the distribution of each random variable is
+
+    - The sum of many will be normal
+
+  - Central Limit Theorem
+
+    - If a random variable `Sn` is itself the sum of a large number of independent random variables which could individually have distributions of finite variance that are quite different from the normal distribution, then for each fixed value of `z`, as `n` tends to infinity:
+
+      - $$
+        P\left(\frac{S_n-n\mu}{\sigma\sqrt{n}}>x\right)\rightarrow P(Z>z)
+        $$
+
+      - Approaches the probability that the standard normal random variable `Z` exceeds `z`
+
+        - This result is known as Central Limit Theorem (CLT)
+        - In practical terms, this means that if `n` is large, we may use the standard Gaussian density to approximate the answer to probability questions about sums of independent and identically distributed random variables even if we do not know what the distribution of `X` is
+
+    - Examples:
+
+      - Total number of automobiles in town
+      - Are patients following up?
+
+  - Summary
+
+    - We have seen that when we add the behavior of many independent entities, the totals tend to be more normally distributed as the number of entities increases, regardless of the distribution of the random behavior of one entity
+    - Once the normal family is determined for the totals, we need to find the expected value of that total to identify the member of the Gaussian family that applies
+    - Although we rely on the CLT and large `n` for normality of sums, we have also reviewed the result that if the single random variable is normal, we do not need many random variables for the sum to be normal (actually, `n = 1` is large enough for that)
+
+- Consequences of CLT
+
+  - Any linear function of the sum of many IID random variables will approach the Gaussian
+
+    - In particular: the sample mean
+
+  - Goal: realize how much more we can do when we put together everything that we have learned throughout this course
+
+    - We will realize that because the sum of random variables is itself a random variable, we can then use the rules of expectations that we learned in the past to find the expected values and variances of functions of the sum
+    - In particular, we will define what statisticians call the sample mean (a summary statistic that is a function of the sum of IID) and will calculate its expected value and variance
+    - We have not proved it yet, but functions of Gaussian random variables are always Gaussian
+      - So if the sum of many random variables is Gaussian, by CLT, then the sample mean is also Gaussian
+
+  - Why is that important?
+
+    - The tools used by statisticians to make sense of data and extract conclusions about populations based on samples are called summary statistics
+      - The sample mean is a summary statistic
+
+    - The properties of these summary statistics is what gives statisticians peace of mind when using a random sample to learn about populations when the summary statistics used have nice probability properties
+    - The expected value of the sample mean is the population mean (pretty good)
+    - The variance of the sample mean is the population variance divided by `n` (smaller than the population variance)
+      - Pretty good too, meaning that even though the mean of a random sample could be anything in that Gaussian distribution of the sample mean, it will not be too far from the true mean
+      - The mean is used a lot
+
+  - We can use the rules of expectations of linear functions of a random variable and properties of the Gaussian PDF to calculate behavior of averages and proportions (each where they apply) when `n` is large
+
+    - If when the number of random variables, `n`, is large, probabilities of sums of the random variables can be approximated by a normal density, then we can also calculate properties for linear functions of the random variables, because linear functions of normal random variables (and sums are normal when `n` is large) are also normal
+    - In particular, probabilities for the average of the random variables will be Gaussian
+    - Do you remember the Gaussian approximation to the binomial random variable?
+      - We will use the property that functions of Gaussians are Gaussian to show that the sample proportion is also Gaussian
+
+  - Linear functions of many random variables are also Gaussian
+
+    - The sample average is defined as:
+
+      - $$
+        \overline{X_n}=\frac{S_n}{n}
+        $$
+
+      - Since `Sn` is a random variable:
+
+        - $$
+          E(\overline{X_n})=\frac{E(S_n)}{n}=\frac{n\mu}{n}=\mu_x\\
+          Var(\overline{X_n})=\frac{Var(S_n)}{n^2}=\frac{n\sigma^2}{n^2}=\frac{\sigma^2}{n}
+          $$
+
+    - Because `Xbar` is a function of a normal random variable, `Sn`, `Xbar` is also Gaussian
+
+      - The version of the CLT for averages is equivalent to that of sums
+
+      - $$
+        P\left(\frac{\overline{X_n}-\mu}{\frac{\sigma}{\sqrt{n}}}>z\right)=P\left(\frac{S_n-n\mu}{\sigma\sqrt{n}}>z\right)
+        $$
+
+      - The z-value for the `Sn` is the same as the z-value for the corresponding `Xnbar`
+
+  - The average of many random variables is a linear function of the sum
+
+    - As `n` increases, as the sample gets larger, the sample average approaches the Gaussian distribution; converges in probability to the Gaussian distribution, regardless of the distribution of `X`
+      - That is also the CLT
+
+    - Ex) amount of sugar consumed for 10 pieces of candy
+
+  - We have seen how to calculate probabilities for sample averages and explianed how we obtained those combining both the CLT for sums, LOTUS, and the property that functions of Gaussians are Gaussian
+
+    - When `n` is large, we can also calculate probabilities for linear functions of the random variables, because linear functions of Gaussian random variables (and sums are Gaussian when `n` is large by CLT) are also Gaussian
+    - In particular, one very special function that we have studied in this lesson is the sample average, and we have seen several examples of the calculation of probabilities for sample averages
+
+- Markov and Chebyshev's Theorems
+
+  - How to provide a probability when we don't have a distribution
+
+    - Up to now, for one random variable, probabilities were arrived at by assuming that the random variable followed a particular distribution
+    - What if the distribution of the random variable is unknown? How do we calculate probabilities?
+    - In this lecture, we introduce tools for estimating bounds for probabilities when the information on the random variable is limited
+      - Two theorems for this
+
+  - Markov's Bound
+
+    - The Markov inequality shows how to obtain probability bounds when the expected value, but nothing else is known
+
+      - If `a` is a constant, then the inequality gives the tail-bound of a non-negative random variable, when all we know is its expectation or mean
+      - More accurate if the variance is large
+
+    - $$
+      P(X\ge a)\le\frac{E(X)}{a}\text{ or }P(X<a)>1-\frac{E(X)}{a}
+      $$
+
+    - Markov's inequality gives the best bound possible for a non-negative random variable when all this is known is the expectation, but by its very nature it is conservative
+
+    - Ex) system crashes in a week
+
+  - Chebyshev's Bound
+
+    - Can be used if we know standard deviation and expected value, regardless of the shape of the distribution
+
+    - At least `3/4` of the measurements will fall within 2 standard deviations of the mean, or within:
+
+      - $$
+        \mu\pm2\sigma
+        $$
+
+    - At least `8/9` of the measurements will fall within 3 standard deviations of the mean, or within:
+
+      - $$
+        \mu\pm3\sigma
+        $$
+
+    - $$
+      P\{|X-\mu|<k\sigma\}=P(\mu-k\sigma<X<\mu+k\sigma)\ge1-\frac{1}{k^2}
+      $$
+
+    - Examples:
+
+      - Computer breakdowns
+      - Total rainfall
+      - Electric motor production
+
+
+
+
+## Lecture 9:
 
 - 
 
