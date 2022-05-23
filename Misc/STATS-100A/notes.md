@@ -1573,7 +1573,174 @@
 
 
 
-## Lecture 9:
+## Lecture 9: Moment Generating Functions, Law of Large Numbers, and Simulations
+
+- Moment Generating Functions
+
+  - Goal: study expectations and variances of functions of a discrete random variable and see that some are easier to show than others
+
+    - In particular, we cover the moment generating function
+    - Properties of the MGF that we will study later help us find the expectation and variance of sums of random variables
+    - And we cover linear functions of one random variable
+
+  - Expectation of a Function of a Discrete Random Variable
+
+    - $$
+      \mu_{g(x)}=E[g(x)]=\sum_xg(x)P(x)\\
+      \sigma_{g(x)}^2=Var[g(x)]=E[g(x)-E(g(x))^2]=\sum_x\left\lfloor(g(x)-E(g(x)))^2\right\rfloor P(x)
+      $$
+
+  - Moment Generating Function of a Discrete Random Variable
+
+    - The moment generating function `M(t)` of any discrete random variable `X` is the expectation of a very peculiar function of `X`, and it is defined for all real values of `t` by:
+
+      - $$
+        M(t)=E(e^{tx})=\sum_xe^{tx}P(x)
+        $$
+
+      - Where `P(x)` is the PMF of `X`
+
+    - We call `M(t)` the moment generating function because all the moments of `X` can be obtained by successively differentiating `M(t)` and then evaluating the result at `t = 0`
+
+      - Define moments of `X`: `E(x)` is the 1st moment, `E(x^2)` is the second moment, etc.
+      - Interchange of the differentiation and expectation operators is legitimate
+
+    - In general, the `n`th derivative of `M(t)` is given by:
+
+      - $$
+        n\ge 1\begin{cases}M^n(t)=E(x^ne^{tx})\\M^n(0)=E(x^n)\end{cases}
+        $$
+
+    - Useful for mathematically complex formulas
+
+  - Moment Generating Function for the Binomial Distribution
+
+    - $$
+      M(t)=E(e^{tx})=\sum_{k=0}^n{n\choose k}p^k(1-p)^{n-k}=\sum_{k=0}^n{n\choose k}(pe^t)^k(1-p)^{n-k}=(pe^t+1-p)^n
+      $$
+
+    - Binomial Theorem:
+
+      - $$
+        (x+y)^n=\sum_{k=0}^n{n\choose k}x^ky^{n-k}
+        $$
+
+
+  - Moment Generating Function for a Poisson Random Variable
+
+    - $$
+      M(t)=E(e^{tx})=\sum_{x=0}^\infty e^{tx}\frac{e^{-\lambda}\lambda^x}{x!}=e^{-\lambda}\sum_{x=0}^\infty\frac{(\lambda e^t)^x}{x!}=e^{-\lambda}e^{\lambda e^t}=e^{\lambda(e^t-1)}
+      $$
+
+  - Properties of Moment Generating Functions
+
+    - Expectation of a sum of independent discrete random variables is the sum of their expectations
+
+    - Variance of the sum of independent discrete random variables is the sum of their variances
+
+    - Moment generating function of the sum of independent random variables is the product of the random variables' moment generating functions
+
+    - The moment generating function is unique
+
+    - If `Y = a + bX`, is a linear function of `X`, then:
+
+      - $$
+        M_y(t)=E(e^{ty})=E[e^{t(a+bx)}]=e^{ta}E(e^{tbx})=e^{ta}M_x(tb)
+        $$
+
+  - For two random variables `X` and `Y`, we will prove that:
+
+    - $$
+      E(aX+bY)=E(aX)+E(bY)=aE(x)+bE(Y)\\
+      Var(aX+bY)=a^2Var(X)+b^2Var(Y)+2abCov(X,Y)
+      $$
+
+    - These results generalize to many random variables
+
+      - When `X` and `Y` are independent:
+
+        - $$
+          Var(aX+bY)=a^2Var(X)+b^2Var(Y)
+          $$
+
+      - If `a = b = 1` and `X` and `Y` are independent:
+
+        - $$
+          E(X+Y)=E(X)+E(Y)\\
+          Var(X+Y)=Var(X)+Var(Y)
+          $$
+
+  - Moment Generating Functions of Continuous Random Variables
+
+    - $$
+      \int_{-\infty}^{\infty}e^{tx}f(x)dx
+      $$
+
+    - If `X` is continuous with density `f(x)`
+
+    - As before, we call `M(t)` the moment generating function because all the moments for `X` can be obtained by successively differentiating `M(t)` and then evaluating the result at `t = 0`
+
+  - Moment Generating Function of the Exponential Distribution
+
+    - $$
+      M(t)=E(e^{tx})=\int^\infty_0e^{tx}\lambda e^{-\lambda x}dx=\lambda\int^\infty_0e^{-(\lambda-t)x}dx=\frac{\lambda}{\lambda-t}\text{ for }t<\lambda
+      $$
+
+  - Moment Generating Function of the Standard Normal Distribution (`Normal(0, 1)`)
+
+    - $$
+      M_Z(t)=E(e^{tz})=\frac{1}{\sqrt{2\pi}}\int_{-\infty}^\infty e^{tz}e^{-\frac{z^2}{2}}dz=\frac{1}{\sqrt{2\pi}}\int^\infty_{-\infty}e^{-\frac{(z^2-2tz)}{2}}dz=\\
+      \frac{1}{\sqrt{2\pi}}\int^\infty_{-\infty}e^{-\frac{(z-t)^2}{2}+\frac{t^2}{2}}dz=\frac{e^{\frac{t^2}{2}}}{\sqrt{2\pi}}\int_{-\infty}^{\infty}e^{-\frac{(z-t)^2}{2}}dz=e^{\frac{t^2}{2}}
+      $$
+
+    - If `x` is `Normal(µ, σ)`, then `X = µ + σZ`, therefore:
+
+      - $$
+        M_x(t)=E(e^{tx})=E[e^{t(\mu+\sigma z)}]=e^{t\mu}E(e^{t\sigma z})=e^{t\mu}M_z(t\sigma)=e^{t\mu}e^{\frac{(t\sigma)^2}{2}}=e^{\frac{\sigma^2t^2}{2}+\mu t}
+        $$
+
+- Law of Large Numbers
+
+  - As the sample size increases, the sampling average will converge to the true average
+
+  - Allows for the estimation of expectations in various businesses
+
+    - Ex) insurance, social media, etc.
+
+  - In general, weak law of large numbers
+
+    - The `Xbar` converges to `µ`, the mean of `X`
+
+    - Theorem: let `x1, x2, ... , xn` be a sequence of IID random variables with `E(xi) = µ` and `Var(xi) = σ^2`; for any `ε > 0`:
+
+      - $$
+        {(|\overline{X}-\mu|>\varepsilon)\rightarrow0}\text{ as }n\rightarrow0
+        $$
+
+      - We say that `Xbar` converges in probability to `µ`
+
+  - Uses of the weak law
+
+    - Monte-Carlo intregration
+
+- Simulations in Probability
+
+  - Steps in a simulation
+    - Choice of a probability model: decide on the model to represent the chance setting of the problem we are trying to solve
+    - Definition of a simulation trial: a trial consists of doing some steps that need to be well defined
+    - Define what to keep track of
+    - Repetition of trials: trials should be repeated many times
+    - Answer the question based on the simulation outcomes
+    - Ex) thief and lie detector test project
+
+  - Law of Large Numbers
+    - The law of large numbers says that as the number of trials increases (i.e., goes to infinity), the empirical probabilities obtained as above will approach the true probabilities we are seeking
+      - The smaller the number of trials, the farther from the true probability sought we are
+
+
+
+
+## Lecture 10:
 
 - 
 
