@@ -25,7 +25,7 @@
     - That requires knowing the domain experiment
     - Without knowing the values that make sense for an experiment (and that depends on the kind of experiment), it is impossible to assign probabilities to them and to be precise
   - A random experiment is a very broad concept
-    - It is any action for which the outcome is not pre-determined
+    - It is any action for which the outcome is not predetermined
   - The sample space, `S`
     - The answer to the question: what could potentially be the outcome of the random experiment
     - The sample space is the biggest set (the universal set) containing all the reasonable outcomes of a random experiment
@@ -146,7 +146,7 @@
 
       - Addition rule
 
-    - Worth noting the different between probability of "only `A` or only `B`" and the probability of "`A` or `B`"
+    - Worth noting the difference between probability of "only `A` or only `B`" and the probability of "`A` or `B`"
 
       - Probability of only `A` or only `B` is a union of mutually exclusive events and its solution follows from the third axiom
 
@@ -371,7 +371,7 @@
 
   - Introduction
 
-    - If a measurement can take any value in an interval in a real line, then it is not possible to assign a probability to every point, becuase there are infinite points
+    - If a measurement can take any value in an interval in a real line, then it is not possible to assign a probability to every point, because there are infinite points
       - The `P(S)` would be greater than `1` and the axioms would not be satisfied
     - Assigning probability of `0` to each point would not make sense either, the axioms must be satisfied
     - A convention to avoid the problem is the concept of probability density function
@@ -481,7 +481,7 @@
 
     - Let `X` be a random variable with density `f(x)`
     - Finding the expected value or variance of a linear function of a continuous random variable `g(x)` doesn't require knowing the probability distribution of `g(x)`; only the equation of `g(x)` is required and `f(x)`
-    - If we wanted to compute probabilities for the function fo the random variable, we will need the density of that function
+    - If we wanted to compute probabilities for the function of the random variable, we will need the density of that function
       - A more complicated topic is to find the actual density of that function of the random variable
     - If `X` has a density function `f(X)`, and if `U` is some function of `X`, then we find `F(u) = P(U <= u)` directly by integrating `f(X)` over the region for which `U <= u`
       - We can find the probability density function for `U` by differentiating `F(u)`
@@ -865,7 +865,7 @@
         Z=\frac{X-\mu}{\sigma}
         $$
 
-    - The new standardizes normal random variable `Z` follows a standard normal distribution with `μ = 0` and standard deviation `σ = 1`
+    - The new standardized normal random variable `Z` follows a standard normal distribution with `μ = 0` and standard deviation `σ = 1`
 
     - The advantages of presenting the information in `Z` version is that the measurement is then in standard deviations from the mean
 
@@ -1251,7 +1251,7 @@
 
   - An Exception to `Cov(X, Y)`: The Independence Rule
 
-    - If 2 random vairbales are independent, the covariance is `0` and so is the correlation
+    - If 2 random variables are independent, the covariance is `0` and so is the correlation
       - In general, covariance `0` doesn't imply independence
 
     - If `X` and `Y` follow a bivariate normal density, `Cov(X, Y) = 0` implies independence
@@ -1515,7 +1515,7 @@
 
     - Ex) amount of sugar consumed for 10 pieces of candy
 
-  - We have seen how to calculate probabilities for sample averages and explianed how we obtained those combining both the CLT for sums, LOTUS, and the property that functions of Gaussians are Gaussian
+  - We have seen how to calculate probabilities for sample averages and explained how we obtained those combining both the CLT for sums, LOTUS, and the property that functions of Gaussians are Gaussian
 
     - When `n` is large, we can also calculate probabilities for linear functions of the random variables, because linear functions of Gaussian random variables (and sums are Gaussian when `n` is large by CLT) are also Gaussian
     - In particular, one very special function that we have studied in this lesson is the sample average, and we have seen several examples of the calculation of probabilities for sample averages
@@ -1721,7 +1721,7 @@
 
   - Uses of the weak law
 
-    - Monte-Carlo intregration
+    - Monte-Carlo integration
 
 - Simulations in Probability
 
@@ -1740,7 +1740,110 @@
 
 
 
-## Lecture 10:
+## Lecture 10: Risk, Odds, and Review
 
-- 
+- Risk and Odds
+
+  - $$
+    \text{Risk}=\frac{\text{Number in category}}{\text{Total number in group}}
+    $$
+
+    - Risk is a conditional probability
+
+  - $$
+    \text{Relative Risk}=\frac{\text{Risk in category 1}}{\text{Risk in category 2}}
+    $$
+
+    - A relative risk of `1` means that two risks are the same
+    - The risk in the denominator is oftentimes the baseline risk
+
+  - $$
+    \text{Percent Increase in Risk}=\frac{\text{Difference in risks}}{\text{Baseline risk}}\times100\%=(\text{Relative Risk}-1)\times100\%
+    $$
+
+    - When risk is smaller than baseline risk, the relative risk is less than `1`, and the percent "increase" will actually be negative, so we say percent decrease in risk
+
+  - $$
+    \text{Odds}=\text{Number in category 1 to Number in category 2}=\\
+    \left(\frac{\text{Number in category 1}}{\text{Number in category 2}}\right)\text{ to }1
+    $$
+
+  - $$
+    \text{Odds Ratio}=\frac{\text{Odds for group 1}}{\text{Odds for group 2}}
+    $$
+
+- Density of Functions of Continuous Random Variables
+
+  - We know from past lectures how to compute the expected value and variance of a function of a random variable by just applying the definition of expectation and variance
+
+  - A more complicated topic is to find the actual density of that function of the random variable
+
+    - There are several methods to do this
+    - We will make use of the method that uses the CDF
+
+  - If `X` has a density function `f(X)`, and `U` is some function of `X`, then we can find `FU(u) = P(U ≤ u)` directly by integrating `f(X)` over the region for which `U ≤ u`
+
+    - We can find the PDF for `U` by differentiating `FU(u)`
+
+  - Example:
+
+    - The percentage of time `X` that a lathe is in use during a typical 40-hour work week is a random variable whose probability density function is given by:
+
+      - $$
+        f(x)=3x^2,\quad0\le x\le1
+        $$
+
+    - The actual number of hours, out of a 40-hour week, that the lathe is not in use, then, is `U = 40(1 - X)`
+
+    - Find the probability density function of `U`
+
+    - $$
+      U\le u\Rightarrow40(1-x)\le u\Rightarrow x>1-\frac{u}{40}\\
+      F(u)=P(U\le u)=P[40(1-x)\le u]=P\left[x>1-\frac{u}{40}\right]\\
+      =\int^1_{1-\frac{u}{40}}3x^2dx=x^3|^1_{1-\frac{u}{40}}=1-\left(1-\frac{u}{40}\right)^3\\
+      f(u)=\frac{dF(u)}{du}=\begin{cases}\frac{3}{40}(1-u)^2&0\le u\le40\\0&\text{elsewhere}\end{cases}
+      $$
+
+- Using Conditioning to Find Marginal Expectations and Variances
+
+  - This concept uses the following topics:
+
+    - Joint distributions
+    - Marginal and conditional distributions and their expectations and variances
+    - Expectation and variance of linear functions of random variables
+    - Some distributions studied in this class and their expectations, variances, etc.
+    - The shortcut for variance
+
+  - Introduction
+
+    - Using conditional expectations to compute expected values of a random variable
+
+    - The conditional expectation of `X`, given `Y = y`, is a function of `Y`
+
+    - If we now let `Y` range over all its possible values, we can think of the conditional expectation as being a function of the random variable `Y`; hence, we can find the expected value of the conditional expectation and find the following result:
+
+      - $$
+        E(X)=E[E(X|Y)]
+        $$
+
+        - $$
+          E[E(X|Y)]=\sum_YE(X|Y)P(Y)=\sum_Y\sum_X(X)P(X|Y)P(Y)\\=\sum_Y\sum_X(X)\frac{P(X,Y)}{{P(Y)}}P(Y)=\sum_XX\sum_yP(X,Y)=\sum_X(X)P(X)=E(X)
+          $$
+
+      - Where, on the right-hand side, the inside expectation is state with respect to the conditional distribution of `X` given `Y`
+
+      - Another very important result is:
+
+        - $$
+          Var(X)=E[Var(X|Y)]+Var[E(X|Y)]
+          $$
+
+          - $$
+            E[Var(X|Y)]=E(E(X^2|Y)-[E(X|Y)^2])=E[E(X^2|Y)]-E[E(X|Y)]^2\\
+            =E(X^2)-E[E(X|Y)]=E(X^2)-[E(X)]^2-E[E(X|Y)]^2+[E(X)]^2\\
+            =Var(X)-E[E(X|Y)]^2+E[E(X|Y)]^2=Var(X)-Var[E(X|Y)]\\
+            Var(X)=E[Var(X|Y)]+Var[E(X|Y)]
+            $$
+
+            
 
