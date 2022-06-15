@@ -25,5 +25,5 @@
 
 | Requirement | Course | Term | Grade |
 |:----|:---:|:---:|:---:|
-| Stats | STATS 100A | Spring '22 | IP |
+| Stats | STATS 100A | Spring '22 | A+ |
 | Ethics/Writing | ??? | ??? | ??? |
