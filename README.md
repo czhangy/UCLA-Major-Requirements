@@ -26,4 +26,4 @@
 | Requirement | Course | Term | Grade |
 |:----|:---:|:---:|:---:|
 | Stats | STATS 100A | Spring '22 | A+ |
-| Ethics/Writing | ??? | ??? | ??? |
+| Ethics/Writing | ENGR 183EW | Fall '22 | IP |
