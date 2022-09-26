@@ -6,8 +6,36 @@
 
 ## Grading:
 
-| Category | Percentage |
-| :------: | :--------: |
-|          |            |
-|          |            |
-|          |            |
+|      Category      | Percentage |
+| :----------------: | :--------: |
+|      Writing       |    42%     |
+|      Midterm       |    15%     |
+|       Final        |    23%     |
+|      Quizzes       |     5%     |
+|    Presentation    |     5%     |
+|     Discussion     |     9%     |
+| Student Evaluation |     1%     |
+
+## Writing
+
+|  #   | Score |
+| :--: | :---: |
+|  1   |  ???  |
+|  2   |  ???  |
+
+## Exams
+
+|  Exam   | Score |
+| :-----: | :---: |
+| Midterm |  ???  |
+|  Final  |  ???  |
+
+## Quizzes
+
+|  #   | Score |
+| :--: | :---: |
+|  1   |  ???  |
+|  2   |  ???  |
+|  3   |  ???  |
+|  4   |  ???  |
+|  5   |  ???  |
