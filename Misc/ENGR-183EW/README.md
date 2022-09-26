@@ -8,7 +8,7 @@
 
 |      Category      | Percentage |
 | :----------------: | :--------: |
-|      Writing       |    42%     |
+|       Essays       |    42%     |
 |      Midterm       |    15%     |
 |       Final        |    23%     |
 |      Quizzes       |     5%     |
@@ -16,7 +16,7 @@
 |     Discussion     |     9%     |
 | Student Evaluation |     1%     |
 
-## Writing
+## Essays
 
 |  #   | Score |
 | :--: | :---: |
