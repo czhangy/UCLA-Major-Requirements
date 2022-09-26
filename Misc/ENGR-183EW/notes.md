@@ -263,7 +263,224 @@
 
 ## Reading 2: Ethical Bases
 
-- 
+- Sources of Morals and Ethics
+  - Descriptive ethics deals with describing existing ethical systems
+  - Normative ethics deals with determining right choices and actions
+  - The sources of morals and ethics are divided into the following six main categories:
+    - Biological
+      - Increasing evidence that we are in some way genetically hard-wired for fairness in the same way we appear to be wired for quickly learning to speak and recognize social relationships
+      - Ex) Monkey trials
+      - If this were true, we could depend on this assumedly universal source in more complicated social enterprises
+        - May be too optimistic
+
+    - Natural
+      - Universal moral and ethical truths are self-evident in nature
+        - Formed by a transcendental source and accordingly built into human beings
+        - We can understand these laws if we look carefully around us and reason accordingly
+
+      - The idea of Natural Law is especially important in the US since our founding fathers incorporated it into the Declaration of Independence
+
+    - Revelation
+      - We don't have to reason our way to morals and ethics because they are simply given to us by a higher authority
+      - Many forms: direct orders, written injunctions, speaking through prophets, signs and wonders, etc.
+        - Have to be interpreted by religious officials, prophets, or other messengers
+
+      - Old, but still a large part of society's current ethical conversation
+
+    - Philosophical
+      - Attempts to guide ethical actions through systematic formulation of what is right and wrong
+      - Conceptual formulations arrived at by a combination of observation and reasoning
+
+    - Societal
+      - We absorb descriptive and normative ethical precepts and influences from the society we live in
+        - As well as from other societies we visit/are aware of
+        - Come to us in the conventions of everyday interactions, in political debates and decisions as conveyed by the news media, and also from the historical record we study in school or on our own
+
+      - Subject to change, even rapid change within a lifetime or in the space of a few decades
+        - With the advent of the Internet and improved travel, we are privy to many more different sets of societal ethics than were available previously
+
+    - Cultural and Individual
+      - Strongly influenced by the ethical sources closest to us
+        - Family (immediate and extended), religion, and ethnicity
+        - Friends and neighborhood
+        - Race, gender, political affinity, topical issues, etc.
+
+
+- Ethical Progressions
+  - Royal/divine legal codes => revealed moral/ethical codes => specialized life codes => ethical philosophies => societal regulations and laws
+    - Feedforward: the direct influence of historical morals and ethics on laws and regulations
+    - Feedback: sometimes laws and regulations have a disruptive effect on existing societal, moral, and ethical beliefs
+- Moral Revelations
+  - Ancient Codes
+    - We gain insight into our very priorities of fairness and justice from codes associated with very early societies
+      - Mesopotamia, Egypt, Greece, Rome, etc.
+      - Earliest societies were ruled by kings considered both human and divine, and were therefore absolute in their power
+      - The "law" was the prerogative of kings and priests, but could be influenced by societal custom
+    - Code of Hammurabi
+      - Presented as representing right and justice and being in the interest of the oppressed, those most in need of right judgement
+      - Harsh punishments, deals with property ownership
+      - Details three levels of justice: aristocrats, commoners, and slaves, with punishments becoming more severe as the person's social status drops
+    - Justice is a dominant theme
+  - The Old Testament
+    - Said to draw much from the Code of Hammurabi
+      - Emphasis on justice and similar levels of harshness of penalties
+    - The earliest fragment contains the themes of justice and the rights of the least
+    - The Jewish Torah/Books of Moses contains two main sets of laws:
+      - The Noahide laws (laws for all of humanity)
+        - You shall practice equity, establish and promote justice
+        - You shall not commit idolatry
+        - You shall not commit blasphemy
+        - You shall not commit sexual immorality
+        - You shall not commit murder
+        - You shall not commit theft
+        - You shall not eat the limb torn from a live animal; flesh with the life of it, the blood of it, you shall not eat
+      - The Ten Commandments/the Decalogue (laws for the Jewish people)
+        - You shall have no other gods before me
+        - You shall not make idols to worship them
+        - You shall not take the name of the Lord thy God in vain
+        - Remember the Sabbath day and keep it holy
+        - Honor your father and mother
+        - You shall not murder
+        - You shall not commit adultery
+        - You shall not steal
+        - You shall not give false testimony against your neighbor
+        - You shall not covet your neighbor's goods, nor his house, nor his wife, nor his manservant, ... nor anything that is your neighbor's
+    - Much of American society has embraced the Ten Commandments as a historical moral symbol
+      - Debate about separation of church and state
+      - Public has expressed its embrace of the laws through the practice of merchandizing
+  - The New Testament
+    - Christian teaching diverges from the Old Testament both in its emphasis and in its particulars
+    - Jesus didn't abandon the Torah, but his teachings were novel in that they emphasized humility, loving kindness, and forgiveness rather than prohibitions and retribution
+      - Turning the other cheek, loving your enemies, doing good to those who hate you, etc.
+    - Stark contrast to the history of warfare, vengeance, and revenge that preceded this time and the Jewish revolt against Roman occupation during it
+  - An Essential Idea: The Golden Rule
+    - Both the Torah and the New Testaments have associated with them attempts to condense their ethical teachings into one simple sentence
+      - Creation of The Golden Rule: "What is hateful to you, do not do to your neighbor."
+    - A problem with the rule (The Golden Conundrum): how do you know what is desirable or hateful to others?
+      - Assume homogeneity, that everyone thinks the same
+      - Consider principles over particulars => requires empathy
+        - Empathy is often a key component and often the sole component of ethical behavior
+    - How do we learn empathy?
+      - On a practical level, we learn to empathize through the use of cognitive models, which we call our ideas of how others think
+        - Shared cognitive models are what we believe we have with our family and close friends, although this belief is frequently mistaken
+        - Learned cognitive models are what, in the case of individuals, we ascribe to the field of sociology
+        - We apply metacognition to test and refine our models, meaning thinking about thinking
+      - On an analytical level, issues of empathy are often built into ethical philosophies
+        - Ways to put ethical considerations into a universal perspective, such as rights or duties
+- Some Ethical Life Codes
+  - Code of Chivalry
+    - Most closely associated with knights, but was most likely also adhered to by other members of the feudal aristocracy
+    - Described as:
+      - Observe all the Church teaches
+      - Defend the Church
+      - Do not recoil before your enemy
+      - Make war on the non-believer without cessation or mercy
+      - Love your country of birth
+      - Perform your feudal duties
+      - Champion the right and good against injustice and evil
+      - Be generous to everyone
+      - Respect all weaknesses and make yourself their defender
+      - Never lie, and keep your word
+    - Note the following:
+      - The Code urges fidelity to the Catholic Church, but appears to directly contradict Christ's teaching on loving one's enemies
+      - Emphasizes both nationalism and loyalty
+      - Incorporates championing the right and good and protecting the weak
+      - Incorporates a dictum, which became a bulwark of both English and American character: "Never lie, and keep your word"
+  - Warrior's Code
+    - The Code of Chivalry is closely mirrored in a different feudal system, appearing in Japanese, Chinese, and Korean cultures
+      - Called Bushido, the Way of the Warriors
+    - Qualities appear as follows:
+      - Justice (gi)
+      - Bravery (yuu)
+      - Benevolence (jin)
+      - Veracity (makoto)
+      - Politeness (rei)
+      - Honor (meiyo)
+      - Loyalty (chuugi)
+    - Note the following:
+      - Bravery is linked to justice rather than simply to loyalty
+      - A true Bushido warrior was expected to be educated, to appreciate beauty in the arts, to run an efficient household, and to provide motivation to the people who supported him
+      - Seems to be a more sophisticated code of ethical behavior than that of Chivalry
+  - Code of Magna Carta
+    - Establishes the very important and revolutionary principle that laws apply even for kings
+      - Limits the power of the ruler, despite the belief that he rules by Divine Right
+      - Recognizes the rights of individuals within nations
+    - Considered a highly significant landmark in establishing the Rule of Law as a dominant principle in Western societies
+      - Recognized as providing a partial basis for our Constitution and Bill of Rights
+  - Boy Scout Code
+    - Scout Oath and Scout Law
+    - Such ethical codes may prove inadequate as times change, and may also change with time
+  - Cadet Honor Code
+    - "A cadet will not lie, cheat or steal, or tolerate those who do"
+    - Advantage of simplicity, being easy to learn and remember
+    - Disadvantage that simplicity doesn't cover all bases
+      - Serious problems of racial/sexual/religious intolerance and harassment, which are not covered by the Honor Code
+      - Requires adjustment to adapt
+  - Engineering Professional Codes
+    - Engineers shall:
+      - Hold paramount the safety, health, and welfare of the public
+      - Perform services only in areas of their competence
+      - Issue public statements only in an objective and truthful manner
+      - Act for each employer or client as faithful agents or trustees
+      - Avoid deceptive acts
+      - Conduct themselves honorably, responsibly, ethically, and lawfully so as to enhance the honor, reputation, and usefulness of the profession
+    - These are admirable goals and straightforwardly state, but have issues:
+      - How much safety, health, and welfare in light of other considerations such as cost and public sentiment
+      - What are the areas of competence in today's fast-changing technical environment?
+      - Are today's entrepreneurial engineers really only faithful agents or trustees of an employer or client?
+      - When should they not be trustees, and become whistle-blowers?
+      - Few of the canons deal with large societal, moral, or ethical issues
+    - Overall question is whether professional codes of this type are still appropriate and adequate for today's more complex world
+      - Appropriate as guidance, but not adequate for individual ethical decision-making, which requires a strong Personal Ethical Framework and a good knowledge of current societal-technical issues
+- Morals, Ethics, and the Law
+  - Ethics serves several critical purposes:
+    - Ethics provides direction toward adherence to the Law as well as guidance in ambiguous areas of the Law
+    - Moral and ethical principles often create new laws when there is sufficient political and/or public support
+    - The reverse is also true, laws become outmoded or unenforceable when the moral and/or ethical climate surrounding them changes
+  - Example 1: Initiation of Child Labor Laws
+  - Example 2: Reversal of Existing Laws
+    - Fundamentally changed: slavery, segregation, discrimination, disenfranchisement, subjugation of women, contraception/abortion, interracial marriage, same-sex marriage, LGBTQ+ rights
+    - Still being resolved: government surveillance, cruel and unusual punishment, torture for interrogation, death penalty for crimes, chemical/biological weapons, sale of body parts, treatment of animals, regulation of industrial pollution, etc.
+    - Society's ethical values are constantly in flux and the law changes accordingly
+  - Example 3: Close to Home
+    - Restrictive covenants against races on deeds
+  - Example 4: Movement of Technical Knowledge
+    - Ex) Silicon Valley
+    - Allowance of free movement of ideas as people changed jobs => now criminalized
+  - Implications for Engineering Practice
+    - Legal
+      - Many of the difficult problems in engineering ethics lie inside the boundary of what is legal
+    - Illegal
+      - Those in charge of corporate or organizational ethical codes or frameworks have to investigate carefully which decisions are ethical and which are mandated by law
+    - Open Issues
+      - Many of our current laws remain open issues from both a national and an international perspective
+      - Differences in local laws as well as local customs have to be taken into account when making ethical choices
+      - Some of our well-established social justice laws are being reexamined from new ethical and moral viewpoints
+- Ethical Action: Major Influences
+  - Role of Religion
+    - Some devout persons will say their entire personal ethical framework is based on biblical sources of one form or another
+    - Ex) Thomas Jefferson, Dalai Lama
+    - While religion can certainly be a guide to ethics, many people have sought a secular or nonreligious path to ethical behavior
+  - Role of Science
+    - Attempt to fully understand how the brain functions, including the neurophysiological correlates of consciousness, and with these, the real bases for ethical thought and action
+  - Role of Reason
+    - Ethical philosophers are divided about how much reasoning affects ethical action
+  - Role of Intuition
+    - Six basic types of moral responses:
+      - Care/harm
+      - Liberty/oppression
+      - Fairness/cheating
+      - Loyalty/betrayal
+      - Authority/subversion
+      - Sanctity/degradation
+    - Different groups make different use of these basic ingredients to form their ethical frameworks and these evolutionary attitudes contribute more to the control of behavior than does reason
+      - Ex) Democrat vs. Republican
+  - Role of Experience
+    - What we have seen, what we have undergone, and how we have reacted previously is also an important component of ethical action
+- Summary
+  - Started with main sources, looked at ancient history, examined life codes, dissected the relationship among morals, ethics, and the law, and described some factors that affect immediate ethical action
+  - An unstructured set of ethics includes a vast number of influences that are difficult to arrange in a way useful for ethical decision-making and subsequent action
+  - Systems have been established to attempt to provide principles by means of which individuals and groups can address ethical problems as they arise, and make rational decisions
 
 
 
