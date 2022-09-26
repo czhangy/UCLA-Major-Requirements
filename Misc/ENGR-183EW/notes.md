@@ -4,7 +4,62 @@
 
 ## Lecture 1: Introduction and Overview
 
-- 
+- The Importance of Historical Context
+  - Knowing how technology and society have interacted in the past givers us a framework of understanding for current issues
+  - Equally important, to recognize where we are now, and decide where we should be going, it is essential to know how we got here
+  - There are some periods in the past that we might like to repeat
+
+- Specific Course Objectives
+  - Prepare students to help address the world's critical socio-technical issues as engineering professionals
+  - Help students build a Personal Ethical Framework to identify the moral and ethical principles affecting these problems
+  - Provide an understanding of how technology and society have interacted up until now and will likely do so in the future
+  - Examine specific critical contemporary societal issues that involve both technology and ethical factors
+
+- In Summary
+  - Our goal in ENGR 183EW is to give you knowledge about ethics and societal issues that will help make you a more thoughtful engineer now and also set you on a path of lifelong learning
+
+- Our Writing Criteria
+  - Effective organization:
+    - Contents of paper and/or report
+    - Full engagement and teamwork
+
+  - Clear identification of the problem
+  - Adequate research & strong citations
+  - Comprehensive description of issues
+    - Problem background
+    - Technical aspects
+    - Ethical and social aspects
+
+  - Meaningful solutions and/or recommendations
+  - Original ideas
+
+- Ethics in Engineering Decision Making
+  - The "controlling factor"
+    - e.g., "ethics trumps economics"
+    - "We don't do that" or "We must do this"
+
+  - Another decision component
+  - The product of an ethical culture
+    - Team and project dynamics
+    - Organizational standards
+    - National & international codes
+
+  - A personal issue
+    - What do you stand for?
+    - What do you do about it
+    - Having ethics vs. being ethical
+
+- The Engineering Profession
+  - Meaning of profession
+    - Narrow definition is occupation
+    - Broader definition is authorization or license
+    - "With authority comes responsibility"
+
+  - Engineering environment
+    - Jobs: employees to entrpreneurs
+    - Organizations: small to giant, local to distributed
+    - Responsibilities: frequently immense and highly public
+
 
 
 
