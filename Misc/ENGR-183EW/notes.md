@@ -65,7 +65,174 @@
 
 ## Lecture 2: Bases of Morals & Ethics
 
-- 
+- Sources of Ethics
+  - Morals and ethics are: beliefs, assumptions, and values => guides to action
+  - The main sources of morals an ethics are considered to be:
+
+- Ethical Progressions
+  - Royal/divine legal codes => revealed moral/ethical codes => specialized life codes => ethical philosophies => societal regulations and laws
+
+- Early Codes: Egypt & Mesopotamia
+  - Timeline:
+    - 2050 BC: Ur-Nammu
+    - 1850 BC: Lipit-Ishtar
+    - 1780 BC: Hammurabi
+    - 1500 BC: Hittite
+    - 1100 BC: Assyrian
+
+  - Both bodies of law to be followed and records of how cases had been decided in the past
+    - For instance, in Egypt, the Pharaoh
+
+- Early Biblical Material (~1000 BC)
+  - Points:
+    - You shall not do it, but worship the Lord
+    - Judge the slave and the widow/Judge the orphan and the stanger
+    - Plead for the infant/plead for the poor and the widow
+    - Rehabilitate the
+
+- Revealed Laws - Noahide (Israel, ~600 BC)
+  - The Seven Laws for Mankind:
+    - You shall practice equity, establish, and promote justice
+    - You shall not commit idolatry
+    - You shall not commit Blasphemy
+    - You shall not commit Sexual Immorality
+    - You shall not commit Murder
+    - You shall not commit Theft
+    - You shall not eat the limb torn from a live animal. Flesh with the life of it, the blood of it, you shall not eat
+
+  - According to Biblical teachings, the first six universal laws were given to Adam, the seventh was added for Noah after the flood
+
+- Revealed Laws - The Decalogue (Israel, ~500 BC)
+  - The Ten Commandments:
+    - You shall have no other gods before me
+    - You shall not make idols to worship them
+    - You shall not take the name of the Lord thy God in vain
+    - Remember the Sabbath day and keep it holy
+    - Honor your father and mother
+    - You shall not murder
+    - You shall not commit adultery
+    - You shall not steal
+    - You shall not give false testimony against your neighbor
+    - You shall not covet your neighbor's goods, nor his house, nor his wife, nor his manservant, nor his bull, nor his donkey, nor anything that is your neighbor's
+
+  - The Ten Commandments in American Society
+    - American society has embraced the Ten Commandments as a historical moral symbol, and as a result various groups believe the Commandments should be part of civic locations such as city halls, courtrooms, etc.
+      - Other groups say this would directly violate the Constitutional clause prohibiting "establishment"
+
+- Revealed Christian Doctrine (Israel, ~30 AD)
+  - According to the Gospels, Jesus of Nazareth preached:
+    - Blessed are the meek, the persecuted, the merciful, the peacemakers
+    - Agree with your adversary, murder begins in the heart
+    - Turn the other cheek, do not give "an eye for an eye, a tooth for a tooth"
+    - Love your enemies, do good to those who hate you
+
+  - These novel teachings emphasized humility, loving kindness, and forgiveness, rather than prohibitions and retribution
+
+
+- An Essential Idea: The Golden and Silver Rules
+  - Judaic: "Silver"
+    - "What is hateful to you, do not do to your neighbor"
+  - Christian: "Golden"
+    - "What you would want others to do to you, do so to them"
+  - A Golden Conundrum: How do you know what is hateful or desirable to others?
+    - Experiential Level
+      - Assume homogeneity: everyone thinks the same
+      - Emphasize principles over particulars: e.g., pleasure and pain
+      - Empathize - do as they would have you do onto them ("Platinum Rule")
+      - What is empathy?
+        - Empathy is an awareness of other peoples' feelings, needs, and concerns
+    - Practical Level
+      - Shared Cognitive Models
+        - Family and friends
+      - Learned Cognitive Models
+        - Individuals: psychology
+        - Groups: sociology
+      - Meta-Cognitive Processes
+        - "Thinking about thinking"
+        - Create models
+        - Test and refine models
+    - Analytical Level
+      - Ethical philosophies based on normative principles
+- Codes: Chivalry (Europe, ~1000 AD)
+  - Observe all the Church teaches
+  - Defend the Church
+  - Do not recoil before your enemy
+  - Make war on the non-believer without cessation or mercy
+  - Love your country of birth
+  - Perform your feudal duties
+  - Champion the Right and Good against Injustice and Evil
+  - Be generous to everyone
+  - Respect all weaknesses and make yourself the defender
+  - Never lie and keep your word
+- Codes: Bushido, Way of the Warriors (~1100 AD)
+  - Stated in different ways, and sometimes involving 8 rather than 7 qualities, the Way of the Warriors appears in Japanese, Chinese, and Korean cultures
+- Codes: Magna Carta (England, 1215)
+  - A promise by England's King John to his barons that he will "obey the law of the land"
+  - Establishes the principle that laws apply to all, even kings
+  - Recognizes the rights of individuals within states and elucidates those rights
+  - A partial bases for the American Constitution and Bill of Rights
+- Codes: Boy Scouts (England, ~1900 AD)
+  - Scout Oath:
+    - "On my honor, I will do my best, to do my duty, to God and my country, and to obey the Scout Law. To help other people at all times, to keep myself physically strong, mentally awake, and morally straight"
+  - Scout Law:
+    - "A Scout is trustworthy, loyal, helpful, friendly, courteous, kind, obedient, cheerful, thrifty, brave, clean, and reverent"
+- Codes: West Point (USA, ~1950 AD)
+  - "A cadet will not lie, cheat, or steal, or tolerate those who do!"
+  - Simple codes are easy to remember, but in their simplicity, they may neglect more complex ethical and moral issues of great importance
+- Codes: Engineering Profession (USA, ~2000 AD)
+  - Engineers, in the fulfillment of their professional duties, shall:
+    - Hold paramount the safety, health, and welfare of the public
+    - Perform services only in the area of their competence
+    - Issue public statements only in an objective and truthful manner
+    - Act in professional matters for each employer or client as faithful agents or trustees
+    - Avoid deceptive acts in the solicitation of professional development
+  - Not an exact structure, but a guide
+- Morals, Ethics, and the Law
+  - Ethics occupy the middle ground between a society's Fundamental Morals and its government's Regulations and Laws
+  - Ethics provide direction toward adherence to the Law as well as guidance in ambiguous areas of the law
+- Case 1: Creation of Child Labor Laws
+  - Child labor played a major role in the European Industrial Revolution
+  - More than 50% of children from 5 to 15 worked without regulation
+- Case 2: Reversal of Existing Laws
+  - In the US, many previously legal practices have been overturned or are being reexamined on the basis of moral or ethical considerations
+  - Many further examples in politics, business, sports, and daily life and many of these remain open issues in America and the world
+- Case 3: Ethics and Law in Los Angeles
+  - House deed
+  - Covenants such as these were legal and enforceable in California until they were specifically outlawed by the Rumford Fair Housing Act of 1963
+- Case 4: Movement of Technical Knowledge
+  - Silicon Valley benefited from California laws allowing virtually free movement of ideas a people changed jobs, but it also becomes known for idea theft and treachery
+  - The Defend Trade Secrets Act makes it a Federal crime to move trade secrets from one position to the next
+- Ethics, Morality, and Law: Engineering Practice
+  - Legal: many of the difficult problems in engineering ethics are inside the boundary of what is legal
+  - Illegal: but a number of things that were formerly ethical questions, such as sexual harassment, age discrimination, arbitrary dismissal, and moving trade secrets, are not outside the law
+  - Open Issues: many of our current laws are open issues from a national and worldwide perspective, and even some of our well-established laws are being reexamined from ethical, moral, and religious viewpoints
+  - The challenge is to establish a solid Personal and Professional Ethical Framework in the face of the continual fluctuation of ethics
+- Ethical Action: The Role of Religion
+  - While religion can certainly be a guide to ethics, many people, even religious ones, have also sought a secular or non-religious path to ethical behavior
+  - America is Becoming More Secular
+    - Belief that America is joining societies such as Japan, Scandinavia, the United Kingdom, and Australia that combine social consciousness with a declining religious foundation
+    - At the same time, the US Supreme Court is granting more leeway to religious institutions to use their beliefs as the basis for societal decisions and actions
+- Ethical Action: The Role of Science
+  - The growing field of brain research is hoped to clarify the idea of consciousness and provide a scientific basis for our moral and ethical actions
+- Ethical Action: The Role of Reason
+  - "Reason has little or no role...", "Moral action depends on reason, but not always...", "Moral action depends on previous reasoning..."
+  - Today's ethical philosophies are divided, citing a variety of factors including genetics
+- Ethical Action: The Role of Intuition
+  - Jonathan Haidt lists six types of moral response that have manifested through intuitive emotional reactions:
+    - Care/harm
+    - Liberty/oppression
+    - Fairness/cheating
+    - Loyalty/betrayal
+    - Authority/subversion
+    - Sanctity/degradation
+  - Haidt theorizes that different groups make different use of these basic ingredients to form their moralities and that these evolutionary attitudes contribute more to the control of behavior than does reason
+    - Ex) Haidt believes Liberals emphasize the first three, while Conservatives emphasize the last three
+- Ethical Action: The Role of Experience
+  - "The life of the law has not been logic; it has been experience" - Judge Oliver Wendell Holmes, Jr.
+  - "Learning from experience" undoubtedly includes the ability to reason as well
+
+- Ethical Action: The Role of Choice
+  - "An act has no ethical quality whatsoever unless it be chose out of several (acts that are) all equally possible" - William James
 
 
 
