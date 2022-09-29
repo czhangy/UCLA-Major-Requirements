@@ -653,7 +653,72 @@
 
 ## Reading 3: Ethical Philosophies
 
-- 
+- Introduction
+  - Ethical philosophies are ways to systematize, rationalize, and prescribe societal and personal ethical choices
+  - Philosophies give us the means for thinking rationally about ethical problems, and often help point the way to their solution
+  - We look at five major philosophies: rights ethics, duty ethics, virtue ethics, utilitarianism, pragmatism
+    - These have a direct impact on major current societal issues, as well as on issues of engineering practice
+- Rights Ethics
+  - Concepts and Issues
+    - The idea that there are basic human rights that must be respected is almost universal
+      - Fundamental to the formation of the US
+    - We recognize two main types of rights:
+      - Liberty Rights
+        - Focus is the individual
+        - A major principle is non-interference by other people or other agencies
+      - Welfare Rights
+        - Focus is the community
+        - Major concerns are what rights people have within the community and what peoples' obligations to the community are
+      - The distinctions and contradictions between these two types of rights contribute to the political narrative of the US and other countries
+    - Recognize that there are many compendiums of rights, and we consider three types of rights that can affect ethical engineering practice:
+      - United States Constitutional Rights
+        - Particularly those in the Bill of Rights
+      - Universal Human Rights
+        - As stated in the UN's Universal Declaration of Human Rights
+      - Digital Citizenship Rights
+        - A new set of rights articulated in response to the rapid growth of our interconnected society based on digital technology
+  - Constitutional Rights
+    - The basic justification for separation is given in terms of the Laws of Nature and Nature's God
+    - “We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness”
+      - Slavery exists as a contradiction to this statement => understood, but avoided to prevent the alienation of the South
+    - Note that the list of inalienable rights includes only the "pursuit of happiness," and not happiness itself
+      - Founders felt no government could guarantee this
+    - The preamble states the government's and people's relationship to these rights
+      - The government's role is to secure these rights
+      - The people's role is to ensure that the government does its job
+  - Rights Origins and Oppositions
+    - Where do rights come from?
+      - Our founders believed that basic human rights derived from outside sources (God, Nature, Natural Law)
+      - Others write that rights can derive from reasoning and the studied consideration of history, experience, and precedent
+    - How do rights differ from preferences?
+      - Think of rights as "super preferences" that supersede minor preferences
+      - Recognize that societal rights are related mainly to government, and that they serve to extend morals and ethics into law
+        - Important to society in three critical ways:
+          - They serve to restrict the actions of government
+          - They protect minority opinions and safety against actions of the majority that might undermine basic rights
+          - Consideration of rights in difficult cases serves to illuminate society's essential values
+    - Today, we're also concerned with rights that do not appear in the Constitution
+      - Ex) Privacy, healthcare, education, freedom from poverty, etc.
+      - In engineering, we're often concerned with the rights of modern technical organizations and the rights of individuals within organizations
+  - Levels of Constitutional Rights
+    - There are three levels of American constitutional rights:
+      - Federal Government
+        - The Federal Government has clear jurisdiction in the public sphere
+        - Constitutional rights are generally interpreted most broadly, even when the interpretation is controversial
+      - Local Government/Institutional/Educational
+        - The interpretation of constitutional rights may be somewhat more discretionary
+        - State and local governments may try to stretch constitutional restrictions until the Supreme Court steps in with its interpretation and ruling
+        - Application of the rights may be largely a matter of principle and can be more restrictive than the Constitution
+      - Corporate/Business
+        - Most specialized interpretation of constitutional rights
+        - Most often at the discretion of the corporate or business management
+        - Recent events have highlighted limitations on this general principle of no abridgment of rights
+    - Issues of constitutional rights become more complex within institutions and the business workplace
+- Duty Ethics
+- Virtue Ethics
+- Utilitarianism
+- Pragmatism
+- Alternative Ethical Frameworks
 
 
 
