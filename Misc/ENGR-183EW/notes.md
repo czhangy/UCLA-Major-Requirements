@@ -658,6 +658,7 @@
   - Philosophies give us the means for thinking rationally about ethical problems, and often help point the way to their solution
   - We look at five major philosophies: rights ethics, duty ethics, virtue ethics, utilitarianism, pragmatism
     - These have a direct impact on major current societal issues, as well as on issues of engineering practice
+
 - Rights Ethics
   - Concepts and Issues
     - The idea that there are basic human rights that must be respected is almost universal
@@ -714,11 +715,232 @@
         - Most often at the discretion of the corporate or business management
         - Recent events have highlighted limitations on this general principle of no abridgment of rights
     - Issues of constitutional rights become more complex within institutions and the business workplace
+
+  - Universal Human Rights
+    - Universal rights are rights that are designed to transcend rights granted by individual countries
+      - These rights can also affect ethical engineering decisions
+      - Spelled out in The Universal Declaration of Human Rights, which is considered a foundational text in the history of human and civil rights
+  - Digital Citizenship Rights
+    - New set of rights that has been advanced with the digital age
+    - "Digital citizenship can be defined as the norms of appropriate, responsible behavior with regard to technology use"
+    - Nine key areas:
+      - Digital access: full electronic participation in society
+      - Digital commerce: electronic buying and selling of goods
+      - Digital communication: electronic exchange of information
+      - Digital literacy: teaching and learning about technology and its use
+      - Digital etiquette: electronic standards of conduct or procedure
+      - Digital law: electronic responsibility for actions and deeds
+      - Digital rights & responsibilities: those freedoms extended to everyone
+      - Digital health & wellness: physical and psychological well-being
+      - Digital security: electronic precautions to guarantee personal safety
+
 - Duty Ethics
+  - Concepts and Issues
+    - The fundamental concept of duty ethics is that the action a person takes determines the ethical content
+      - Philosophies of duty ethics generally specify the required duties, and they are assumed to reflect the fundamental morals and ethics, as well as the norms of society
+    - Duties can be considered the mirror image of rights
+      - If rights are inalienably granted to humans, it's the responsibility of the human to observe and protect those rights
+      - One way to approach duty ethics is to say that each identified right has a duty associated with it
+      - Another way is to establish basic principles upon which duties are constructed
+        - This is the more traditional approach to duty ethics, called deontological ethics, or deontology
+    - To whom are what are duties owed? Why should we carry out ethical actions?
+      - The simplest answer is: "because it's right to do so"
+        - Not a fully satisfying reason from a humanistic/practical standpoint
+      - We often find that people feel an ethical obligation to other people
+        - Ethical obligation to people in the situation with them, rather than an overarching loyalty to higher authorities
+      - Philosophers developing principles of duty ethics tend to focus on broader obligations, focusing on several key principles called unification principles:
+        - Autonomy: man can determine morality through reason
+        - Universality: ethical obligations apply equally to all people
+        - Reciprocity: ethical duties entail respect for others' desires and needs
+  - The Categorical Imperative
+    - Presented in two formulations:
+      - The Universal Law
+        - "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law"
+        - Only take actions that you would want everybody else to be required to take
+        - Does not mean you should only take actions that everybody else is already taking
+        - Puts you in virtual charge of actions for all of mankind that is in the same ethical situation
+      - The End in Itself
+        - "So act that you treat humanity, whether in your own person or in the person of any other, always at the same time as an end, never merely as a means"
+        - One must recognize that all people have intrinsic value and rights, and that therefore ethical actions must not use people as means of achieving some purpose that doesn't benefit them
+        - People must always be treated as the end of actions, not as a means of facilitating actions
+  - Duties for Modern Engineers
+    - Peterson's *12 Rules for Life: An Antidote to Chaos*
+      - Peterson's 12 rules/ethical duties:
+        - Stand up straight with your shoulders back
+        - Treat yourself like someone you are responsible for helping
+        - Make friends with people who want the best for you
+        - Compare yourself to who you were yesterday, not to who someone else is today
+        - Do not let your children do anything that makes you dislike them
+        - Set your house in perfect order before you criticize the world
+        - Pursue what is meaningful (not what is expedient)
+        - Tell the truth — or at least, don’t lie
+        - Assume that the person you’re listening to might know something you don’t
+        - Be precise in your speech
+        - Don’t try to dispense with risk and danger
+        - Learn to take the bad with the good
+      - Focus on personal responsibility before then going on to cure the world
+      - Has a traditional ring: new problems have, in most cases, not generated radically new solutions
+    - Association of Computing Machinery's code:
+      - Contribute to society and human well-being
+      - Avoid harm to others
+      - Be honest and trustworthy
+      - Be fair, take action not to discriminate
+      - Honor property rights, that is, copyrights and patents
+      - Give proper credit for intellectual property
+      - Respect the privacy of others
+      - Honor confidentiality
+    - Some feel that a general code, while well meaning, does not go far enough
+      - Belief that the expanding influence of engineering brings with it a duty that has not yet been fulfilled
+      - A proactive duty that goes beyond the reactive duties propounded by engineering professional societies
+
 - Virtue Ethics
+
+  - Concepts and Issues
+
+    - Virtues are personal characteristics that give rise to ethical actions
+      - Ex) Attitudes, motivations, and emotions
+    - The goal of virtue ethics is that one should be a virtuous person
+      - Encompass in one's personality and subsequent behavior characteristics that are beneficial to society
+      - Should be done within reason
+  - The Cardinal Virtues and their Evolution
+
+    - Greek Cardinal Virtues
+
+      - Plato:
+        - Wisdom: the ability to choose a proper course of action for a given situation at the right time
+        - Courage: the ability to confront danger and uncertainty and to continue to act appropriately and effectively
+        - Temperance: the ability to practice self-control, restraint, and discretion, sometimes translated as sound-mindedness
+        - Justice: the ability to act fairly in matters requiring judgement, also translated as righteousness
+      - Influenced Roman ethical thought as well as subsequent Christian ethical philosophy
+      - Mainly intended for wealthy, land-owning males, and not for the public at large
+      - Considered justice the most important and extensive virtue
+        - Many others have considered courage the most important virtue since it enables the rest
+
+    - Roman Cardinal Virtues
+
+      - Cicero:
+        - Wisdom: essentially the same as the Greek definition
+        - Greatness of spirit: encompassing courage, but also including the idea of knowing one's own ethical framework, or being aware of one's virtues
+        - Decorum: perhaps an extension of the Romans' well-known enthusiasm for parties, the idea of keeping things quiet, particularly with regard to the hoi polloi (the common people)
+        - Justice: again, similar to the Greek definition
+        - Liberality: the quality of giving back in a generous manner, often exercised by generals and statesmen who returned some of their accumulated wealth to the people in the form of temples, games, or distributions of food and drink
+      - Recognized a large number of other values, both personal and social, in relation to their ideal of the complete person
+
+    - Christian Cardinal Virtues
+
+      - Return to the Greek Cardinal Virtues, but with the following added on:
+        - Faith: a commitment to God and to doing good works while being a witness to Christianity
+        - Hope: specifically the desire for eternal life in heaven, but more generally, an application of faith to life on Earth
+        - Love: following Jesus' teachings to love others as well as God, and expressing that love as charity toward others
+      - Love and charity are considered the most important virtues in Catholic doctrine, because they give life to the other virtues
+      - Christian philosophy treats the seven virtues as revealed knowledge and as applicable for all believers
+
+    - The Golden Mean
+
+      - Aristotle taught that there is a "Golden Mean" to virtues
+
+        - While virtues are good, both a deficiency in a virtue and an excess of that virtue would be a vice
+
+      - | Vice of Deficiency | Virtuous Mean | Vice of Excess |
+        | :----------------: | :-----------: | :------------: |
+        |     Cowardice      |    Courage    |    Rashness    |
+        |    Illiberality    |  Liberality   |  Prodigality   |
+        |   Spiritlessness   |  Good Temper  |  Irascibility  |
+        |    Depreciation    |   Sincerity   |  Boastfulness  |
+
+      - The mean is not the same for everyone and depends on the circumstances
+
+        - It's an individual's responsibility to become more autonomous, moving away from arbitrary rules and authority figures to develop their own virtue-centered morality
+
+    - Virtues for Modern Engineers
+
+      - Svend Brinkman's *Resisting the Self-Improvement Craze*
+        - Advocates a return to old-fashioned virtues:
+          - Integrity: keeping faith with your ethical framwork
+          - Self-control
+          - Character: incorporating positive virtues, performing ethical duties
+          - Dignity: maintaining a steady demeanor, even in hard circumstances
+          - Loyalty: not abdicating your obligations to groups or individuals
+          - Rootedness: knowing where you came from and your ethical sources
+          - Adherence to obligation: keeping promises, performing duties
+          - Respect for tradition: where warranted and ethically appropriate
+        - Particularly weighted toward the supposed "good old days" of moral and certainty
+        - Largely consistent with progressive ethical ideas
+      - Shiva's blog
+        - Takes a more forward view:
+          - Openness: which can include awareness of new solutions
+          - Acceptance of limitations: which also pertains to setting of technical requirements and specifications
+          - Honesty: which is an obligation to be truthful and open
+          - Deciphering criticism in the right way
+          - Thirst for learning and proactiveness: which talks to the important role of engineers in solving problems of the 21st century
+          - Willingness to take risks: which recognizes that engineers sometimes have to undertake worthwhile projects with a significant chance of failure in order to advance a field of science or technology
+      - Virtue ethics provides a useful way of addressing today's critical engineering issues, and that both the engineer and those around them can benefit from its use
+
 - Utilitarianism
+
+  - Concepts and Issues
+    - The ethical content of utilitarianism is assumed to be in the consequences of the action
+      - Also called Consequentialism
+      - Consequences are a balance of good (in the form of benefits, convenience, safety, comfort, etc.) and bad (in the form of costs, inconvenience, displacement, danger, etc.)
+      - The most ethical choice is the one in which the consequence has the greatest margin of good over bad
+        - The consequence "that produces the most happiness for the most people"
+    - Engineers are comfortable with the Utilitarian philosophy because it involves the decisions we make continually
+  - Cautions
+    - In practicality, this philosophy has a number of problems, called cautions:
+      - Unforeseen Consequences
+        - Dependent on ethical content being contained in the consequences of actions
+        - However, it's not always possible to understand all of the consequences of an action in advance
+      - Inequitable Distribution of Happiness
+        - Happiness for "the most people" doesn't always guarantee a fair outcome
+        - Often necessary to focus on the people being left out, as they may be the poorest, or most poorly represented
+        - Avoiding a substantial portion of unhappiness for a few people might be the most important factor in making an ethical choice
+      - Societal Values
+        - Engineers are frequently accused of focusing on technical solutions to problems and neglecting the societal implication of those solutions
+        - Solutions may undermine long-term societal values or conditions that are important to uphold
+    - Important to recognize that some actions are basically wrong, even if their consequences could be beneficial
+      - In these cases, the weight of ethical content lies in the action, and not in the consequence
+
 - Pragmatism
+
+  - Concepts and Issues
+    - The fundamental concepts of pragmatism are the following:
+      - There is a specific, well-defined context, the problem space, within which facts and values must be balanced
+      - The solution will usually require ethical reasoning rather than adherence to fixed rules or ideals
+      - There must also be some flexibility in integrating and harmonizing competing values in order to arrive at a satisfactory solution
+    - In engineering, we refer to "point solutions", which are solutions that are not generalizable or scalable, and are treated as less valuable
+      - Important to realize that a series of ethical point solutions can do a lot toward moving a socio-technological area forward
+  - Conclusions
+    - A characteristic of pragmatic solutions, as with Utilitarian ones, is that they are dynamic
+      - The solution is a compromise among a variety of factors which may change
+      - The principles in contention may also evolve, changing the solution with time
+    - The key lessons of pragmatism:
+      - Cases are concrete dilemmas with differing ethical opinions
+      - Emphasizing principles over particulars often leads to accentuation of differences
+      - Emphasizing particulars over principles can lead to reconciliation of differences
+
 - Alternative Ethical Frameworks
+
+  - There are other pathways as well:
+    - Non-Judeo/Christian: there are Islamic, Buddhist, Hindu, and a host of frameworks starting from other roots and encompassing many but not all of the same ethical considerations
+    - Nonreligious: as was pointed out by the Dalai Lama, there are numerous frameworks derived from a secular perspective, sometimes called Secular Humanism, but which might admit some higher influences
+      - At the end of this spectrum are frameworks derived from Atheism, which unequivocally rejects all transcendental roots
+    - Nonmale centered: there are feminist frameworks that attempt to begin with considerations of nurturing, compassion, and inclusiveness rather than rights of property owners and slave-holders, a criticism made of early Western codes including the Old Testament
+    - Nonadult centered: these frameworks center on the rights of fetuses, of infants and of children
+      - In a sense, they are an extension of child labor laws, but the philosophies behind them are broader and more universal
+    - Nonhuman centered: current ethical debates include questions of current animal rights and, in particular, the rights of our close cousins, the primates, who are still used a laboratory subjects without their consent
+      - As DNA engineering progresses, these animals and others may gain abilities to speak and to write
+        - What will be their place in society then?
+      - In addition, issues of pollution and climate have focused attention on the rights of nature itself:
+        - Do trees and forests have a right to life?
+        - What are the rights of the ecosystem?
+    - Nondemocratic: dictatorships, monarchies, and theocracies still exist in the world
+      - These forms of government are much different from ours with sometimes fundamentally different sets of rights and duties
+    - Nonpolitical: again, there is a spectrum from Libertarian thought, which advocates a minimum government concerned with defense and little else, to Anarchistic thought, which advocates for virtually no government at all
+    - Nonmartial: this philosophy builds a pacifistic framework based on the complete rejection of militarism and war, certainly not a mainstay of most Western philosophies
+    - Non-capitalistic: these frameworks, as Socialism and Communism, which hardly exist today in their originally conceived form, still advocate extensive state involvement in social and economic matters
+    - Non-altruistic: the objectivist philosophy associated with Ayn Rand, author of *The Fountainhead* and *Atlas Shrugged* advocates for fair exchange of goods and services, rejecting such one-sided acts as those of charity
+    - Nonessentialist: this is the Existentialist philosophy we introduced in Chapter 1, which basically says our character is determined by our actions and not a result of our natural being
+  - Having available a variety of ethical sources and philosophies gives you more material with which to build your personal ethical framework and with which to address ethical problems in your engineering career
 
 
 
