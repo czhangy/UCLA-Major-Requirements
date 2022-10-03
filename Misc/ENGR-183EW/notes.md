@@ -238,7 +238,170 @@
 
 ## Lecture 3: Ethical Philosophies
 
-- 
+- Rights Ethics
+  - Fundamental Concepts:
+    - Human rights are basic
+    - Respect for rights is obligatory
+
+  - Two Types of Rights:
+    - Liberty Rights
+      - Individuals are the focus
+      - Non-interference and property protection
+
+    - Welfare Rights
+      - Communities are the focus
+      - Promises, covenants, and benefits
+
+  - Examples:
+    - Modern rights
+      - US Constitutional rights
+        - Not limited: the ninth amendment says that just because a right is not mentioned in the Constitution, that right may still belong to the people and it is not denied or criticized
+
+      - Universal Human Rights
+      - Digital citizenship rights
+        - Defined as the norms of appropriate, responsible behavior with regard to technology use
+
+    - American foundations
+      - Declaration of Independence
+      - Constitution and Bill of Rights
+
+    - Rights in opposition and application
+
+  - Rights Origins and Issues
+    - Where do rights come from?
+      - Outside sources: God, nature, natural law
+      - Inside sources: history, precedent, reason
+      - Wrongs: bad experiences + moral thinking
+
+    - How do rights differ from preferences?
+      - Related mainly to governments
+      - Extend morals and ethics into law
+      - "Super preferences" superseding minor preferences
+
+    - Why are rights important?
+      - Restrict the actions of government
+      - Protect minority opinions and safety
+      - Illuminate society;s essential values
+
+  - Rights are frequently in opposition
+  - Morals, Ethics, the Law, and Constitutional Rights
+    - Laws are particularly relevant to rights, and laws are changeable
+
+  - Legal Enforcement of Constitutional Rights
+    - Federal Government
+      - Broadest level of enforcement even when rights are controversial
+
+    - Local Government/Educational/Institutional
+      - Generally match federal, but more discretionary and dependent on special local situations
+
+    - Corporate/Business
+      - Most specialized and more restrictions on rights of employees
+
+  - The First Amendment
+    - The constitutional prohibition is against Congress restricting the right to practice of religion, freedom of speech and the press, or of peaceable assembly
+    - These constitutionally recognized rights generally pass down to state and local governments
+    - At other societal levels, their interpretation depends strongly on the particular situation, and they can affect engineering practice in a variety of ways
+
+- Duty Ethics
+  - Fundamental Concepts:
+    - The action determines the ethical content
+    - Required duties are actions that reflect basic moral or ethical principles as well as societal standards
+    - Duties mirror rights => for each right, there's an associated duty
+
+  - Examples:
+    - The Ten Commandments
+    - Code of Chivalry
+    - Cadet Honor Code
+    - Professional Codes
+
+  - Related Issues:
+    - Unification principles:
+      - Autonomy: man determines morality through reason
+      - Universality: principles apply equally to all people
+      - Reciprocity: respect for others' desires, needs, and efforts
+
+    - *Kant's Categorical Imperative*
+      - First formulation (The Universal Law):
+        - "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law"
+      - Second formulation (The End in Itself)
+        - "So act that you treat humanity, whether in your own person or in the person of any other, always at the same time as an end, never merely as a means"
+
+  - Modern Duties
+    - The National Society of Professional Engineers holds a code for the fulfillment of professional duties
+
+- Virtue Ethics
+  - Fundamental Concepts:
+    - Virtues are:
+      - Motives, attitudes and emotions
+      - Guides to conduct
+
+    - Goal is to be a virtuous person
+
+  - Examples:
+    - Religious precepts
+    - Asian Warriors' Code
+    - Boy Scout Code
+    - Modern virtues
+
+  - Related Ideas:
+    - Plato's *Cardinal Virtues*
+    - Aristotle's *Golden Mean*
+
+  - Cardinal Virtues
+    - Greek "Cardinal" virtues of Plato and Aristotle were mainly intended for wealthy, land-owning males
+    - Roman virtues of Cicero were intended for civic leaders of the more expansive and militant Roman Empire
+    - Christian fundamental virtues are intended for all belivers and have transcendental and historical roots
+    - Virtues are values expressed as permanent modes of behavior
+
+  - The Golden Mean
+    - Aristotle taught that while virtues are good, a deficiency in a virtue would be a vice and an excess of that virtue would also be a vice
+
+  - Modern Virtues
+    - Other authors may have other favorite virtues, but agree that virtue ethics provides a useful way of addressing engineering problems, and that both the engineer and those around her benefit from its application
+
+- Utilitarianism
+  - Fundamental Concepts:
+    - The consequences of an action determine the ethical content
+    - Consequences are a balance of good (benefits) vs. bad (costs)
+    - Ethical consequences give "the most happiness for the most people"
+
+  - Examples:
+    - Cars: speed and convenience vs. safety and economy
+    - Air and water pollution: public health vs. industrial defense
+    - Genetically engineered foods: societal benefits vs. ecological risks
+
+  - Cautions:
+    - Inequitable distribution of happiness
+    - Neglect of societal relations and values in the interest of results
+    - Unforeseen consequences
+    - Actions that are basically wrong, whatever the consequences
+
+- Pragmatism
+  - Fundamental Concepts:
+    - Context, in which facts and values must be balances
+    - Analysis: ethical reasoning vs. fixed rules or ideals
+    - Flexibility, in integrating and harmonizing competing values
+
+  - Related Principles:
+    - Guidance: methods of analytical thought
+    - Warning: against generalizing from specific areas
+
+- Alternative Ethical Frameworks
+  - Non-Judeo/Christian: Islamic, Buddhist, Hindu, etc.
+  - Non-Religious: Secular Hominism, Atheism
+  - Non-Male Centered: Feminist
+  - Non-Adult Centered: Fetal, Infant, and Child Rights
+  - Non-Human Centered: Animal, AI Entities, and Nature Rights
+  - Non-Democratic: Dictatorship, Monarchy, Theocracy
+  - Non-Political: Libertarian, Anarchistic
+  - Non-Martial: Pacifistic
+  - Non-Altruistic: Objectivist (Ayn Rand-ism)
+  - Non-Essentialist: Existentialist
+
+- Conclusion
+  - It is almost impossible today not to violate somebody's ethical principles, no matter what you do
+  - On the other hand, having a variety of ethical sources and philosophies gives you more material with which to build your Personal Ethical Framework
+
 
 
 
