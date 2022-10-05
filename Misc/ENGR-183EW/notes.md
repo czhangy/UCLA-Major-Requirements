@@ -1227,6 +1227,61 @@
       - Achieve satisfaction
         - The leader will facilitate satisfaction in one's work
         - Satisfaction for engineers comes in large part from believing that their work is valued, enjoying their day-to-day activities, and seeing that their work has real-world results
+    - The effective leader accomplishes these objectives by fulfilling a variety of roles:
+      - Servant: the leader acts to meet the needs of the team, which are sometimes clearly stated, and other times need to be uncovered
+      - Contractor: the leader enters into informal but binding covenants with his team members concerning their mutual work obligations, while the organization or company may make more formal employment contracts
+      - Motivator: the critical area of team motivation falls mainly to the leader, although individual members may also contribute
+      - Example: the good leader shows a willingness to undertake the tasks required of the entire team, including hardship and risk if necessary
+      - Interpreter: the leader establishes context for what the team is undertaking, and to a great extent, defines reality in terms of the work environment, its requirements, its risks, and its potential reward
+    - The Gal and Jones model describes "The Leader as Lens"
+      - The model says that the leader provides an appraisal of the situation in terms of expectations, interpretations, and modes of presentation
+      - The team reacts with physical, emotional, cognitive, and social responses
+        - These responses determine how the team's effectiveness ranges from productive activity to destructive breakdown
+      - Emphasizes the importance of the leader's appraisal and subsequent reappraisal
+        - Much of the content of these appraisals is based on experience
+  - Emotional Intelligence
+    - Five main factors:
+      - Self-Awareness
+        - Ability to recognize and understand your own moods, emotions, and drives
+        - Realistic self-assessment is generally associated with self-confidence, and often accompanied by a sense of humility and a self-deprecating sense of humor
+        - A highly important aspect is understanding the effect you have on others
+        - The objective is to have a positive and motivating effect
+      - Self-Regulation
+        - Ability to think before acting, and to control your impulses and emotions so that your actions are in accord with your intentions and with your ethical principles
+        - Component of effective communication, particularly listening
+        - Can become difficult during stressful situations, but is a critical part of leadership
+          - A leader's emotions are contagious
+        - Can be identified with accepting ambiguity and being open to change without major swings in mood or attitude
+      - Motivation
+        - Ability to impart projects with meaning and passion
+        - The recognition that engineers, and particularly the newer generation of engineers, are motivated by factors beyond the traditional ones of money and status
+      - Empathy
+        - The capability to understand others' emotional makeup, and the ability to treat them accordingly
+        - May involve an appropriate response to emotional difficulties team members are having due to personal as well as work factors
+        - May also involve realizing that someone is having difficulties with social relationships within a team due to a deficiency in his or her ability to read other people's emotions
+      - Socialization
+        - Managing relationships within the team
+        - Can include creating social networks, both inside and outside the team, finding common ground on the approach to problems, and building rapport among the team members
+    - Dr. Daniel Goleman describes two types of interaction associated with emotional intelligence
+      - An external interaction between you and others
+      - The internal interactions among the factors
+      - "High levels of emotional intelligence create climates in which information sharing, trust, risk-taking, and learning flourish. Low levels of emotional intelligence create climates rife with fear and anxiety."
+    - The effective leader must realize that their immediate emotional state can also affect the team's performance
+      - The leader needs to exercise self-awareness and self-regulation, particularly when circumstances are difficult, and if possible, present the situation in a realistically positive and hopeful way
+  - Additional Factors
+    - Team Orientation
+      - Members must consider themselves part of a team, and not just as individuals performing tasks at the same time
+      - Difficult to define, easy to recognize
+    - Adaptability
+      - Team must be able to adapt to changing circumstances, as projects rarely go according to plan
+      - Flexibility and reacting quickly are a necessity
+    - Motivation
+      - Engineering teams need to be motivated, with every member sharing the desire to succeed
+    - Trust
+      - Can manifest both positively and negatively
+      - Proper calibration of trust produces the best results
+    - Feedback
+      - 
 
 
 
