@@ -1111,7 +1111,6 @@
 
 - Introduction
   - Important for engineers to know and understand the factors that help determine successful teams and effective leadership
-
 - Engineering is Fundamentally Social
   - Fundamentally social in two ways:
     - Engineering's broad relationship with society
@@ -1121,7 +1120,6 @@
     - People-centered
       - Engineering is people-centered externally in its response to critical societal needs and constraints
       - Engineering is people-centered internally in the social dimensions of engineering team processes
-
 - Engineering is a Team Sport
   - Like in sports, engineering teams compete
     - If the team is part of a company, it competes for the acquisition of projects
@@ -1145,7 +1143,6 @@
       - Capability of team members and leaders to operate effectively and successfully as a team
       - Include a variety of methodological and social factors
       - In many cases, teamwork skills are as important and sometimes more important than technical skills
-
 - Competencies of Top Executives and Managers
   - Recognition that women and men with organizational, team building, and leadership skills are what we would expect at the top of any good organization
     - Same with the ability to cope with the inevitable problems that arise
@@ -1153,7 +1150,6 @@
 
   - Due to project managers' close connection with their team's members, interpersonal skills, and communication
     - Ability to resolve differences and reach conclusions without offending or alienating the team members is also necessary
-
 - Social Factors Affecting Team Performance
   - Overall
     - Essential factors with demonstrable effect on team performance:
@@ -1281,7 +1277,102 @@
       - Can manifest both positively and negatively
       - Proper calibration of trust produces the best results
     - Feedback
-      - 
+      - Continual, honest, and accurate assessment of how the team is functioning is a fundamental necessity for correcting immediate problems and for improving long-term performance
+      - Self-awareness on the team level
+      - Assess each of the factors from earlier as important => process-oriented
+    - Diversity
+      - The opening of engineering education to a greater number of minority students ensures that today's and tomorrow's team members and leaders will be operating in a diverse environment
+- Diversity and Engineering Teams
+  - The current US society/workforce is more diverse than ever before in terms of minority representation
+  - Positive Factors
+    - The benefits of team diversity include the following:
+      - Improved active thinking: promotes positive changes in active thinking processes, intellectual engagement and motivation, and learning skills
+      - Improved critical thinking: diversity in work groups increases creativity, tolerance of ambiguity, and the ability to recognize flaws in potential actions
+      - Improved management skills: managers who are effective with a diverse staff are more likely to succeed in a workforce driven by worldwide demographics
+
+    - Diverse teams may approach the analysis and solution of problems from perspectives that homogeneous teams, even of exceptional individuals, may overlook
+
+  - Academic Viewpoints
+    - Stated objectives of the UCLA Diversity Committee:
+      - Prepare engineering students to be effective as leaders in diverse working environments
+      - Teach engineering students how best to use diversity in project teams
+      - Show engineering instructors opportunities to encourage and promote diversity in courses
+      - Encourage engineering students and instructors to promote diversity in school and at work
+
+  - Diversity at a Major Engineering School
+    - Recommendations:
+      - Outreach focused on attracting lower income and women students to engineering at an early age
+      - Recommendations for improved support services
+      - Recommendations for improved diversity awareness
+      - More project-oriented activities involving multiple ethnicities and random assignment to overcome ethnic grouping
+      - Expanded criteria for admission that would not be so heavily focused on GPA and standardized tests
+      - Increased financial aid, especially for international students
+
+    - Conclusions:
+      - Diversity climate was perceived to be reasonably fair and supportive
+      - Future professionals saw significant room to improve
+      - Students' responses were relatively uniform across categories, with some gender differences and greater ethnic differences
+      - Students were "thinking like engineers"
+
+  - Awareness of Bias
+    - A major recurring problem is bias exhibited toward persons who are still minorities in engineering practice
+    - Common forms of bias include:
+      - Competency proving: minority groups repeatedly have to demonstrate that they are qualified for and capable of performing the jobs they are actually doing
+      - Failure to differentiate: a member of a minority group is mistaken for another member of that group
+        - Most pronounced for Euro-Americans when interacting with Asians or people of color
+
+      - Sexual innuendo: a woman's normal request for work assistance or collaboration is taken as a romantic advance or a suggestion that she would like a date
+      - Microaggression: a remark made without knowing that its implication is actually offensive or demeaning to the person receiving it
+
+  - Microaggressions
+    - This type of remark can wear someone down and cumulatively cause psychological distress
+    - A form of harassment, even if not intended as such
+    - The ability to recognize, understand, and avoid microaggressions requires a combination of social knowledge and personal empathy
+    - Most of us harbor implicit biases, which may affect highly technical systems
+    - Suggestion that organizations should adopt policies that make individuals' actions more dependent on objective criteria than on personal preferences
+
+- Team Methodological Skills
+  - Elements of Structured Decision Making
+    - Main steps in methodological team problem-solving:
+      - Establish a Process
+        - Decide on the methodology, differentiate facts and assumptions, and recognize unknowns/act to address them
+        - Starts with defining objectives, the final product, the time available, and the time distribution
+          - Defining objects includes recognizing major issues, establishing requirements, dealing with prioritization, and outlining tasks to be accomplished
+
+      - Analyze the Situation
+        - Keep facts and assumptions separate by not allowing opinions to pass as facts and deal with uncertainties where they occur
+        - Important not to pursue actions before agreeing on goals and constraints
+
+      - Develop Alternative Courses of Action
+        - Involves taking time to identify options and to discuss and analyze their relative merits, considering both benefits and costs or adverse consequences
+        - Important not to focus too early on one strategy or to dismiss any alternatives prematurely
+
+      - Make the Decision
+        - Incorporates all of the above
+
+- Summary
+  - Ten commandments of team ethics:
+    - Respect your teammates’ knowledge and expertise
+    - Listen to and seriously consider teammates’ opinions
+    - Share your knowledge and ideas openly and freely
+    - Help others to achieve their potential
+    - Acknowledge others’ accomplishments enthusiastically
+    - Emphasize “We” instead of “You” or “I” in discussions
+    - Defend (reasonably) the team when challenged
+    - Benefit from diversity of teammates background and experience
+    - Avoid discomforting or offending team member
+    - Treat your teammates as you would want to be treated; do not treat them as you would not want to be treated.
+
+  - Engineering is basically a team-based social activity because:
+    - The complex societal problems it deals with depend on teamwork to solve
+    - Engineering teamwork inexorably involves social and ethical factors
+
+  - Team success depends on a combination of technical skills, interpersonal skills, and methodological skills
+    - The interpersonal skillset includes communication, organization, leadership, team-building, coping, negotiation, and decision-making
+    - Good leadership is essential for team success, and emotional intelligence is essential for good leadership
+
+  - Interpersonal skills may govern our professional advancement
+
 
 
 
