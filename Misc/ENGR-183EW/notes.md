@@ -1109,7 +1109,125 @@
 
 ## Reading 4: Effective Teams and Leadership
 
-- 
+- Introduction
+  - Important for engineers to know and understand the factors that help determine successful teams and effective leadership
+
+- Engineering is Fundamentally Social
+  - Fundamentally social in two ways:
+    - Engineering's broad relationship with society
+      - Virtually every facet of modern society is dependent on interactions with engineering
+        - Ex) business, medicine, infrastructure, energy, transportation, communication, entertainment, art, etc.
+
+    - People-centered
+      - Engineering is people-centered externally in its response to critical societal needs and constraints
+      - Engineering is people-centered internally in the social dimensions of engineering team processes
+
+- Engineering is a Team Sport
+  - Like in sports, engineering teams compete
+    - If the team is part of a company, it competes for the acquisition of projects
+    - Once a project is secured, the team competes for internal resources in the form of facilities, equipment, and personnel
+    - If the project results in a commercial product, the team competes or marketing attention, advertising budget, and sales against other products
+
+  - Also like in sports, teams are rewarded and penalized for their performance
+    - The rewards of winning are real and substantial
+      - Winning improves team members' job security and salary, their career path, and their ability to make contributions to their organization and to society
+
+    - Losing isn't disastrous, but is obviously less beneficial
+      - Can still gain experience, technical knowledge, and positive exposure in a loss
+
+  - A team's winning or losing depends on two sets of skills:
+    - Taskwork Skills
+      - Technical capabilities
+      - Name that research psychologists give to the ability to carry out complicated tasks
+      - Include deep knowledge in relevant technical disciplines and the ability to translate that knowledge into workable designs and successful systems or products
+
+    - Teamwork Skills
+      - Capability of team members and leaders to operate effectively and successfully as a team
+      - Include a variety of methodological and social factors
+      - In many cases, teamwork skills are as important and sometimes more important than technical skills
+
+- Competencies of Top Executives and Managers
+  - Recognition that women and men with organizational, team building, and leadership skills are what we would expect at the top of any good organization
+    - Same with the ability to cope with the inevitable problems that arise
+    - Low importance attributed to technological skills
+
+  - Due to project managers' close connection with their team's members, interpersonal skills, and communication
+    - Ability to resolve differences and reach conclusions without offending or alienating the team members is also necessary
+
+- Social Factors Affecting Team Performance
+  - Overall
+    - Essential factors with demonstrable effect on team performance:
+      - Communication
+      - Leadership
+      - Emotional Intelligence
+
+  - Communication
+    - Engineering team members must be able to communicate effectively if they are to solve ethical as well as technical problems
+    - Four main factors:
+      - Exchanging
+        - Involves two processes:
+          - Presenting
+            - The effective use of language, the ability to speak presentably, and the ability to persuade others
+            - Fear of public speaking can be suppressed through awareness, practice, and experience
+
+          - Listening
+            - Includes paying attention, inquiring, clarifying, summarizing, reflecting, not thinking about something else, and not interrupting
+            - Effective listening sometimes involves as much thought and effort as effective presenting
+
+      - Supporting
+        - Promoting supportive activities within the team and establishing an overall supportive environment in the larger organization
+        - Two internal team factors:
+          - Interpersonal
+            - Includes assuming others' opinions are useful, pointing out positive aspects, creating opportunities for others to speak, and building on others' ideas
+            - Experienced and knowledgeable team members can make valuable contributions even if they do not have advanced degrees
+
+          - Personal
+            - Includes being open, friendly, empathetic, motivating, not controlling, not criticizing a person's character or attributes, and not using negative body language while another person is presenting
+            - A verbal or written compliment on work well done is always welcome
+            - Criticism, if necessary, should be work related and not involve personality issues, unless these are violating team or corporate ethical principles against harassment or other offensive behaviors
+
+        - Creating a generally supportive environment is a responsibility of organizational leaders or company executives, and should be planned and not left up to chance
+
+      - Differing
+        - When alternative options are associated with different team members, a main objective in considering them is to separate egos from ideas, letting the best ideas win, and not the biggest ego
+        - Two components:
+          - Intra-team
+            - Deal with intra-team conflicts by arguing constructively within the context of the problem
+            - Avoid at all costs arguments that focus on the character and identity of the opponent
+
+          - Individual
+            - Objective is not to retreat or change your position just to avoid a confrontation
+            - Realize that confrontation of one type or another is inevitable as part of team problem solving
+              - Do it thoughtfully and respectfully so that all the confronters come away feeling satisfied
+
+        - Best result of differing is a consensus solution, which may include components from various sources, but is above all one that every participant can subscribe to
+        - Solutions that are imposed by dictum of the leader/upper management rarely survive the subsequent team effort
+
+      - Participating
+        - All members participate in the process, incorporating previous behaviors in their participation
+        - Two main considerations:
+          - By the Leader
+            - Leader must involve all team members, giving each an equal chance to contribute and not letting one or two dominate
+
+          - By the Member
+            - Each team member should not only make sure that she or he contributes, but should stand firm and not withhold, withdraw, or defer because of more aggressive team members
+
+        - Participation goals are particularly important for members coming from underrepresented groups in engineering
+          - Historically, it has been harder for these groups to get their input included and attended to
+
+  - Leadership
+    - Leadership facilitates team success, and every project requires a leader to reach successful completion
+    - The most valuable things that a leader can do is to allow his or her team members to achieve the following objectives:
+      - Make their contribution
+        - Individuals are placed on a team for a reason and it's the leader's responsibility to see that those contributions are all realized
+
+      - Realize their potential
+        - A good leader will extract from the team members the best that they have to give
+
+      - Achieve satisfaction
+        - The leader will facilitate satisfaction in one's work
+        - Satisfaction for engineers comes in large part from believing that their work is valued, enjoying their day-to-day activities, and seeing that their work has real-world results
+
 
 
 
