@@ -1379,7 +1379,122 @@
 
 ## Reading 5: Ethical Engineering Projects
 
-- 
+- Introduction
+  - Focus on what defines an engineering project, how teams are organized into projects, and how project management allows them to succeed
+  - Can we establish a "bright-line" rule to differentiate ethical and unethical engineering projects?
+
+- Project Description
+  - Components
+    - An engineering project is a technical activity with specific objectives
+      - Can be early R&D, midcourse design and prototype design demonstration, or final system production, operation, and maintenance
+
+    - Usually bounded in multiple dimensions:
+      - Inputs are bounded with respect to requirements and constraints
+      - Outputs are bounded with respect to deliverable products and/or data, services provided, and reports
+      - Budgets generally bound the financial resources available, as well as the spending profile
+      - Schedule establishes bounds for the beginning and for the end
+      - Resource bounds determine the available personnel, facilities, and equipment
+
+    - Projects are staffed with one or more teams of dedicated personnel representing varied disciplines: science and technology, management and administration, and support
+    - Projects comprise a set of interrelated components, one of the most important of which is system requirements
+      - Requirements come from a variety of sources and have multidimensional characteristics
+
+    - Systems engineering is an essential area of project conceptualization and initial design, and generally accomplishes the following tasks:
+      - System concept: defines the overall design and functions of the system being developed, designed, and/or manufactured
+      - Subsystem definitions: complete the details of system concept
+      - System modelling: includes the consideration of tradeoffs among technical and operational parameters
+      - Modelling data: acquired by analysis, experimentation, or prior sources
+      - Verification: uses the modelling data to show that all the requirements are achievable
+      - Specification: quantify the requirements into actual system design factors
+
+    - Projects are difficult for a variety of reasons
+      - The problems for which a solution is desired may not be completely solvable
+      - There may exist conflicting requirements and differing stakeholders' motivations
+      - Modelling data may be incomplete, contradictory, or nonexistent
+      - May be fundamental limitations of either technology or physics
+
+  - Project Organization
+    - We would likely organize the project as a combination of project subsystem teams and other functional elements
+      - There would be engineering development teams associated with each of the subsystems, but there would also be a team for system engineering and a team for test facilities development/operation
+      - There would be a management team comprising at minimum a project manager and assistant product manager
+      - There would be a marketing team tasked with analyzing the potential market and helping define the product requirements and specification
+      - There would be a number of support teams, including personnel concerned with project finances and control, with subcontracts to service or material suppliers, with purchasing of components and supplies, and with any legal issues that might arise
+
+    - A work breakdown structure (WBS) would be established for the project
+      - Accounting numbers would be assigned the project tasks and other cost categories so that expenditures could be tracked against the various project components
+
+  - Project Phases
+    - Project would likely move through several stages:
+      - Planning: comprises system concept, requirements, specifications, feasibility analysis, documentation, total program cost estimates, and plans for preliminary design
+      - Initial design: preliminary hardware and software design based on system concept, maybe including results of experiments, analyses, and studies, as well as verification of all specifications
+        - May include revised project cost estimates
+
+      - Prototype development: includes working design for hardware and software, prototyping and qualification, manufacturing plans, production cost estimates, and plans for final design
+      - Production, delivery, and operations: includes final design, product manufacturing/assembly, installation, support, and maintenance
+
+    - Completion of each phase is a major milestone
+
+  - Management Tools
+    - Completion of project tasks are planned and monitored by task schedules
+    - Projects will generally have a means of tracking costs
+      - Running above planned costs is always dangerous, as the project may exhaust its funds before completion
+      - Running below planned costs may be a good thing, but it could also be an indication that tasks are not being adequately staffed, that the work itself is falling behind schedule, or that the cost estimate was flawed to begin with
+      - Management should try to determine the cause of differences between planned and actual costs
+
+    - The project would then go through a number of review cycles:
+      - Peer Reviews
+        - Occur on a day-to-day basis among project team members and leaders
+        - The primary forum where progress is assessed and problems get identified/solved
+
+      - Management Reviews
+        - Occur on a periodic basis as determined by the pace of the project and the managers'/organization's procedures
+
+      - Periodic Stakeholder Reviews
+        - May occur at set intervals
+        - Generally include representatives of all key groups and occupy a day or more of presentations
+
+      - Major Milestone Reviews
+        - Held when major milestones are achieved
+        - Includes all major contributors and stakeholders, and may take longer than periodic stakeholder reviews, as this is where critical project decisions are discussed and determined
+
+  - High-Level Questions
+    - Is management an end in itself or a means to an end?
+      - Nobody does project management for its own sake
+      - It's always done in the service of achieving a successful end product
+
+    - Does project management stifle creativity or free technical expression?
+      - Management can be both stifling and freeing
+      - There are frequently good engineering ideas during a project that will constitute changes in design and affect requirements, specifications, cost, and schedule
+        - If they are not caught and deterred early, they may result in a product that completely misses the intended target
+        - Often necessary for management to delay the implementation of the idea
+        - Sometimes the idea is too good to neglect, and it's the duty of the management to justify the change of course
+
+    - Is project management boring or stimulating?
+      - Depends entirely on the person
+
+- The Bright Line Criteria
+  - How do we separate ethical projects from unethical projects?
+
+  - The criteria for punitive damages can be summarized as follows:
+    - Malicious: there is prior knowledge of the injurious effects, and perhaps even harmful intent
+    - Fraudulent: there is false representation of the product, generally that it is safe rather than dangerous, often with concurrent suppression of the true facts, such as intern results and reports
+    - Oppressive: the company or organization is able to impose its power to deny the public its basic rights to knowledge and safety
+
+- Ethical Ambiguity
+  - In many cases, the situation may introduce ethical ambiguity
+  - Suppression and Misdirection
+    - The nuclear disaster of the Fukushima Daiichi Nuclear Power Plant in Okuma, Japan
+
+  - Negligence, Procrastination, and Greed
+    - Amtrak incident between Seattle and Portland
+    - The Camp Fire in Paradise, CA
+
+- The Bright Zone
+  - The complexity of most engineering projects makes it difficult to apply a single criterion or a set of criteria to determine their ethical nature/assign responsibility for unethical portions
+  - Ethical analysis must trace, in detail, the network of project participants, their tasks, their influence, and the results of their actions
+  - The separation of ethical from unethical projects can be thought of as a "bright zone", where careful, case-by-case consideration of issues and values is necessary before a final determination can be made
+    - This is the philosophy of Pragmatism applied in the area of projects
+
 
 
 
