@@ -1500,7 +1500,235 @@
 
 ## Reading 6: The Process of Industrialization
 
-- 
+- Introduction
+  - If we understand how technology and society have interacted in the past, we gain a framework of understanding that allows us to put current issues into context and better understand their societal implications
+    - It's essential to know how we got here in order to recognize where we are now and where we're going
+
+  - There were some periods in the past that were exemplary from the standpoint of society's relationship to technology, and remembering them might help us introduce the good parts again
+
+- Egypt and Mesopotamia: Technology – Small and Large
+  - Historians have observed that technology evolves in complexity, adaptation, specialization, and persistence
+    - Items that were available in the past remain available now and process that people used in the past remain available now
+
+  - Middle Eastern regions show us village technology raised to a higher level by "industrial" processes such as metal smelting, pottery firing, and glass making
+  - In Egypt and Mesopotamia, technology included the following segments:
+    - Animals: used for power, food, and clothing
+    - Agriculture: both family and communal farming
+    - Cloth: spinning to create thread from fibers and weaving to create cloth from thread
+    - Communications: writings, pictures, and models for record keeping and communication as well as part of religious practice
+    - Fire: for heating, cooking, and industrial shop work
+    - Iron and other metals: for weapons as well as for tools and utensils
+    - Pottery: hand-formed or spun on a wheel with glazing and firing for holding liquids
+    - Glass: ornamental as beads and amulets and later functional in the form of small bottles for perfume and other essences
+    - Structures: houses, buildings, and monuments made of wood, brick, and stone
+    - Wheels: used for transport and also for engines of warfare
+    - Water conduits: in the form of canals providing for irrigation, drinking, and disposal of sewage
+
+  - "Agriculture was the basis of the economy, home was the center of most production, and the main source of power was man or beast"
+  - Region also produced technology on a grand scale: the Pyramids of Giza
+    - Remain a tribute to grand visions and building to last, as well as prototypes for the Greek/Roman architectures to follow
+
+
+- Ancient Greece: Classical with Instruments
+  - Ancient Greece and Rome established the models upon which the societies of Europe and the New World were built
+  - In addition to excellent stonework, the Greeks were also highly proficient in the creation of fine instruments from metal
+  - Greek technology of mechanisms and instruments shows a surprising amount of science and precision
+    - Some used for civil engineering and warfare
+    - Mostly used for academic study and demonstration of phenomenon
+      - Ex) Astrolabe to illustrate the observed movements of heavenly bodies, Antikythera mechanism used as a calendar computer
+- Roman Empire: Template for European Civilization
+  - Technology was an indispensable part of Rome's widespread empire
+  - Technology Highlights
+    - Less about sophisticated instruments in support of science/teaching, and more about straightforward, highly practical mechanisms and methodologies for civil engineering/transportation/warfare
+    - Major aspects of Roman technology included:
+      - Power transmission: Roman improvements included heavy-duty gearing as part of large mechanisms, screws and screw drives, and force pumps and their applications
+      - Concrete: Romans excelled at building with concrete (arches, vaults, domes, docks, sea walls, bridges, etc.)
+      - Aqueducts: Romans built elevated aqueducts to bring water from the mountains, where it was available, to the cities and towns where it was needed
+      - Roads and stairs: Romans' many-layered roads and their marble stairs
+      - Glass: sophisticated glass bottles and other objects used for personal, home, and business use
+      - Ships: shipbuilding technology focused on war, using both rowers and sails for propulsion; designed to sail close to shore and often include a bronze ram to disable enemy ships
+      - Weapons: military technology added more sophisticated armor and standoff weapons to the arsenal of the individual soldier, aided by advanced tactics
+      - City planning: the Romans had a template for cities, which they applied throughout their extensive empire
+  - Technology of Daily Life
+    - The Romans were similar to us in their personalities, their interests, and in how they conducted their daily lives
+    - Two types of construction that exemplify Roman architecture are the Roman Coliseum and the Roman aqueducts
+    - "All roads lead to Rome"
+      - Attests to the important of Roman roads to their empire
+      - Roads built to last
+  - Empire and Organization
+    - Roman organization gave us the template for subsequent European society, both for its cities and for the integrated state
+    - The Roman model included the following:
+      - Consistency: Roman city plans were similar throughout the Empire
+      - Infrastructure: Cities provided for housing at several economic levels, for commerce, entertainment, sports, recreation, and eduction, while also providing water distribution and sewage disposal
+      - Governance: cities included public buildings where functions of government were carried out, including politics and courts of justice
+    - With respect to the integrated state, we see:
+      - Politics and the military: centrally coordinated from Rome and widely applied throughout the empire
+        - Remote governors and commanders often returned to Rome to prestigious positions or retirement
+        - Public argumentation and political orations were a regular part of Roman life
+      - Transportation: Roman armies, supplies, and trade goods moved by land over the well-constructed road and by sea in Roman vessels
+      - Communication: messages were sent to remote outposts primarily over the roads networks, but also on occasion by signals
+        - Exchange was surprisingly fast, sent letters could be received within weeks
+      - Social stratification: Roman society was much like our own
+        - Slavery was not based on race, but was a result of conquest
+        - Slaves could become free by will of their master, or by buying their freedom
+        - Slaves could even become Roman citizens
+      - Common culture: spread both coercively and voluntarily
+- Meanwhile in China: Starting Ahead of the West
+  - Some of the earliest Chinese innovations were in agriculture
+    - Ex) Seed drill, row cultivation, extensive hoeing, chain pump, etc.
+  - Chinese industrial materials and processes were particularly advanced and included:
+    - Paper: used for writing, clothing, and armor
+    - Blast furnace: a means of creating a hotter smelting oven by pumping in extra oxygen, and is necessary for making steel
+    - Printing: printing with movable type
+    - Gunpowder: manufactured and used for fireworks, a starter for Greek fire, and an early version of a gun
+    - Compass: pioneering use of magnetic material to make compasses for navigation
+  -  Two significant Chinese achievements in construction were the suspension bridge and the walls of China
+    - The wall was designed to keep people out, but had the unintended consequence of corralling Chinese ideas and innovations
+- Medieval Europe: The Not So Dark Ages
+  - The lights of philosophical and scientific inquiry seem to have gone out, but several important innovations appeared during this time
+    - Ex) The heavy plow creating agricultural surplus, leading to accumulation of funds, more efficient/effective use of horsepower, "stand-off" weapons
+  - Most important innovatins:
+    - Paper: provided an inexpensive product that could replace costly parchment for the dissemination of written material
+    - Arabic numbers: provided a much more effective means of calculation than Roman numerals
+    - Blast furnace: set the stage for industrial production of steel and other metals
+- The Renaissance: Progress and the Personal Ideal
+  - Called the Renaissance due to the rediscovery of Greek and Roman scientific and philosophical knowledge that had been suppressed by the Church
+  - Mechanical Clock
+    - Brings a new degree of precision to create events in time
+    - Followed up by the spring watch, which was portable and improved navigation
+    - Ushered in a new era of scientific experimentation, industrial productivity, efficiency measurement, and personal time management
+  - Printing
+    - Introduction of moveable time, metal molds, and oil-based ink
+    - Written material was previously produced by hand, and was previously only affordable by the rich
+    - Made possible the broad dissemination of scientific and technical information
+    - Began universal sharing of scientific and technical knowledge, creating new vectors and distributions of great power
+  - The template for the modern Renaissance person:
+    - Individualism
+    - Versatility
+    - Technology, science, and art
+    - Publication and discussion
+
+- The Enlightenment: Foundation of the Industrial Revolution
+
+  - Laid the foundation for the Industrial Revolution that followed
+  - Birth of the idea that human history was not just as stated by the Biblical book of Ecclesiastes
+    - Book detailed an essentially meaningless succession of cycles
+    - Alternative was that there is meaning, and societal progress is a way of realizing that meaning
+    - Growing realization that there was a universal understanding of morals and human rights analogous to European philosophies
+  - Deism
+    - Separated God's ethical teachings from nature and natural laws
+    - Believed that nature's laws are public, not private and inscrutable and that governance should be by agreement among people, not by divine law
+    - Not only influenced European thought in science and philosophy, but were also embraced by many founding fathers of the US
+      - Essential base of American democracy
+  - Formal Mathematical Structure
+    - Descartes made a connection between algebra and geometry
+    - Newton developed the laws of motion and the mathematical basis of modern physics
+    - Leibniz invented differential and integral calculus
+  - Experimentation and Demonstration
+    - Galileo confirmed Copernicus' sun-centric theory
+    - Hooke first reported on cells using the microscope
+    - Boyle provided the laws of gases
+  - Society shifted from an evolutionary form of technical advance to a new environment of inventions and contributions, where technology advanced rapidly in large and well-documented leaps and bounds
+
+- The Industrial Revolution: Society Transforms
+
+  - The revolutionary change in Western society from primarily agrarian with technical support to primarily industrial with agrarian support
+  - The Steam Engine
+    - Initiated the revolution
+    - Provided a newly portable power source and illustrates two main features of the period:
+      - The use of science and prior demonstrations (gas laws) to create a totally new device
+      - The fact that the first instantiation is not the one that dominates/is most remembered
+    - Early use was the operate chain pumps, but was later expanded to trains, vehicles, ships, and factories
+  - Interchangeable Parts
+    - Idea is to avoid the requirement of individual crafting by skilled technicians and promoting assembly by unskilled workers
+  - The Most Powerful Idea in the World
+    - Idea of the patent as the most powerful contribution of the industrial revolution
+    - Patents opened the field of technical innovation to engineers and mechanics who were not part of the aristocracy that manned the scientific councils of the day
+      - Offered inventors protection for their innovative concepts and assured they could benefit financially from their inventions
+    - From an ethical perspective, the introduction of patents had some novel effects:
+      - New rights: included the right to ownership of "intellectual property" by an everyman as well as an aristocrat, and the right to exploit such property for personal as well as societal benefit
+      - New duties: included a respect for patents and the protections they offered, an ethical as well as a legal obligation not to violate a patent, the duty to make ethical use of inventions and to promulgate the knowledge contained in the patent
+      - Other consequences: not always positive for society because patents allowed individuals and companies to assert control of entire industries
+        - Promoted a concentration of power by the new aristocracy of industrialists
+        - The resulting power may have assisted in the colonization of the nonindustrial world by the industrialized countries
+  - Lighter than Air Flight: A Dream Realized
+    - Use of lighter-than-air balloons
+    - Put to practical and recreational use around the world, including as an observational balloon on the Union side in the Civil War
+  - Changing the World
+    - Steam engines are applied to steam railways and carriages, river and ocean ships, farm harvesters, cotton gins, as well as factories of all kinds
+    - Electricity moves from a scientific curiosity to practical use in a variety of applications
+    - Personal transportation is revolutionized by the bicycle and the automobile, and communication becomes almost instantaneous, expands to photography and moving pictures, and, at the end of the century, to the beginnings of radio
+    - Had societal counter-reactions
+  - Telegraphic Communication
+    - Scientists and engineers quickly began working with the new energy of electricity to find ways to store it in batteries (called voltaic cells) and send it over wires
+    - Logical leap was to turn the transmitted energy into signals => the initial telegraph system
+  - A Decade of Engineering Achievements
+    - Project of laying the telegraph cable across the Atlantic was completed, connecting the old world with the new with instantaneous communication
+    - A railroad connecting the continental US was completed with the work of numerous laborers
+    - The Suez Canal was completed, and the combination of European engineering and local labor connected shipping East to West through a much shorter route
+  - High Fidelity History: Light and Sound Recording
+    - The practical application of photography in the field as well as the studio by many photographers
+    - The introduction of sound recording
+    - The initial extension of still photographs to moving pictures
+    - For the first time, society had access to accurate records of things as they were and of things as they used to be
+  - Individually Powered Transport
+    - First automobiles were created when engineers put together electric batteries with electric motors on chasses
+    - Patent for a gas engine changed how power was supplied to the vehicle, causing gas-powered cars to overtake the electric models
+      - More efficiency by weight
+  - Pedal-Powered Transport
+    - New industrial materials allowed relatively lightweight bicycles to be constructed
+    - Give average people new mobility, allowing them to travel sizable distances on their own
+    - New widespread demand for more and better roads and for new bikeways
+    - Afforded housewives the opportunity to be more than housewives
+  - End Notes
+    - Two more notable innovations:
+      - The beginning of distribution systems that would bring electricity to the rural area as well as cities
+      - The initial demonstration of radio signal transmission
+    - Technical decision between AC and DC
+
+- Ethical Reactions: Societal and Individual
+
+  - Society's spokespersons and members reacted strongly to the significant changes of the Industrial Revolution
+  - Visions of the Future
+    - We separate literary visions of the future into utopias and dystopias
+    - Two particularly interesting utopias are:
+      - *Erewhon, or Over the Range*
+        - Traveler discovers a country in which machines have been banished
+        - People are generally happy, but at the expense of the machine society being built
+      - *Looking Backward*
+        - Protagonist looks backward from the vantage point of an ideal socialist society where people share equally in the rewards of technology
+    - Three particularly interesting dystopias are:
+      - *Gulliver's Travels*
+        - Emphasis on the idea that the new focus on science is mostly useless
+        - Comes from an author with a dyspeptic view of humanity in general
+      - *Looking Further Backward*
+        - Published as an answer to *Looking Backward*
+        - Described how Chine invaded the US, which had been weakened by socialism, to restore a capitalistic society
+      - *When the Sleeper Wakes*
+        - Describes how a person sleeping for 200 years wakes in London, where people are dominated by propaganda and ruled by a demagogue
+    - Several of these old dystopias have clear reflections in today's economic and political environments
+  - Objections to the Technology's Effects
+    - Three types of societal objection:
+      - Luddism: workers fighting for the right to work against displacement by machine automation
+      - John Henryism: workers fight for the right of personhood against dehumanization by machine
+      - Restorationism: groups promote the value of previous, more human-centered historical periods against an industrialized society
+
+- Summary
+
+  - Industrialization gave society the following items:
+
+    - | Category                 | Examples                                                  |
+      | ------------------------ | --------------------------------------------------------- |
+      | Energy Sources           | Coal, wood, petroleum                                     |
+      | Portable Power           | Steam, electrical, gas                                    |
+      | Mass Transport           | Shipping lines, railways                                  |
+      | Personal Transport       | Bicycles, cars                                            |
+      | Communication            | Telephone, film, records, radio                           |
+      | Agriculture and food     | Combines, mills, refrigeration                            |
+      | Manufacturing            | Diverse factories in industrial cities                    |
+      | Military                 | Rapid-fire guns, armored vehicles                         |
+      | World Society Restricted | Colonialism, industrialized vs. not, democracy and rights |
+      | Technology               | Driving force worldwide                                   |
 
 
 
