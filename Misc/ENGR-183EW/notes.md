@@ -1734,7 +1734,158 @@
 
 ## Reading 7: Building the Information Age
 
-- 
+- Introduction
+  - 20th century marked the establishment of a "modern" society and the realization of the power of the science-based technology
+  - Began with society in a symbiotic relationship with technology, ends with society having to apply life-and-death moral and ethical reasoning
+  - Leaves some serious long-standing social problems unsolved
+
+- Technical Innovation and Integration
+  - Most startling was the demonstration of heavier-than-air flight by Orville and Wright
+    - Lift-producing wings and three-axis control system
+    - Built on their work with bicycles, motors, and printing machinery
+    - Showed the world the power of homegrown innovation
+
+  - Skyscrapers exemplified the novel integration of 19th century technology using the following technologies:
+    - Telephone: permitted voice communication between city offices
+    - Typewriter: empowered secretaries and turned offices into independent print shops
+    - Elevator: the beautifully names mechanism that could safely life office-goers to great heights
+    - Air conditioning: made comfortable large spaces filled with people and machines
+    - Plate glass: improved manufacturing
+    - Steel bridge: framework allowed a building to achieve great height without the need for very thick walls
+
+  - The ascendance of the skyscraper coincided with the start of the century
+
+- Mass Production and Society Effects
+  - The Ford Motor Company provided an example of both integration and innovation
+    - The 1908 Model T had some notable improvements:
+      - Standardized: the Model T was the only car that Ford built
+      - Simplified: one color
+      - Improvable: the Ford Company initiated an R&D arm to bring Model T refinements
+      - Affordable: Henry Ford was able to bring the price of the Model T well within reach of customers
+
+    - Also introduced a number of key innovations:
+      - Moving chassis assembly line: cars moved past assembly stations where one or two workers performed one of 84 assembly steps, reducing the time it took to construct a car by 88%
+      - $5 per day wage: doubled the daily wage of factory workers by adding a morality bonus, earnable by upright Christian families
+
+    - Henry Ford was motivated to create a "consumer class" that would be customers for both his cars and for other products of mass production factories
+      - Mass production at Ford led to a rigid mechanization of workers' jobs by the method of "time and motion engineering"
+      - Since their job was to make the assembly line/production process move faster, time and motion engineers were disliked by factory workers
+      - Benefitted from "the separation of thinking from doing"
+      - Mass production principles soon transcended cars and permeated the general industrial economy
+        - Provided an increased flow of consumer goods of reasonable quality and affordable at almost every income level
+        - Created new channels of distribution and marketing + a new stratification of society
+        - Advertising went from local to national
+
+  - Industrial society divided into capital (the owners of the enterprises) and labor (those who worked for them)
+    - Labor divided into white collar and blue collar
+    - Workers organized into unions to gain bargaining power, which was vehemently opposed by factory owners
+
+  - The historically frugal American character was being rewired for "aspirational consumerism"
+
+- Futurism and Modernity
+  - Period called the period of futurism and modernity because of the symbiotic relationship between technology and society
+    - Futurism is a philosophy that appreciated the radical nature of technological change and predicted that the newly introduced technologies would contribute to modernizing all aspects of society
+    - Futurists recognized the great changes the world was undergoing due to the acceleration of technical progress and rejected classical beauty while embodying a love of speed and danger
+
+  - Modern Design Stages
+    - Early 20th century design can be separated into 3 stages:
+      - Art Nouveau: variation on the rococo ornamental styles of the 19th century and featured the introduction of new organic forms and structures to architecture/art/jewelry
+      - Art Deco: simplified and extracted the Art Nouveau decorative forms, introducing new motifs such as Egyptian, African, and American Indian
+      - Streamline Moderne: a further distillation of Art Deco design, with more reflection to contemporary machines and materials
+
+    - Together, these are referred to as the Machine Age
+
+  - New Ways of Building
+    - Modern style was incorporated into world architecture
+
+  - New Consumer Products
+    - Modern design strongly affected the products for sale to both average consumers and the wealthy
+      - Cars began moving from economy to style
+
+  - Society Connects: Radio, Movies, and Air Transport
+    - Spreading electrification of the country allowed 70% of households to receive radio by 1935
+      - Radio became the focal point for family gathering
+      - Broadcast radio and newly emerging movies promoted a uniquely American way of life
+        - Served to give the public something to admire and live up to
+
+    - Equally rapid growth of the air transport industry brought people together physically
+      - Driven by airships until the Hindenburg disaster
+
+  - A Depressing Interlude
+    - The Great Depression affected America and the rest of the world for the next decade
+    - FDR's New Deal fought unemployment with a variety of stimulus programs which contributed to the country's technological and physical infrastructure
+      - Largest program was the Works Progress Administration, which conducted projects like the Tennessee Valley Authority
+      - Another program was the Civilian Conservation Corp
+
+  - Real Skyscrapers
+    - Technical progress continued through the Great Depression and skyscrapers bloomed in NYC
+
+  - Bauhaus Design
+    - "Form follows function"
+    - Used industrial materials as much as possible to allow for widespread distribution at a reasonable cost
+
+  - A Streamlined World
+    - Introduced the idea of streamlining to other applications
+    - Ex) Buckminster Fuller's Dymaxion house and Dymaxion car
+
+- Futurism Peaks: The 1939 New York's World Fair
+  - Long series of world industrial exhibitions and fairs
+  - Attempted to project the positive effects of society's rapidly developing technologies
+  - Highlight was the technology, which were called the tools with which people would build the future
+  - Called the peak of futurism, as it would be followed by the start of WWII, which showed people the destructive power of new technologies
+
+- World War II and Ethical Consequences
+  - Mobilization
+    - US had a tremendous industrial capacity, which remained protected by distance throughout the war
+    - America mobilized completely for the war effort and almost our entire industrial capacity was converted to production of military equipment and material
+
+  - Military Technology
+    - Continuation of technology introduced in WWI
+    - Included the following:
+      - Small arms: improvements to weapons like rifles and hand grenades and extensions to flamethrowers and anti-tank bazookas
+      - Armor and transport: the battle tank and long-range artillery were made more effective and heavy-duty armored trucks provided mass transport
+      - Aircraft: major advances in heavy bombers, fighter aircraft, and ground support aircraft, as well as the introduction of the jet engine
+      - Anti-aircraft guns: weapons designed to counter the improvements in aircraft
+      - Ships: submarines, battleships, and destroyers all increased in range and power and large aircraft carriers proved important the battles in the Pacific theater
+      - Concentration and extermination camps: both sides used concentration camps to confine groups considered threatening
+
+    - Genocide began as a weapon of war in WWI and was turned into a state-sponsored technology by Nazi Germany
+    - Revolutionary weaponry included:
+      - Electronics: new capabilities were introduced in the form of radar and electronic bombsights
+      - Computation: advances in electronic computation were adapted to the field of cryptography
+        - Breaking the German code introduced an ethical dilemma: should known targets be warned in advance even though that would reveal that the Germans' code had been broken?
+        - Allies proceeded in utilitarian manner: most good for the most people meant the secret had to be kept at the expense of some lives
+
+      - Weapons of mass destruction: saturation and incendiary bombing of cities, use of long-range ballistic and semi-guided missiles, and the Atomic Bomb
+
+  - The Atomic Bomb
+    - Once the atomic bomb was developed, the question became whether or not to use it to end the war with Japan
+    - Utilitarian choice: if the detonation of the bomb could force a surrender, then more lives could be saved than in a traditional fight
+    - Bombs dropped on Hiroshima and Nagasaki, ending the war => likely the most significant moral and ethical decision of the 20th century
+      - Unintentionally resulted in a proliferation of atomic weapons in an attempt to ensure countries could all have this advantage
+      - Inequitable distribution of happiness
+      - Continued into the Cold War and resulted in the MAD standoff
+
+    - Was the action fundamentally wrong?
+      - Some argued that the estimates of conventional deaths and injuries were inflated or that Japan would have surrendered soon because of the entrance of the Soviet Union
+      - Most would stand by the decision and cite the movement of Japan to a democracy and friend of the US as a beneficial consequence
+
+  - The Aftermath
+    - The US set about helping the defeated countries after the war and was remarkably successful in restoring the world
+    - The postwar world could reflect on the lessons of WWII:
+      - Technology is ecumenical, it can be used to support dictators, totalitarianism, racism, and purposes of pure evil as well as democracy and traditional ethical ideals
+      - Science-based weapons and their production are key factors in modern warfare and will continue to be in the future
+      - Society has achieved the technical capability for planetwide destruction, not only of humanity, but of other species as well, conceivably of all life on Earth
+      - Worldwide cooperation is necessary if society is to survive and prosper in some degree of peace
+
+    - The UN was formed to promote worldwide cooperation
+      - One of the first actions they took was to consider the question of human rights in the aftermath of the war
+      - They adopted the Universal Declaration of Human Rights in 1948
+        - Illustrates the great influence the American example had on the world's ethical consciousness
+
+    - Society had seen the dark side of technology along with its bright side, and would proceed with caution when continuing
+
+- The Expansive 1950s
 
 
 
