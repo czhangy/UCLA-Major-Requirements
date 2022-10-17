@@ -1738,7 +1738,6 @@
   - 20th century marked the establishment of a "modern" society and the realization of the power of the science-based technology
   - Began with society in a symbiotic relationship with technology, ends with society having to apply life-and-death moral and ethical reasoning
   - Leaves some serious long-standing social problems unsolved
-
 - Technical Innovation and Integration
   - Most startling was the demonstration of heavier-than-air flight by Orville and Wright
     - Lift-producing wings and three-axis control system
@@ -1754,7 +1753,6 @@
     - Steel bridge: framework allowed a building to achieve great height without the need for very thick walls
 
   - The ascendance of the skyscraper coincided with the start of the century
-
 - Mass Production and Society Effects
   - The Ford Motor Company provided an example of both integration and innovation
     - The 1908 Model T had some notable improvements:
@@ -1781,7 +1779,6 @@
     - Workers organized into unions to gain bargaining power, which was vehemently opposed by factory owners
 
   - The historically frugal American character was being rewired for "aspirational consumerism"
-
 - Futurism and Modernity
   - Period called the period of futurism and modernity because of the symbiotic relationship between technology and society
     - Futurism is a philosophy that appreciated the radical nature of technological change and predicted that the newly introduced technologies would contribute to modernizing all aspects of society
@@ -1827,13 +1824,11 @@
   - A Streamlined World
     - Introduced the idea of streamlining to other applications
     - Ex) Buckminster Fuller's Dymaxion house and Dymaxion car
-
 - Futurism Peaks: The 1939 New York's World Fair
   - Long series of world industrial exhibitions and fairs
   - Attempted to project the positive effects of society's rapidly developing technologies
   - Highlight was the technology, which were called the tools with which people would build the future
   - Called the peak of futurism, as it would be followed by the start of WWII, which showed people the destructive power of new technologies
-
 - World War II and Ethical Consequences
   - Mobilization
     - US had a tremendous industrial capacity, which remained protected by distance throughout the war
@@ -1884,8 +1879,213 @@
         - Illustrates the great influence the American example had on the world's ethical consciousness
 
     - Society had seen the dark side of technology along with its bright side, and would proceed with caution when continuing
-
 - The Expansive 1950s
+  - At WWII's end, the US entered into a decade of expansion and consumption
+    - The US was the leader of the free world and the dominant technical and economic power
+
+  - Infrastructural Changes
+    - New suburbs were being created outside the central cities in the form of tracts of small, nearly-identical homes
+    - Freeway systems surrounding the central cities and supporting the suburbs were being built around the country
+    - LA moved away from a very efficient area-wide mass transit system based on streetcars to a new system that was based on personal transport by car
+      - Many other cities were undergoing the same change
+      - For convenience and the image of prestige
+      - Streets became too crowded for streetcars and they were retired
+
+  - Everybody Watching
+    - Commercial TV began appearing in American households by 1948/49
+      - Captivating and rapidly began to replace radios as the center of family activity
+      - Audiences grasped its importance as a public forum with the televising of political conventions, commentary, and daily news
+      - Also provided free entertainment for all
+      - Became an advertisers' paradise once they realized the persuasive power it held
+
+    - Kathy Fiscus well incident emphasized the drama of the newly interconnected visual world
+      - Incident vividly demonstrated the power of real-time, real-life dramas with everybody seeing the same thing at the same time
+      - Became the template for live news coverage and helped establish the TV set as the new focus of societal life
+
+  - Technical Milestones
+    - IBM 701 computer introduced in 1952
+      - First fully electronic model
+      - Ability to read and write on magnetic tape
+      - Still relied almost entirely on punched cards for input and output
+      - IBM had underestimated the market for these computers and the 700 series became the mainstay computer of numerous universities, agencies, and corporations
+      - Marked the arrival of the computer age
+
+    - Soviet Union launched Sputnik I in 1957
+      - US funded their space program slowly, unlike the Soviets who pushed theirs aggressively
+      - "Wake up call" for America resulting in more funding for our space program and increased emphasis on science and mathematics in K-12 programs
+        - When tax money decreased, schools dropped other important programs like vocational education
+        - Increase in high school dropout and a lack of skilled technicians
+
+  - Modernism Evolves
+    - By the 50s, modern architecture had settled in the Bauhaus-inspired "international style"
+      - Called for no decoration or embellishment, just a geometric structure with unrelieved glass walls
+
+    - One initiative that received traction was the All Electric Kitchen of the Future
+      - Promoted the electric appliances that consumers were generally ready to buy
+      - Saved labor
+      - Attempted to give American women something meaningful to do while staying home and raising the "baby boom" generation
+        - Hardly fulfilling, so women gradually began to return to the workforce
+
+  - Auto Exuberance
+    - Car industry went into high gear to supply pent-up demand
+    - Machines reflected the exuberance of the times
+      - Impractical, gas-guzzling, loaded with chrome, and often sported rocket fins
+
+  - Futurism Lite
+    - Futurist visions displayed by The Jetsons
+
+- The Turbulent 1960s
+  - Civil Rights Revolution
+    - US remained a segregated country throughout the 50s, despite an executive order ending segregation in the military and the *Brown v. Board of Education of Topeka* Supreme Court decision
+      - Most noticeable in the South, but existed in northern cities as well
+
+    - Societal phenomenon called "the revolution of rising expectations" where a suppressed population doesn't revolt until its suppression is partially relieved
+    - Mostly nonviolent
+    - Influenced the Civil Rights Act of 1964 which made racial discrimination illegal and the Voting Rights Act of 1965 which prohibited racial discrimination in voting
+
+  - Reaction by Assassination
+    - JFK was assassinated in 1963 for unknown reasons
+    - Malcolm X was assassinated in 1965 by his own men for softening his black isolationist philosophy
+    - Martin Luther King Jr. was assassinated in 1968 by a white segregationist
+    - Robert Kennedy was assassinated in 1968 while campaigning for the presidency by a Palestinian who opposed his political positions
+
+  - Other Protest Movements
+    - Civil Rights Movement was ongoing and escalated into numerous city riots
+      - Perhaps because of the victories of the civil rights acts
+
+    - Free Speech Movement began at UC Berkeley with the objective of giving students a greater voice in the affairs of their university
+      - Spread throughout other universities and aligned itself with the Civil Rights Movement and the Anti-Vietnam War Movement
+
+    - The Anti-Vietnam War movement was the result of America's unsuccessful involvement in the Vietnam Civil War
+      - Department of Defense restarted the draft that weight disproportionately on poorer youth
+      - Continual escalation with increasing American deaths and injuries powered the movement
+      - Both moral and pragmatic objectives
+        - This fight is not ours and not right
+        - End the conflict to cut our losses
+
+      - 1968 Democratic National Convention brought anti-war proponents into direct conflict with local police and National Guard Troops
+      - Came to a head in 1970 at Kent State University, where the National Guard opened fire on a crowd of protesting students, killing 4
+        - Repeated at Jackson State University, where 2 students were killed
+        - Brought national opinion on the side of the protests, causing President Nixon to end the war in 1973
+        - America's power axis tipped away from the establishment and towards the people
+
+- Technology's Societal Effects
+  - Reactions
+    - Turmoil of the 60s included societal reactions to the continued expansion of industries and the myriad of technical innovations at the time
+    - In 1962, Rachel Carson published *Silent Spring*, which discussed the effects of natural ecosystems of the chemical pollutants being released from factories into adjacent waterways
+      - Galvanized the country and was the beginning of environmental activism
+
+    - In 1965, Ralph Nader published *Unsafe at any Speed*, which accused Detroit of turning out cars that were unsafe and unreliable
+      - Accused car industry executives and engineers of culpability in an increasingly large number of car accidents
+      - Began consumer activism
+
+    - In 1967, Marshall McLuhan published *The Medium is the Message*, saying that the medium of television conveyed a message aside from its program content
+      - Said that technology would soon lead to "The Global Village" of complete worldwide connectivity
+
+    - In 1968, Joe McInnis published *The Selling of the President*
+      - Focused on the debate between John Kennedy and Richard Nixon, where Nixon was an experience politician, but appeared badly on TV, while John Kennedy was the opposite
+      - TV was a critical factor and politicians would be packaged like other advertised goods
+
+  - Technical Dominance
+    - At the end of the 60s, the US caught up to and surpassed the Soviet Union in space
+      - Neil Armstrong and Buzz Aldrin were the first to walk on the moon
+
+    - Subtle shift in dominance away from the historically industrialized countries, including the US
+      - Ex) The car industry shifting in favor of Japan
+
+    - Switch to a new system called lean production:
+      - Met customer needs and desires
+        - As opposed to the US attitude of "if you build it, they will buy it"
+
+      - The factory was treated as a total system, not a set of loosely connected activity centers
+        - Optimized manufacturing
+
+      - Emphasis on automation and robots, the next steps after mechanization
+      - Coordinated the supply chain, introducing "just in time" parts instead of storing parts in large inventories
+        - Decrease in costs and increase in flexibility
+
+      - Statistical quality control was used to identify, trace, and correct defects
+      - Bridged the labor-management gap, causing workers to feel free to offer suggestions
+
+    - Japanese experience demonstrated that formerly less-developed countries were not ready to be industrialized at a high level and to provide skilled labor at lower costs than in the US
+      - American product manufacture began to be outsourced to low-wage foreign factories and lower-priced foreign products were imported to compete with American products
+      - Eroded the power of American unions and factory jobs in the US became lower paid, with fewer benefits and less security
+
+  - Personal Computing and Communications
+    - Advances in the 70s moved the main locus of computing from large centralized main frames and smaller sized mini computers to the individual desktop
+      - First in business offices and research centers, and then in homes
+      - The IBM PC was a revelation to society in the capability it put into the hands of its users
+        - Lacked a friendly UI, which was supplied by the Apple line of personal computers, which borrowed from innovations at Xerox PARC to create a new level of interaction
+
+      - Made the computer a consumer product and divided society into the "computer savvy" and the not
+      - Began to bring the rapidly expanding Internet to the world at large
+
+    - Equivalent revolution occurring in personal telephone communications
+      - First phone call made on a handheld cellular phone in 1973
+      - Motorola offered consumers the DynaTAC 8000X mobile phone in 1983
+      - Ushered in a new era of convenient telephone communication
+        - Within a few years, they would integrate with personal microcomputers to become smartphones, leading to a leap forward in societal connectivity
+
+  - Anxiety and Overload
+    - By the late 70s, social commentators had seen enough of the new Information Age to become worried about its effects
+      - Examined the societal and personal implications of the information revolution, characterized by rapid change and extensive data sources, and considered what could be done to transition into the future world
+
+    - In 1979, Alvin Toffler published *Future Shock*, which focused on the rapid changes associated with the new computer society:
+      - Keeping up: how to stay with the accelerating pace of life
+      - Transience: evolution into a throwaway society in terms of products and people
+      - Diversity: too many products, subcultures, and lifestyles => the "tyranny of choice"
+      - Adaptability: would there be psychological and physical effects?
+      - Survival: asked if people would have to develop new coping skills, if education for tomorrow would have to take new forms, and if society should invest effort in taming technology
+
+    - In 1989, Richard Saul Wurman published *Information Anxiety*, where he recognizes that the personal computer has made a great amount of information available to everybody, but has worries
+      - The Noninformation Explosion: we're inundated with facts, but starved for information
+
+- Postmodernism
+  - 80s and 90s were a period of technical harvesting
+  - The Cold War Ends
+    - In the 80s, mismanagement and overspending by totalitarian leaders caused the Soviet Union to implode
+      - Upon its formal dissolution in 1991, the Cold War was ended
+
+    - Afterwards, the US established friendly relations with Russia and other constituent countries
+    - Following Nixon's 1972 visit to China, trade relations with China improved
+    - A war in 1990 started by Iraq against Kuwait was put down by our intervention
+    - America found itself without any serious or substantial enemies
+
+  - Postmodern Design
+    - In 1984, Phillip Johnson threw the architecture and design world into a spin with the AT&T headquarters in NY
+      - Broke the dominant international style
+      - Helped legitimize the postmodern movement
+      - Other buildings that followed this example included the Portland Building, the Disney Concert Hall, and the Jewish Museum
+
+- Summarizing 20th Century Technology and Influences
+  - The 20th century was a period of accelerating technological change
+    - The acceptance of new technical products became progressively faster
+
+  - Society built new frameworks of reference for technical knowledge
+    - Major framework was initially electrical and automotive, but became informational
+    - Learned to balance its expectations of technology's benefits and costs
+
+  - Long-standing societal problems persisted in the 20th century
+    - Increasingly deadly war and destruction driven by technological innovation
+    - Saw no valid technical solutions to poverty and homelessness
+
+  - Negative reactions to technology included:
+    - Anti-scientism: a reaction against the principles of the Enlightenment and rejects the idea that reason and science are contributing to the progressive betterment of mankind
+    - Anti-technology: characterization of technology as malign, creating more problems than it solves
+    - Media bias: overly selective focus on bad news and pending catastrophes neglect current positive aspects and reinforced the "malign technology" idea
+    - Disproportionism: differing estimates of societal vs. individual well-being, as individuals felt they were being displaced and overlooked as the US moved manufacturing jobs overseas
+    - Agnotologistics: dealt with the societal dissemination of ignorance and false controversies
+
+- The Road Ahead
+  - The most insidious reaction at the end of the 20th century was the beginning of "the war on truth"
+    - The substitution of opinions for facts, revelation over observation
+
+  - The disillusion with science and technology also sparked many dystopias, with no contradicting utopias
+    - "Dystopia used to be a fiction of resistance; it's become a fiction of submission, helplessness, and hopelessness"
+
+  - Argument that statistically, the better angels of our nature have been conquering our inner demons for centuries, largely as a result of reason, science, and knowledge
+    - Supported by point that disease, crime, discrimination, and most forms of pollution are in long-term decline, while longevity and education keep rising and economic indicators are better than in any past generation
+
 
 
 
