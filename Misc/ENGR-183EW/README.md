@@ -27,7 +27,7 @@
 
 |  Exam   | Score |
 | :-----: | :---: |
-| Midterm |  ???  |
+| Midterm | 55/58 |
 |  Final  |  ???  |
 
 ## Quizzes
