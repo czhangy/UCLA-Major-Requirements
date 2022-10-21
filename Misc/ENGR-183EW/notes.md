@@ -2091,7 +2091,178 @@
 
 ## Reading 8: Ethics of Population and Resources
 
-- 
+- World Population: History, Factors, and Projections
+  - The rapid increase in the world's population during the last centuries underlies many of the problems we face in the 21st century
+    - When we plot the world's population on a long historical scale, the growth of population appears as a spike
+
+  - Three major eras have contributed to world population growth:
+    - Toolmaking, which gave us the implements to seriously affect our environment and livelihood
+    - Agricultural, in which major associated population growth factors included the change from nomadic hunting and gathering to stable village living, with the domestication of animals and regular food production
+      - Enabled the world to feed its mainly rural population consistently, and began to create substantial food surpluses in the more technically advanced areas
+
+    - Industrialization radically transformed the world's technology and economy
+      - Urbanization improved shelter and transport, provided water and energy, and initiated sanitation and health services
+      - Health science and technology fought infection through cleanliness and antibiotics, provided hospitalization including isolation and intensive care, created new medication including inoculation and aggressive treatment, brought new understanding of nutrition, and contributed to longevity primarily through improved survival of infants and young adults
+
+  - Industrialization contributed significantly to increasing family resources
+    - Before, local populations were caught in the Malthusian Trap, where technological advances increased local population, which then overran the available resources, keeping the standard of living the same
+
+  - Industrial Revolution significantly improved productivity and initiated great financial growth worldwide
+    - Related benefits weren't evenly spread, but did extend to families via jobs and products and improved trade
+
+  - Whether a defined population grows, remains steady, or shrinks is determined by a factor called the fertility rate, which is the average number of children per woman
+    - Last 70 years have seen major changes in fertility rates, with the fertility rates of heavily industrialized nations dropping
+    - There is no longer any economic value to large families
+      - There are actually disincentives now, as urbanization raises the cost of housing for large families, costly education is the route to advancement for a family's children, and the potential for achieving the rewards of affluence reinforces the value of limiting family size
+
+  - UN predicts a nominal projection of around 9.1 billion people in the middle of the 21st century
+
+
+- Resources and Consumption: Water, Land, and Energy
+
+  - Worldwide resource consumption is:
+    - High
+    - Getting higher
+    - Increasing faster than population
+  - Resource consumption increased steadily in the industrial era, accelerated in the late 20th century, and has now reached the point where we have to bring technology to bear in order to solve our issues
+  - Water Resources
+    - The good news about water is that it's renewable
+    - The bad news is that it's not always present where we need it and climate change is making it increasingly scarce in some populated regions
+    - According to *Beyond the Limits*:
+      - 67% of available water is lost through flood runoff
+      - 23% is accessible to inhabited areas
+      - 10% is in uninhabited areas
+      - We are now near limits of presently accessible resources
+        - As a result, we need to exploit water from more remote areas, flood runoff, and from other sources
+    - LA provides a good example of how a large urban area is trying to ensure that its water needs continue to be met in the face of challenges from climate change
+      - 115 years ago, LA solved its water problems by bringing it from remote areas via aqueducts
+      - Valley bloomed with agriculture and homes after the project's completion
+      - Increasing incidence of drought means the aqueducts can no longer be relied on to meet the city's needs
+        - City planners are now turning to storm runoff and used water
+  - Land Resources
+    - Prediction that the world would run out of agricultural land available to feed its population around the time that the population would be peaking according to other estimates
+      - In order to stay within the available land limit, the present agricultural yields would have to be doubled
+      - Situation has become more critical since this prediction
+        - Increasing use of land for grazing of meat animals rather than for agriculture
+        - Greater use of cropland for raising biofuel plants rather than food plants
+        - Effects of climate change
+  - Energy Resources
+    - Sources of energy divided into two main categories:
+      - Fossil sources (oil, natural gas, coal, etc.)
+        - Limited, even though limits may be unclear
+      - Renewable sources (solar, wind, hydro power, marine energy, etc.)
+        - No immediately discernable limits
+
+- Energy Sources and their Evolution
+
+  - The history of energy consumption in the US demonstrates the great cumulative effect of the industrial revolution and the tremendous growth of world economy in the 20th century
+    - Steep increase in energy consumption reflects continued industrialization, growth of population, development of cities and public transportation, and increasing use of societal amenities such as air conditioning and personal cars
+    - Mostly from increased use of hydrocarbons (petroleum, natural gas, coal) resources
+  - The Energy Information Administration (EIA) predicted ~10 years ago that world energy consumption would continue to rise, and that it would rise regardless of the world's economic growth
+    - What will be the main sources going forward?
+    - Depends on economics – the price we're willing to pay for energy – and on ethics and self-preservation
+      - Oil is remarkably inexpensive
+  - The pressure to move away from oil and natural gas as primary energy sources depends how much is left to extract
+    - Estimates vary, but center around 40-50 years
+    - Estimates may increase somewhat due to new extraction methods like fracking and new extraction locations, but are unlikely to change greatly
+  - In long range terms, our hydrocarbon-based energy resources are severely limited and extremely harmful in ecological terms
+    - New sources are currently being developed and fielded at increasingly large scales
+
+- Viable Energy Alternatives
+
+  - Most active alternatives are wind and solar energy, both of which have created major industries to produce, distribute, and install the energy-generating products
+  - Nuclear power may be making a comeback, both in conventional land-based reactors and other innovative approaches
+    - Despite belief that it is unsafe, as it is a rational approach to large-scale production of clean energy
+    - Several startups have shown the feasibility of producing gasoline using carbon capture technology
+      - Yet to be installed at an economically feasible industrial scale
+      - Offers a form of carbon stability, stabilizing the carbon level, but not reducing it
+  - Hard for alternative energy to make great headway while oil and gas are still cheap, but trending upwards
+  - Ethical use of energy and other resources is complicated by growing affluence in the world's growing population
+
+- Benefits and Costs of Affluence
+
+  - Increasing the affluence, or individual and family wealth of the world's population, is generally accepted as a worthwhile goal
+    - Puts a severe burden on the world's resources
+  - Utilitarian Analysis
+    - What is the objective?
+      - Provide the most happiness for the most people
+    - Who are the people?
+      - The world's population; and in particular, the currently poor and middle classes of the less industrialized companies
+    - What is the starting point?
+      - Great historical disproportion; but rapidly changing dynamics among nations and areas
+    - What is happiness?
+      - Freedom from poverty and its effects, a comfortable income with which to secure desirable as well as necessary products, a lifestyle commensurate with that of the more industrialized countries
+    - What does such happiness cost?
+      - Scarce resources
+    - How will we solve the problem implicit in achieving happiness while conserving resources when happiness depends on resources?
+      - Most likely need new resource technology in several key areas
+      - Also need a new set of world ethics to ensure equitable use of what we already have and what we will produce in the future
+
+  - Historical Disproportions
+    - In terms of income, the difference between the 20% richest countries and the 20% poorest countries has been tremendous, and has not decreased significantly in over half a century
+    - Major differences in overall energy consumption between the more industrialized and the less industrialized countries
+      - Reflected in impact, as defined by the combined effect of population, affluence, and technology (PAT)
+  - Individual Affluence
+    - The world in 2000 could be roughly divided into three classes:
+      - ~20% of the world was poor, with a diet of insufficient grain, unsafe drinking water, and no transportation other than walking
+      - ~60% of the world was middle class, with a diet of grain and some meat, safe water, and primary transport by bicycle or public buses
+      - ~20% of the world was consumer class, with a diet of meat and packaged food, soft drinks as well as water, and primary transport by private car
+    - Overall movement in the 21st century has generally been out of poverty and into middle class, and from the middle class to the consumer class
+      - In this period, the distributions of income in important countries has moved toward larger annual incomes, and more people are included in the income populations
+      - Projections of individual income into the future continue this trend
+  - Affluence and Food
+    - What does this movement mean for the already increasing worldwide consumption of resources?
+      - Exemplified by the effect on water resources as people become more affluent and their choice of food changes
+    - Meat production, and beef in particular, extracts a high cost both in dollars and in world resources/environmental pollution
+      - Agriculture uses the most fresh water of any activity, and livestock uses 1/3 of agricultural water
+      - Livestock feed uses 1/3 of arable land, turning what was previously a carbon sink into a carbon spigot because of the amount of greenhouse gas cattle produce
+      - Livestock produce 14.5% of global greenhouse gas emissions, and cattle represent 2/3 of livestock emissions
+      - One solution is to convince increasingly affluent people to stop craving meat by finding an acceptable and less damaging substitute
+  - Affluence and Transport
+    - An indicator of consumer class was personal transport by car
+    - On a worldwide basis, transport represents ~20% of total energy use
+    - Projections for growth in car population show that the US will remain relatively steady, but other countries will develop rapidly, especially China
+    - For cars to maintain their current percentage of energy use, it is estimated they have to average 60mi/gal by 2030 and 400mi/gal by 2100
+      - The second number seems beyond the reach of current car technology, so changes will be necessary if the car population is to continually grow
+    - In LA, we've seen a gradual shift from gasoline-powered cars to fuel-efficient cars
+    - Another approach is to go all-electric
+      - Ex) Tesla
+      - On a component level, these vehicles are zero-emission, but the electricity used to power them is typically generated by fossil fuels and delivered over an inefficient electrical grid, resulting in them being less "green" than high-mileage/hybrid alternatives
+      - Solution for zero-emission cars is to have the whole system be zero-emission, and delivering it through an intelligent grid
+
+- A Point of Inflection
+
+  - In *A New Reality*, Dr. Jonathan Salk states we're at a critical point of inflection with regard to our resources and strategies for continued well-being
+  - Today and in the future, the relevant factors are:
+    - Population growth slowing and either holding steady or declining
+    - More realistic expectations of industry and technology
+    - Many natural resources approaching limits
+  - There are greater advantages to cooperation, interdependence, and strategies that ensure sustainability, as well as improved quality of life
+
+- A New Global Ethical Framework
+
+  - Our commons today is the entire planet, and the components that are of most concern are:
+    - Limited resources: fossil fuels, arable land, and mineral ores
+    - Water: with respect to pollution of surface waters and ground aquifers
+    - Forests: for oxygen production, carbon reduction, and materials
+    - Atmosphere: in terms of pollution and effects on climate change
+    - Oceans and coral reefs: for their contributions to food and beauty
+    - Wilderness: for ecological balance, animal refuge, and human escape
+    - Species: for sustaining biodiversity and biological resources
+  - Today, governments, organizations, and companies act in ways that endanger or destroy the commons, and there is a consensus that we need a worldwide ethical agreement on resource rights and duties
+  - The ethical duties of engineers specifically will fall into the following areas:
+    - Analysis: to measure and analyze the current situation using the best equipment and methods available, predict future conditions through modelling and simulation, establish technical requirements for control and mitigation, and create new strategies for a sustainable environment
+    - Innovation and development: to improve current methods, and develop totally new approaches and technologies
+    - Communication: most important, to convey the facts both to policy makers and the public in a form that is understandable, transparent, and above all, truthful
+
+- Summary
+
+  - We are at a critical point of inflection
+  - Increases are still occurring both in the world's population and in people's economic aspirations
+  - As a result, there are significant stresses on our common resources, environment, and energy
+  - Technology and engineering are central to both creating problems and solving them
+  - The next 20-50 years will likely be critical
+  - Predicting future outcomes is very difficult
 
 
 
