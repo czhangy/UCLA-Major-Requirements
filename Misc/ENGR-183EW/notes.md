@@ -2268,7 +2268,132 @@
 
 ## Reading 9: Environmental Ethics
 
-- 
+- The Environment: Ethical Overview
+  - The worldwide environment shows how humans live today and affects the lives of future humans beings and species
+  - We must solve the environmental problems of today considering the ethical key principles:
+    - Rights ethics: the right of the world's population to a safe and healthy environment
+    - Duty ethics: the understanding that if we're breaking it, it's our duty to fix it
+    - Virtue ethics: the obligations of virtue as part of world citizenship
+    - Utilitarianism: how to provide the most happiness for the most people, and how to balance benefits and costs in an increasingly dangerous time
+    - Pragmatism: the frequent need for antagonists to compromise in order to reach rational solutions, local as well as worldwide
+
+  - We currently face a number of very serious environmental problems:
+    - Depletion of natural resources, exacerbated by the growing affluence of the world's popuation
+    - The industrialization of the environment
+    - Industrial technology meets natural phenomena
+- Case Study 1: Los Angeles Smog
+  - Starting in the 1950s, the widespread introduction of cars into SoCal created a unique product known as photochemical smog
+    - The action of sunlight on the waste products of gasoline engines led to a variety of chemical reactions, culminating in the creation of ozone in the air
+    - Toxic and corrosive to human lungs
+
+  - LA attacked the smog problem by:
+    - Analyzing the problem: scientific studies highlighted the contributions of the various smog elements as well as the role of local geography
+    - Regulating locally and statewide: both the city and California began to put into place standards for ozone, particulates, and other elements
+    - Banning home incinerators: citywide trash collection replaced the role of home burning, eliminating the smoke component of LA smog
+    - Reducing photochemical smog: required all new cars to have catalytic convertors that changed their exhaust to a less toxic chemical mix, installed nozzle shields at filling pumps to prevent unburned gas from escaping, and changed the composition of the gas itself to promote a cleaner exhaust
+    - Converting local industry: the major factories disappeared, largely due to the expansion of the residential area, and were replaced by numerous smaller plants whose waste products could be more easily controlled
+
+  - Success defined by the average ozone concentration and the number of days annually that the concentration exceeded the federal health standard
+    - Uptick in the amount of car and truck emissions in the last few years
+    - Increase in the number of bad days for ozone concentration due to warming local temperatures
+    - Trends could be exacerbated by the rollback of clean air regulations
+
+- Case Study 2: The Ozone Hole
+  - Cause of the ozone hole over the Antarctic region is the increasing concentration of chlorofluorocarbons (CFCs)
+    - Used in industrial processes and in aerosol containers
+
+  - Same approach as the LA case
+  - Problems:
+    - Switch from chlorofluorocarbons to hydrofluorocarbons has been implicated as the cause for climate change caused by human activity
+    - Potential decreases in ozone concentration centered around the world's population
+
+- Case Study 3: Climate Change
+  - The Greenhouse Effect
+    - Divided into stages:
+      - Sunlight energy normally enters the Earth's atmosphere
+      - Most of the energy is absorbed to heat the Earth
+      - Some energy is immediately reflected, particularly from the snow and ice at the poles
+      - A substantial portion of the reflected energy moves through the near atmosphere to the higher atmosphere and is gone
+      - Currently, energy is being trapped and returned to the Earth's surface by greenhouse gases in the atmosphere, which function in the same way as glass does in the traditional greenhouse
+
+    - Key greenhouse gases include:
+      - Carbon dioxide: from burning fossil fuels for power generation and for transportation
+      - Methand: from industrial processes and from agriculture, in particular from beef production
+      - Nitrous oxide: from soils under natural vegetation and agriculture
+      - Ozone: from photochemical reaction of carbon-based fuels
+      - Water vapor: from numerous water sources and from the oceans
+
+  - The Facts
+    - The global average temperature has been rising steadily for over 150 years, and has risen at a higher rate since the middle of the 20th century
+      - At the same time, there has been a dramatic rise in the concentration of greenhouse gases
+
+  - The Cause
+    - The rise in global temperature is due to the increase in the greenhouse gases that are primarily the result of industrial processes and related social activities
+
+  - The Divided Political Situation
+    - The division between climate change believers and skeptics follows political lines, preventing the US from taking needed actions on a national level
+    - As administrations change from party to party, government actions regarding climate change are dramatically different
+
+  - Dire Anticipated Effects
+    - Melting of polar ice and glaciers combined with hearting of the oceans causing a rise in ocean levels from 2-3 feet in some locations and up to 15 feet in others
+    - More severe weather events such as floods, droughts, storms, and wildfires caused by changes in global temperature patterns combined with more moisture in the air due to ocean and land warming
+    - Unequal societal changes in the quality of life, potentially causing extreme violence and warfare in fighting over land and resources
+
+  - A Rational Solution: Target and Approach
+    - Severe reduction of greenhouse gas emissions, focusing on carbon
+
+  - Local Solutions
+    - Reflective streets: created by substituting more reflective materials for the heat-absorbing concrete and asphalt common today
+    - Reflective roofs: the same approach applied to roofing materials
+    - More trees: to provide shade as well as carbon dioxide absorption and oxygen production
+
+  - A Fallback Solution
+    - If straightforward measures fail, the nations of the world might turn to the more radical climate engineering
+    - Deliberate intervention in the Earth's climate system with the aim of mitigating the adverse effects of global warming
+    - Focus on removing the carbon from the atmosphere by various means
+    - Emulate the effect of large-scale volcanic eruptions by introducing manufactured particles into the atmosphere to reduce temperatures on the surface
+      - Carry major risks of unknown consequences, and would likely be only a last-ditch effort
+
+  - A Societal Approach
+    - Emphasis on the need for humanity to change its relationship with nature, as well as to one another
+
+- Case Study 4: Waste Management
+  - Industrial Waste
+    - A number of sources produce industrial waste, which is all dangerous to some extent
+    - Adverse ecological effects include challenges to human health through direct exposure, damage to or destruction of plant and animal species, and contamination of the human food chain
+
+- Ethical Example: A New Industrial Paradigm
+  - Product designs from the beginning should incorporate the product's next iteration
+  - The first Industrial Revolution has the following characteristics:
+    - Generates gigantic amounts of waste
+    - Puts billions of pounds of toxic material into air, water, and soil yearly
+    - Requires constant vigilance of highly dangerous materials
+    - Buries valuable materials
+    - Necessitates thousands of complex regulations
+    - Creates prosperity through destruction of natural resources
+    - Erodes the eco-environment
+
+  - A new industrial revolution would have the following objectives:
+    - Produce products that become food for plants, animals, and soil or raw materials for new products
+    - Develop factories whose outlet water is cleaner than inlet water
+    - Construct buildings that produce more energy than they consume
+    - Accrue trillions of dollars worth of new materials each year
+    - Create a world of abundance rather than one of limits, pollution, and waste
+
+- Summary
+  - Key goals for the 21st century:
+    - Improved sources of quality water, likely involving new ways of retaining runoff water and recycling previously used water
+    - Increased food production, taking into account the limitations in arable land area and the effects of increasing affluence on food preferences
+    - "Clean" energy for power generation and transportation that does not add to, and perhaps even subtracts from, greenhouse gas accumulation
+    - "Waste-free" product manufacturing and usage, potentially involving the small or large aspects of the cradle-to-cradle concept
+    - Better overall quality of life for the growing human population
+    - Protection of the complete ecosystem including future human generations, as well as valuable species
+
+  - Ethical engineering to accomplish these goals requires:
+    - Understanding (and agreeing on) the problems that society faces
+    - Setting correct priorities for addressing them
+    - Developing innovative new technological solutions both by building on previous accomplishments and by creating surprising new ones
+    - Ensuring that the solutions don't make things worse, even though this is a difficult thing to ensure
 
 
 
