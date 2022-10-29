@@ -2314,7 +2314,224 @@
 
 ## Reading 10: Bioengineering Ethics
 
-- 
+- Introduction
+  - Biosphere designates the life zone of the Earth with all its living organisms including man
+  - In the last half-century, we have gained the ability to modify key elements of the biosphere as well as ourselves
+  - Modern technology has looked both to the engineering of biological elements at the nanoscale and the creation of new materials/systems at that scale
+  - These developments have brought with them important ethical considerations
+    - If/how we are to control human evolution
+
+- DNA Background
+  - Early Discoveries in Genetics
+    - Humankind's ability to breed selectively dates back centuries
+      - Understanding of what was actually happening changed in the mid-19th century with Charles Darwin's *Origin of Species*
+
+    - Darwin theorized that plants and animals had genetic elements that determined their characteristics, that these elements were subject to random mutation, and that those inheritable mutations that benefited the species would be retained through natural selection
+    - Darwin's thesis provided a scientific basis for natural selection and change
+      - Followed by Gregor Mendel's discovery that dominant and recessive traits are encoded by genes, and it's possible to predict the occurrence of traits in successive generations
+
+  - Identifying the DNA Molecule
+    - By the early 20th century, scientists knew that genetic material was encoded by molecules located on the chromosomes within the nucleus of cells
+    - By the 1940s, people were using their knowledge of genetics for practical manipulation of traits in food plants and animals
+    - In 1953, James Watson, Francis Crick, and Maurice Wilkins were able to report that the DNA molecule formed a double helix and its genetic code was contained within
+      - Determined that the DNA molecule contains the genetic information in a set of nucleotides, which are of four types (G, A, T, C)
+      - G <=> C and A <=> T
+
+  - Transitioning to DNA Engineering
+    - DNA knowledge moved quickly from science to engineering
+      - Aided by the discovery that DNA could be readily replicated by Polymerase Chain Reaction (PCR), giving scientists more DNA to work with
+
+    - The main engineering goal was to isolate genes and recombine/reinsert them to change the characteristics of a plant, animal, or other organism
+      - Named "Recombinant DNA Engineering"
+      - Main constituent objectives:
+        - Analyzing total genomes => determining the complete genetic code first for a variety of organisms and finally for humans
+        - Determining gene action by reading the DNA sequences and predicting the protein sequences
+          - Matching the genes with the parts of the organism that they code for
+          - Learning how to engineer genes so that their effect could be altered/predicted
+
+        - Putting engineered genes into target species in order to change the natural characteristics of the species in controlled ways
+
+    - Engineering became easier as reading DNA became computer automated
+    - Auxiliary finding that we share substantial portions of DNA with assumedly much simpler organisms
+    - The cost of DNA sequencing has fallen drastically, supporting Moore's Law
+    - Current frontiers of human DNA research include:
+      - Interactions between DNA and other components of cells, such as RNA and ribosomes, and how these interactions control the complex process of protein formation
+        - What determines whether a given piece of DNA is function or is not functioning in the cell?
+
+      - Connection between DNA and brain function, and, in particular, how genes influence cognition and behavior
+        - Understanding how information is stored, retrieved, and used
+
+      - Mechanisms of development and evolution, including what genetic mechanisms control development, and how genetic mechanisms and evolution interact
+        - Growing in importance as we develop technologies that allow us to influence evolution of humans and other species
+
+    - Engineers working to operationalize the knowledge we already have, creating new realities and realms of decision-making
+
+- Ethical Case 1: Genetically Modified Organisms
+  - Three main targets for DNA bioengineering:
+    - Genetically modified plants, with the objectives of increased yields, greater resistance to pests, pesticides, and disease, and introduction of new characteristics
+    - Genetically modified animals, with the objectives of improved growth and size of food animals, introduction of new characteristics, and exact reproduction and revival of old species
+      - Dolly the sheep
+
+    - Human health and reproduction, with the objectives of genetically targeted drugs, genetic testing/prediction of characteristics, gene repair, genetic modification, replacement organs, and improved physical and mental characteristics
+
+  - Genetic Plant Modifications
+    - Three types of genetic modifications made to plants:
+      - Cisgenic: new varieties of plants are made using genes found within the same species or a closely-related one, allowing conventional plant breeding to occur
+      - Transgenic: plants have genes inserted into them that are derived from another species
+      - Subgenic: plants are developed using gene knockdown or knockout to alter the genetic makeup of a plant without incorporating genes from other plants
+
+    - Production of genetically engineered crops has steadily increased in the US over the last 25 years
+      - Today, about 75-85% of important food crops are GMOs, engineered to improve their tolerance to herbicides and pesticides => allows farmers to use heavier concentrations of chemicals, increasing crop productivity
+        - Harms the ecology as a whole, but increases yields/profits
+
+    - US accounts for about 40% of GMO crops globally, but GMO crops are being adopted around the world
+
+  - Genetic Food Animal Modification
+    - Consumer public has demonstrated uncertainty about adopting GMOs for food in three ways:
+      - Expressing concern in a number of public forums
+      - Instituting embargoes/restrictions on the import/sale of GMOs
+      - Demanding that food that contains GMOs be labeled accordingly
+    - Early test of labeling laws occurred in 2012 in California, where voters rejected a measure that would have required food companies and retailers to label products made with genetically modified ingredients
+    - Currently, the issue is primarily being legislated in the court of public opinion
+      - Many growers are voluntarily opting out of planting genetically modified crops, and a significant number of food producers are including "Non-GMO" as a major selling point of their products
+  - Ethical Analysis
+    - Beneficial factors associated with GMOs:
+      - Increased productivity of crops and meat, which appears necessary in order to accommodate the anticipated growth in the world's population and its concurrent growth in affluence
+      - Greater resistance against weeds, pests, and diseases
+        - Preferably directly rather than by building resilience to pesticides and medications
+      - Improvements in environmental agriculture, less need for plowing and irrigation
+      - Potential of enhanced food products
+    - Risk factors that have been raised in connection to GMOs:
+      - Uncontrolled spread of transgenic crops caused by proximity of fields to one another in the intensive farming regions of the US and other countries
+      - Creation of superweeds or other harmful species not amenable to easy control from cross pollination due to uncontrolled spreading
+      - Direct harmful effects of transgenic crops when used as feed for beef, hogs, sheep, and poultry, and when naturally consumed by birds and other wildlife
+      - Direct harmful effects on human health and heredity caused by eating GMOs
+      - Ecological disasters caused by some unforeseen consequence of introducing GMOs into complex systems
+        - Potential effects on biodiversity and on continued ecological sustainability
+    - Moral and ethical issues that have been raised include:
+      - The utilitarian balance => do potential consequences tip toward benefits or risks?
+        - At present, tipping towards benefits
+      - The controlling entities
+        - GMO agenda is being set by the giant agribusinesses that provide the genetically engineered seeds and by the large factory farming enterprises that supply our meat, poultry, and fish
+        - Worry that the profit motive will transcend all other considerations, even if there is a sign of trouble
+      - The societal inequity
+        - Concern that the people most affected would be those in less developed countries, who need food the most
+        - Not the affluent people in industrialized countries who have a choice
+- Ethical Case 2: Intervention and Augmentation
+  - Building toward new capabilities for intervention in biological processes and for augmentation of biological systems by technical means
+  - Nanotechnology: Materials and Systems
+    - Goal of nanotechnology is to manipulate the fundamental building blocks of nature to create new classes of nanomaterials that are simultaneously small and strong
+      - Nanoengineers must move atoms into the right places, create structures in molecular detail without violating the laws of physics, and do this at low manufacturing costs
+
+    - Recent developments:
+      - Buckeyballs: carbon atoms arranged as spheres for use in superhard substances such as synthetic diamonds
+      - Nanotubes: carbon atoms are rolled into cylinders that exhibit exceptional electrical, thermal, and structural properties
+      - Graphene: carbon atoms are spread into a one-atom sheet that is flexible and strong, also shows exceptional electrical and thermal properties, and is finding initial uses for display screens, batteries, lights, etc.
+
+    - A leading objective of nanotechnology is to create mechanisms at the scale of human cells to enable targeted delivery of anticancer and antibiotic drugs
+      - Currently, chemotherapy introduces chemical poison into the entire body to kill the faster growing cancer cells without damaging other organs or processes
+      - Nanodevices can theoretically be used to detect individual cancer cells, target them for destruction with stored chemicals, and report the results to a monitoring physician, avoiding the side effects and damage of chemotherapy
+
+- Ethical Case 3: Augmentation and Replacement
+  - Bioengineered Protheses
+    - Prosthetic bioengineering changed dramatically after WWII
+      - Introduced materials from modern aviation like plastic/aluminum/Bowden cables to replace the wood and leather of former prosthetic arms and legs
+      - Exploration of use of EMG signals to control electrically-powered arms
+        - Now commercially available and improving as machine learning and artificial intelligence routines are added to their control systems
+
+    - Present objective is to bypass the remaining muscles and connect directly to the neural system that would control the biological arm/hand
+      - Ultimate goal is connection to the brain itself
+      - Potential of augmentation of sensory functions such as hearing and vision, and enhancement of mental functions like memory, learning, and feelings of well-being
+
+    - Raises many challenging bioengineering issues:
+      - What areas of the brain should be interrogated/stimulated?
+      - How to create a permanent connection that is comfortable, safe, and stable?
+      - How to introduce power?
+      - How to protect against outside electromagnetic interference/hacking?
+
+  - Bioengineered Body Parts
+    - Long-term objective of DNA engineering is to direct selected cells to form new body organs
+    - Scientists and engineers are using the recently developed technology of 3D printing to form body parts out of biological materials
+    - Researchers believe that bioprinting can be combined with nanomaterials and artificial biomaterials to create a variety of complex structures
+
+  - Ethical Analysis
+    - For non-living devices, the main ethical considerations are:
+      - Safety for users and bystanders
+        - Potential for battery fires, uncontrolled movements of powerful artificial limbs, for problems at the body-device interface, etc.
+
+      - Pain and discomfort associated with use
+        - Secondary for bioengineers, but primary for users
+
+      - Sublimation of voluntary actions
+        - Potential result as AI and automated movement become part of the prosthetic control system
+        - May be welcomed by some, but not others
+        - Requires a careful balance of human-machine responsibilities
+
+      - Potential advantages afforded by advanced prosthetics
+        - Continued advancements in artificial sensors and embedded AI might tip the balance towards prosthetics, with unknown societal consequences
+
+      - Socioeconomic inequity
+        - Not everyone who needs them may be able to afford them
+        - Further technical advancements might help reduce costs, but there is currently considerable inequality in who can afford this technology
+
+    - For bioengineering that involves living tissue, the main ethical considerations are:
+      - The health and well-being of the recipient
+        - Informed consent is necessary and the potential harmful consequences must be fully explained
+        - Even when procedures are reduced to standard practice, potential problems involving rejection and long-term viability of the new tissues must be addressed
+
+      - Quality control
+        - Even more necessary than in standard manufacturing, and should be in accord with standards and regulations, which would likely have to come primarily from the scientific/technical communities rather than the government
+
+      - Socioeconomic inequity
+        - Procedures are likely to remain individualistic and very costly for the foreseeable future
+        - Discussions on who is to benefit from advances in tissue bioengineering shouldn't be based on monetary considerations alone
+
+    - Benefits vastly outweigh the risks, but create separation between haves and have-nots
+
+- Ethical Case 4: DNA Bioengineering for Humans
+  - Embryos can be genetically manipulated in several ways:
+    - Mechanical cloning: cells can be mechanically separated from multi-celled embryos and implanted in a womb
+    - DNA cloning for reproduction: DNA obtained from a donor cell replaces original DNA in an ovum, and the fertilized egg develops into a "clone" of the donor
+      - Entity having only DNA from one parent
+
+    - DNA cloning for replacement: DNA of cloning interest replaces original DNA in undifferentiated stem cells, and these cells develop into tissue or an organ for transplanting back into donor or into a closely matched recipient
+    - Cell repair: components from different cells are integrated to create newly healthy embryonic cells for subsequent in-utero development
+
+  - Ethical controversy focuses on the use of stem cells and the harvesting of these cells from human embryos
+    - Ethical question of whether early embryos are human beings
+
+  - Three Parent Babies
+    - Fertilized nucleus created by two parents is removed from an embryonic cell with unhealthy mitochondria, and transplanted into a cell with healthy mitochondria obtained from an independent donor
+    - Criticism that Great Britain acted precipitously by approving a procedure before scientists/philosophers had a chance to fully digest its implications
+
+  - Editing Human DNA
+    - Researchers from Berkeley published a book titled *A Crack in Creation*, describing work on CRISPR
+    - Technique for editing an organism's genome
+
+  - CRISPR Science and Technology
+    - Basic scientific discovery that led to the development of CRISPR came from studies of bacteria
+      - One of the main ways bacteria defends against viruses is determining what part of a virus' DNA is critical to its life, making a CRISPR RNA copy of the critical DNA segment, and then creating a CAS protein that uses the CRISPR RNA to find the virus' key DNA segment and then cut/destroy it
+
+    - Researchers demonstrated they could engineer CRISPR RNA-CAS9 proteins that would cut DNA in precisely specified places and could also determine how those cuts would repair themselves or allow in other preprogrammed DNA segments
+      - Technique enables precise editing to modify protein formation using an organism's own genes rather than genes from an outside source
+
+    - Technique is readily available and simple
+    - Early targets include double-muscled dogs, micropigs, disease-resistant rice, slower-ripening tomatoes, and healthier potatoes
+      - Attempts to humanize pig DNA so that pig organs could be suitable for transplant into humans
+      - DNA-based naturalization of disease-carrying mosquitoes
+
+    - Greatest interest is human gene editing
+      - Embryo could be edited for reasons of health, or for less admirable reasons of selection/improvement
+
+  - Ethical Analysis
+    - Ethical and societal concerns include:
+      - Nature: people have critiqued the biotechnology of DNA editing as unnatural and an attempt at playing God with inadequate knowledge, control, and regulation
+      - Evolution: the introduction of inheritable individual changes has been specifically critiqued for abandoning age-old evolutionary processes dependent on natural selection and substituting human selection
+      - Ecology: the introduction of inheritable population changes has been even more severely critiqued because of the unknown ecological effects and its potential use as bioweaponry
+      - Individuals: CRISPR editing is not always as precise as initially imagined, and inaccurate editing could create unknowably bad circumstances for individuals whose DNA has been manipulated + for their offspring as well
+
+    - Designer babies make the playing field less level, risking the creation of a society where some groups bear a greater burden of genetic disease
+
 
 
 
