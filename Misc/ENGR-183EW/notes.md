@@ -2537,7 +2537,79 @@
 
 ## Reading 11: Computing Ethics 1 - Simulation and Gaming
 
-- 
+- Computing Overview
+  - Historical Background
+    - Attempts to mechanize computation began in the 17th century with gear-based machines
+      - The hand-operated Pascal calculator could perform basic addition and subtraction, as well as a simplified form of division
+      - The Leibniz Reckoner included mechanical multiplication, but operated unreliably
+    - True beginning of modern computing was the Babbage Analytical Machine
+      - A novel machine featuring programmed inputs, an ability to branch in response to intermediate results, and printed output
+      - Concurrent introduction of Boolean logic laid the groundwork for subsequent advances in computing technology and speed
+    - Another key 19th century innovation was the Hollerith tabulating machine, a mechnical tabulator that used punched cards as input
+      - Led to the formation of IBM
+    - Breakthrough in computing in the mid-20th century during WWII with the ULRA machines, the programmable electronic computers that helped the Allies break Enigma
+      - The IBM/Harvard Mark I was a general-purpose electromechanical computer that was used during the last part of WWII
+      - After WWII, universities initiated computer departments, resulting in the first all-electronic general-purpose computer: the ENIAC
+    - The century from 1919 to 2019 saw great changes in the power of computing available to the general public
+      - Started with the ubiquitous electromechanical desk calculator
+      - Between 1945-1959, computing became all-electronic, but depended on slow vacuum tubes for computation
+      - In the 1960s, transistors were introduced to computing, allowing the production of faster and smaller machines, including the DEC PDP-8 minicomputer
+        - Soon replaced the electromechanical calculator in businesses, organizations, and research labs
+      - 1968-Present is the era of integrated circuits, or entire computers on a chip
+  - Growth of Computing Power
+    - Moore postulated around 1970 that the number of components on an integrated circuit would double every 2 years
+      - Number now reaching the limit of conventional chip-building technology
+      - May have become irrelevant with respect to computing power due to the introduction of parallel processing
+    - Ray Kurzweil's *Law of Accelerating Returns* says that computational technology is an evolutionary process that builds on its own progress, so that the time to accomplish a fixed technological objective gets exponentially shorter
+      - No apparent limit to future increases in computational power
+- Ethical Case 1: Modeling and Simulation
+  - Early Contributions
+    - Think of modeling as the heavy lifting of computer calculation
+      - First jobs of computers in the 50s and 60s included complex mathematical modeling for atomic particle physics, for economic and weather prediction, and for similar applications
+    - One of the most important contributions of computer modeling was the new technology of CAD/CAM, in which parts and products under development could be displayed as manipulable 3-D objects
+    - Simulations today are used for training as well as for illustration and entertainment
+  - Seeing and Believing
+    - The power of simulation lies in its believability, resulting from it being a visual medium
+  - The Ethics of Transparency
+    - Primary ethical issue comes from the basic believability of simulations, and it is the need for transparency
+    - Responsibility of engineers to explain both the origins of simulations and the ways in which human decisions have influenced what their audiences are seeing/hearing
+      - Especially relevant now with deepfake technology
+- Ethical Case 2: Computer Gaming
+  - SIMNET and Beyond
+    - Gaming industry rose naturally from the successful delivery to the US Army of the SIMNET network
+  - The Role of Roles
+    - Power of simulation-based computer games is their ability to immerse the players completely in alternative environments where they have well-defined roles and personas
+  - Ethical Issues in Gaming
+    - Games can promote antisocial, violent, misogynist, and racist behaviors
+    - Concern that games can blur important societal distinctions for the players
+      - Greatest concern focuses on the part games play in molding real-world behaviors
+        - Can behaviors learned for success in violent video games carry into real life?
+        - Research has not shown a definite link between violent games and violent actions
+    - Games can serve as training programs for people who have decided to act out violently as a result of other forms of indoctrination and/or psychological conditions
+    - Members of the gaming community have vehemently defended their right to depict violent/sexual actions in computer games
+  - Industry Codes of Ethics
+    - The International Game Developers Association has recognized the societal power that games represent
+    - Code of ethics for game developers comprises the following points:
+      - Equal access and opportunity
+      - Give respect and credit
+      - Present self accurately
+      - Respect IP rights
+      - Promote fair ownership rights
+      - Honor legal agreements
+      - Use computer technology properly
+      - Cooperate with ratings boards
+      - Share knowledge
+      - Promote public knowledge
+      - Promote this code of ethics
+    - No direct statement condemning violence, misogyny, racism, etc.
+  - The Ethical Takeaway
+    - Computer games today are the products of a large and rapidly growing industry that is already many times bigger than the movie industry and much more influential
+    - Simulation-based computer games can be valuable educational tools as well as compelling entertainment
+    - Games can teach both the bad and the good
+      - Sometimes, the bad elements occur inadvertently, but mostly, they are built into the games purposefully
+    - What is in a game reflects the considered individual decisions and individual actions of the game designers, game developers, and game producers/marketers
+    - It is unlikely that there will be any serious legal restrictions on the content of computer games, particularly as the industry grows even larger and more powerful through political lobbying and donations
+    - Accordingly, game designers, developers, producers, and marketers need to take personal responsibility for the content and potential individual and societal implications
 
 
 
