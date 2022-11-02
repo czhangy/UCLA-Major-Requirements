@@ -2615,7 +2615,42 @@
 
 ## Reading 12: Computing Ethics 2 - Artificial Intelligence and Robotics
 
-- 
+- Automata and False Artificial Intelligence
+  - Automata became much more complex and impressive in the 17/18th centuries
+    - Advances in gearing technology could be combined with the skill/imagination of watchmakers, technicians, and engineers
+
+  - Once people say the physical feats an automaton could perform, there was a belief that it was possible to build an automaton that could perform mental feats as well
+
+
+- Artificial Intelligence in Reality
+  - Real AI became part of engineering in the middle of the last century, following the advent of electronic computing
+  - Major milestones include:
+    - 1956: AI is named as an engineering and applied science discipline at Dartmouth
+    - 1958: AI Laboratory is founded at MIT and used to make significant contributions to the theory/practice of AI
+    - 1960: The Perceptron is demonstrated by Rosenblatt as the first learning machine
+      - Rosenblatt recognized the importance of the machine learning principle for future Perceptron algorithms that could be supported on larger/faster computers
+    - 1979: the MYCIN Expert System for medical diagnosis was developed by a group of researchers at Sandord University
+      - Used embedded expert knowledge to identify the bacteria that was causing serious infections and to recommend appropriate antibiotics
+    - 1987: Speech recognition systems and speech generation systems were developed
+      - Important in providing non-technical users with natural inputs to artificially intelligent systems
+    - 1997: IBM engineers created the chess-playing program Deep Blue, which was able to defeat grandmaster Gary Kasparov
+      - Used brute force => could see further into the future than a human
+    - 2017: AlphaZero was able to win at both Chess and Go without being told the rules of either game
+      - Played against itself for millions of games and learned winning strategies
+  - Subdivisions of AI technology include:
+    - Expert systems: applied knowledge engineering as a continuation of the pioneering MYCIN program methodology
+    - Neural networks: Super Perceptron algorithms that can handle large amounts of data to recognize patterns in such inputs as x-ray images or radar signals
+    - Semantic networks: software that is able to recognize not only what words are spoken/written, but also to understand the meaning of words in context and to formulate appropriate responses
+    - Causal modeling: programs that are able to reason on probabilistic information using Bayesian inference, make predictions about likely outcomes of sequential processes, and provide recommendations for optimal actions to achieve desired ends
+    - Machine learning: programs that improve their performance with experience gained by processing massive amounts of data
+    - Augmented cognition: programs that operate in synchrony with humans to improve the human's ability to process data, control systems, or solve problems
+      - May include an ability to sense the cognitive state of the human and adapt their support accordingly
+    - Robotics: generally defined as a combination of AI software and a physical mechanism, either static or mobile
+  - Increasing availability of AI programs combined with the rapid growth of computing power has caused some profound changes in our expectations for AI
+- Artificial Intelligence in Action
+  - Implications for the Workplace
+    - Historical movement from mechanization to automation in the workplace
+    - AI-based automation is moving expertise away from knowledge workers to computers/robots
 
 
 
