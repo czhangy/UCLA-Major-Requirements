@@ -2651,6 +2651,168 @@
   - Implications for the Workplace
     - Historical movement from mechanization to automation in the workplace
     - AI-based automation is moving expertise away from knowledge workers to computers/robots
+    - Jobs that are most likely to remain for knowledge workers include:
+      - Things that don't fit simple rules, but depend on intuitive leaps
+      - Innovation and invention, including not only science and engineering, but literature and art
+      - The manual skill trades, particularly in workplaces that are not readily amenable to robot operations
+      - Face-to-face occupations such as therapists, counselors, and even teachers and lecturers
+      - Occupations involving emotions and/or spirituality
+    - Ray Kurzweil calls the confluence of computer superiority and computer spirituality the "Singularity"
+  - The Singularity Now?
+    - Ray Kurzweil's ultimate prediction may be realized faster than imagined
+- Technical and Ethical Challenges
+
+  - The Uncanny Valley
+
+    - As artificial entities move from non-human to toward human, peoples' emotional reaction to them is increasingly positive unless they violate some design features that are frequently not known to begin with
+
+      - In these cases, the emotional response takes a steep negative dip
+
+    - Avoiding the uncanny valley in future robotics and computer programs will be a collaborative task among AI designers, engineers, and psychologists
+
+  - Dangerous Intelligence
+
+    - AI programs will have to surmount 2 important types of technical challenges:
+
+      - Having the software program run as designed, without glitches or bugs
+      - Having the software program actually function effectively and efficiently in its real-world application
+
+        - Likely to be more difficult/serious for AI programs => AI algorithms are being considered for applications where human lives depend on accurate AI responses
+
+  - Algorithmic Bias
+
+    - AI programs of all types can have built-in biases that discriminate against segments of society
+
+      - The fact that biases were being introduced was invisible to the developers as well, but still unethical
+
+    - Algorithmic Justice League formed as a collective to help AI engineers in the following ways:
+
+      - Highlight algorithmic bias through provocative media and interactive exhibitions
+      - Provide space for people to voice concerns and experiences with coded discrimination
+      - Develop practices for accountability during the design, development, and deployment phases of coded systems
+
+  - Fundamental Bias
+
+    - Dr. Kate Crawford questions not just the accuracy of AI-based classification, but the validity of the classes themselves, the motivations of the classifiers, and the basis of data sourcing/scraping
+
+      - Particularly concerned with the rights of the people whose data is being sourced to enable AI classification and the consequences for the classified
+
+    - Beginnings of fundamental bias in today's AI-based classification and prediction software to an ontological classification of English words called WordNet
+
+      - Became the basis for most AI speech recognition programs
+      - Limited in its ability to classify people in today's populations
+
+    - Emotion classification even worse
+
+      - Limited to 6-7 emotions originally reflecting Professor Paul Ekman's theory that facial expressions could reflect six basic emotions
+
+    - We have to be ethically conscious in recognizing and carefully scrutinizing the technologies by means of which AI judgments are formed and used
+    - Elimination of both algorithmic and fundamental AI bias to the greatest extent will depend on several key factors:
+
+      - Ethical analysis of the program objectives to determine an equitable objective for the AI algorithm
+
+        - May not be easy
+        - Much is being written about what equitable outcomes will look like, but developers should not be deterred from doing their best
+
+      - Next tasks are studied engineering attention to potential sources of biases and careful programming and use of training data so that biases are not introduced
+
+    - Critical to orient AI programs early in the direction of fairness
+
+- The Future of Artificial Intelligence
+
+  - Two forms of the future of AI:
+
+    - ANI: Artificial Narrow Intelligence, which encompasses programs designed to support/substitute humans in tasks/jobs we undertake today
+    - AGI: Artificial General Intelligence, which involves societal consequences on the other side of the Singularity, when AI programs are superior to humans
+
+      - Concerns arising from AGI are more far reaching and less focused
+      - Solutions tend to be diffuse and widely spread
+
+  - Super Entities in Society
+
+    - Questions about the societal and ethical implications of AGI and limiting:
+
+      - The future development of "singular" AI entities
+      - The amount of intelligence such entities can have
+      - The type of jobs they can work in
+      - Their overall interactions with humans
+
+    - Once super-AI entities are developed/evolve, will they:
+
+      - Be legally and/or popularly considered "people"?
+      - Have the right to life, liberty, and the pursuit of happiness?
+      - Be able/allowed to procreate?
+      - Be subject to punishment for misdeeds? What kinds?
+      - Have societal power of their own?
+
+  - AGI Effect on Democracy
+
+    - Writers have expressed their concerns about the potential negative effect of AGI on democracy
+    - Substituting superior AGI for human wisdom and experience could result in serious consequences:
+
+      - Erosion of confidence in government as incapable of solving societal problems
+      - Interference in elections through false information in various forms
+      - Erosion of personal privacy in support of political information gathering
+      - Manipulation of economic systems through stock, currency, and other transactions
+      - Destruction of core values and principles as planning decision-making is removed from human control
+
+    - Further worry that AGI will promote the growth of tyrannies for reasons that include:
+
+      - Peoples' fear of their irrelevance and loss of political power
+      - Creation of a susceptible "useless class" as a result of job displacement
+      - Leading to the rise of "digital dictatorships"
+
+    - Opposing proposal that intelligent workers will actually serve to end societal factionalism, dissension, and even warfare
+
+      - Robots will serve the role as the "great other"
+
+- Ethical Codes and Principles
+
+  - Organizational and Company Codes
+
+    - Organizations and companies have established codes for the ethical developments and application of AI
+    - Codes include privacy and accountability and stress human control of the technology to ensure human rights
+    - DeepMind publicly adopted a set of ethical principles for its future research and development of AI:
+
+      - Social benefit: purpose is to serve the global, social, and environmental good
+      - Rigorous and evidence-based: research conforms to the highest academic standards
+      - Transparent and open: studies and trials are unrestricted, uninfluenced, and not predetermined
+      - Diverse and interdisciplinary: work involves the broadest possible range of voices
+      - Collaborative and inclusive: continuing dialogs among public, academics, and developers about AI
+
+  - Human-Centered Artificial Intelligence
+
+    - Idea is that the historical paradigm for AI development has been to emulate human behavior in order to replace human performance
+
+      - This paradigm has been applied to a great variety of tasks, giving rise to concerns about displacement of human knowledge workers
+
+    - Objectives of HCAI:
+
+      - Amplify, augment, and enhance human performance
+      - Support human self-efficacy
+      - Encourage creativity
+      - Facilitate social participation
+      - Be reliable, safe and trustworthy
+
+    - Governance begins with reliable systems software engineering at the team level
+
+      - Next is a safety culture with organizational design
+      - Finally, trustworthy certification by means of external reviews
+
+- Summary
+
+  - Use AI rationally and ethically => AI ultimately benefits society
+
+    - Impossible to ban AI at this point
+
+  - Applications of AI and ML will undoubtedly grow in power and importance
+
+    - Both in productive and counterproductive directions
+
+  - Need for ethical guidance is clear, but the full ethical implications are not fully understood
+
+    - At a point of inflection
+
 
 
 
