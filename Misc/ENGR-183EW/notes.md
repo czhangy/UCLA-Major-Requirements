@@ -2818,7 +2818,147 @@
 
 ## Reading 13: Computing Ethics 3 - Internet Connectivity
 
-- 
+- Origin and Expansion
+  - One Origin Story
+    - Original idea came around 1960 from the Advanced Research Projects Agency in the US Department of Defense
+      - Create a nationwide network of specialized computers able to work together as one supercomputer
+      - BBN accepted ARPA's challenge and recruited Leonard Kleinrock, who was completing his work on queueing theory and packet switching
+        - Packet switching allowed data transmissions to take various paths to their destinations, improving network speed and reliability
+
+      - BBN built the ARPANET, a nascent computer network that became the prototype for the Internet
+
+  - Immediate Expansion
+    - Select number of agencies, universities, and companies became members of the prestigious "ARPANET club"
+      - The original concept of creating a distributed supercomputer wasn't making headway, but the network provided a new way of sharing information
+      - Ability to transmit large text messages instantaneously was far superior to the fax/mail systems at the time
+      - The network soon left ARPA's purview and oversight to become an essentially self-organizing system that evolved in directions not at all anticipated by its original developers
+
+    - HTML and the Mosaic GUI greatly expanded what information could be transmitted, displayed, and accessed on the network, and made it easy for non-technical people to interact with it
+    - Nearly 60% of the world's population has direct access to the Internet
+      - 2,000 - 11,500% growth in less industrialized parts of the world between 2000 and 2019
+      - Much of the remaining population is probably only one person away from Internet access
+- Societal Effects
+  - Some of the Internet's most important effects include:
+    - Information distribution: the Internet has provided an unprecedented repository of information, most of it voluntarily contributed, and along with it, the capability for virtually unlimited access
+      - Information is now available in seconds
+
+    - Entertainment modes: the world's population has been given equally fast access to new ways of entertaining itself on a continuous basis
+      - Gaming, music, videos, etc.
+
+    - Social networking: affected how we communicate with friends and family, how we meet people and form groups, and how we receive news and perceive events
+      - Perhaps the most influential societal effect
+      - Has enabled admirable behavior and helped promote intolerance and hate
+
+    - Work models: the Internet has provided the means for enhanced collaboration through sharing of documents, music, and videos and through face-to-face meetings using teleconferencing technologies
+      - Promoted the growth of distributed enterprises which depend on the ability of workers to contribute from a variety of locations
+
+    - Business models: new enterprises like search engines, browsers, and Internet service providers
+      - Refinements of older techniques like online catalog stores and cryptocurrencies
+      - The gig economy and the sharing economy have been elevated by the Internet's capabilities to previously unimagined levels of speed and access
+      - Rise of influencers and the businesses of click brokering and directing
+
+  - The Internet is still spurring new applications daily
+  - Internet technology has contributed much positive value to society, but it has undoubtedly enabled some severely negative behaviors and effects as well
+- The Web Evolves
+  - Following its beginnings as an aid to science and technology, and a period of improving the user experience, the Internet began to change in the mid 90s with the introduction of browsers, dot coms, and spam
+    - Kleinrock sees this as an evolution into a platform for advertisement, shopping, and social interaction
+    - Crime also made an appearance
+
+  - Social Media
+    - The advantage of the Internet as a communications medium was recognized early by the select users of the ARPANET and became a national/international phenomenon with the introduction of social networking platforms
+    - Social media platforms have greatly extended the ways in which they are used
+      - Have become a favored means of distributing product, service and political advertisements, and a way for groups of various types to form and coordinate their actions
+
+    - The Internet has enabled an unprecedented degree of connectivity between a leader and his audiences
+
+  - The Internet of Things
+    - The connective power of the Internet is also being used to interconnect a broad variety of devices, data sources, and individuals to form one massive IoT with the goal of increasing coordination, efficiency, and productivity in government, business, medicine, and personal activities
+      - In a sense, this is a novel realization of the ARPANET developers' original goal of a supercomputer made by networking specialized computers around the country
+
+    - Entities on a network are potentially able to transmit information and form special-purpose sub-nets without human intervention, possibly guided by AI algorithms
+
+  - The Internet Darkens
+    - The Internet has developed a substantial dark side during its rapid growth
+      - With IoT, the issue is how to ensure security and protect users from hostile disrupters who have come to occupy the dark areas of the Web
+      - Ex) Ring systems being hacked to expose personal information
+        - Illustrates the serious problems associated with universal connectivity, which could get dramatically worse if IoT hackers were able to access more sensitive personal data
+
+    - Extortion demands have become an everyday danger of Internet use
+    - Internet has given criminals new ways to practice crime, along with a new territory called the Dark Web
+      - Parts of the Internet not accessible through normal search engines
+      - Utilizes special hidden software that enables online users to visit it anonymously and securely without anyone monitoring their presence
+
+- Ethical Issues of Connectivity
+  - New Characteristics of News
+    - The Internet age has changed the way we receive news
+    - Online news sources are not subject to the same authority and accountability as are newspapers, radio, and TV
+      - Positive aspect of this is that news can be immediate and benefit from crowd-sourcing
+      - Negative aspects are that the news content no longer depends on experienced and knowledgeable reporters and editors, but is largely driven by a desire to attract an immediate audience
+        - Puts a premium on opinion over fact, and often values false information over factual information
+
+    - Has proven almost impossible to keep even blatantly false information and harmful conspiracy theories from appearing as news
+
+  - Standards of Publication
+    - In the Internet age, barriers to publication are gone, and any organization or individual can readily add to the gigantic store of documents and materials already available on the Web
+      - Positive value lies in the public's access to much useful and entertaining material that might otherwise not be published because the topic was too specialized or the potential audience too small
+        - The individual can attract not only an audience, but also sponsors and advertisers who can monetize their efforts
+
+      - Downside is the lack of informed review and authentication
+        - Misinformation and half-baked theories can be widely distributed and create societal dangers
+          - Ex) attribution of autism to vaccines
+
+        - Also has made hate and terrorist materials more readily available than ever before, incentivizing anti-social groups to form and potentially act out in deadly directions
+
+  - Groups Social, Bizarre, and Dangerous
+    - Internet technology that allows people to form groups has undoubtedly increased social connectedness and collaboration, but has also given new life and a more centralized position to bizarre/dangerous groups that previously operated at the fringes of society
+      - Ex) Flat Earth Society
+
+    - The Internet is in many ways a community of otherwise isolated persons
+      - Brings together people with shared interests, but also provides a meeting place for white supremacists, neo Nazis, anti-Semites, etc.
+
+    - Regarding mass shooters, one of their primary characteristics is that they are "loners"
+      - On the Internet, they are able to participate in groups without the need for direct human contact, and in such groups, they can either learn or reinforce theories of hate that may motivate publication of their personal beliefs and eventual acting out
+
+    - The capability of the Internet to carry and amplify hate messages has had large-scale consequences as well
+      - Social media messages have reportedly helped incite racial, religious, anti-gay, and political violence in India, Indonesia, etc.
+
+    - Technology evolves too rapidly now for government to lead any means to regulate it or control its adverse features, so technology leaders have to understand when ethical transgressions occur and move themselves to correct them
+
+  - Modes of Individual Behavior
+    - One of the most ethically problematic consequences of Internet technology has been its negative effects on individual behavior
+      - Personal communication via the Internet seems to be radically different from communication in person or by letter/telephone, for reasons that aren't entirely clear
+
+    - Anonymity on the Internet was quickly recognized as a double-edged sword
+      - Internet trolls use their power of anonymity to target and harass individuals who most often are not personally known to them
+
+- Weaponization of Social Media
+  - Bad actors have found ways to weaponize social media into an insidious new form of propaganda and sabotage
+    - An estimated 30% of mass social media messages are being created by bots with the goal of influencing personal preferences for political parties and policies, as well as for products
+    - US investigation of Russian influence in the 2016 presidential election revealed that Russian intelligence agencies has set up large organization for the sole purpose of creating hostile social media messages to sow discord and dissention in the electorate
+
+- Cyber Dependency
+  - Internet applications have become engrossing and addictive
+    - Happened quickly and has become a widespread fact of life
+
+  - Commentators worry that we are losing our ability to "be in the moment"
+  - Recent studies suggest that the great amount of time spent in cyberspace and the overabundance of information on sites may be a major contributing factor to the observed increase in serious psychological problems among teenagers and young adults
+  - AI and big data are implicated in promoting Web dependency and then monetizing it
+    - Ex) TikTok
+
+- Fighting Back
+  - People and communities affected by the negative aspects of the Internet have developed ways of offsetting the personal and communal effects
+    - Ex) Crash Override is a crisis helpline, advocacy group, and resource center for people who are experiencing online abuse
+
+- Closing Thoughts
+  - Internet insiders have begun to call for industry-wide efforts to take responsibility, act ethically, and stop incorporating technologies that build dependence on social media, games, and similar apps
+  - Developer Tristan Harris believes that psychology should not be employed to promote app usage, success should not be measured by more "time in app", and that success for an app is enabling a better quality of life
+  - Ethics is a recurring theme in our discussion of Internet effects on society
+    - Potential benefits of the Internet are enormous, but the past several decades have revealed a growing propensity for enabling dark actions and illicit enterprises
+
+  - As engineers, we cannot control the ethics of Internet users, but we can use the technology to make unethical action more difficult and ethical action more attractive
+    - Entails moving away from a purely technical view of Internet advances and adopting a more encompassing societal view
+
+
 
 
 
