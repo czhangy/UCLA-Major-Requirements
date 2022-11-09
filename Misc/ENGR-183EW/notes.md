@@ -2964,7 +2964,27 @@
 
 ## Reading 14: Computing Ethics 4 - Databases and Surveillance
 
-- 
+- Introduction
+
+  - Look at how the wealth of information is readily available through computers is influencing the lives of individuals
+  - Focus on how this aspect of modern computing power has affected peoples' expectation of privacy
+  - Is there a new right to information? What is the correct response when this right is abridged?
+
+- Database Overview
+
+  - With respect to privacy, the primary issues are:
+
+    - What do you hold truly private?
+    - What do you want others to know about you?
+
+  - With respect to availability, the main issues are:
+
+    - What do others already know about you?
+
+    - 
+
+      
+
 
 
 
