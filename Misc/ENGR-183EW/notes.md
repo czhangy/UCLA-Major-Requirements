@@ -2969,7 +2969,6 @@
   - Look at how the wealth of information is readily available through computers is influencing the lives of individuals
   - Focus on how this aspect of modern computing power has affected peoples' expectation of privacy
   - Is there a new right to information? What is the correct response when this right is abridged?
-
 - Database Overview
 
   - With respect to privacy, the primary issues are:
@@ -2981,9 +2980,224 @@
 
     - What do others already know about you?
 
-    - 
+    - What are others doing with your information, and is this for private gain or for the common good?
 
-      
+  - With respect to security, the main issues are:
+    - What protection is there now/in the future both for information and individuals
+  - Online Information: Good and Bad News
+    - The Internet has made a gigantic amount of information available, virtually anyone has easy access, and there are many positive uses
+      - Bad news is that this information is nearly impossible to control and, consequently, there are many opportunities for abuse and misuse
+  - Personal Information: Voluntary and Involuntary
+    - Tracking of people's locations is provided by a variety of GPS-based services
+      - Voluntary if the user has given permission for the application to scan their location
+    - Recent records have been digitized and made available on publicly accessible websites
+      - Internet has truly made public records public
+  - The Importance of Information
+    - Alvin Toffler recognized in his book *Powershift* that information would be the main determinant of power, influence, and security in the 21st century
+    - Information is central to society and will continue to be so in the future
+    - The technologies by which information is acquired, stored, distributed, and used/misused are now major sources of legal and ethical controversy
+- Ethical Case 1: Database Use and Abuse
+  - Modern databases have the following characteristics:
+    - Content: databases may comprise collections of documents, images, videos, messages, web pages, etc.
+    - Formulation: they are created by everyday transactions and by specialized transactions
+    - Ownership: databases are owned by governments, businesses, institutions, and individuals
+    - Application: databases are used in old-fashioned ways like maintaining records and assembling information as well as in new ways, like for surveillance and detection
+    - Technologies: databases involve four main types of technology => data acquisition, security, integration, and analysis
+  - Today, the idea of a database is often tied to the idea of "The Cloud," which is really a collection of servers and data storage devices owned by companies and other organizations
+    - These companies/organizations now store much of the world's personal and business information, an unprecedented situation that is subject to a variety of disturbing scenarios
+  - Data Acquisition
+    - Older technologies include:
+      - Records: written documents, photos, sound, and movie recordings
+      - Individual traces: fingerprints, blood by type, belongings, physical evidence
+      - Individual movements: eyewitness reports, bills, travel documents
+    - Newer technologies include:
+      - Viewpoints: video cameras, cellular nodes, satellites, drones
+      - Records: computer traces, emails, texts, social media messages
+      - Traces: DNA
+      - Movements: GPS, credit cards, radio tags, license plates, facial recognition
+      - Distribution and interconnection: broad networks of government agencies, companies, Internet users, bloggers, hackers, trolls, etc.
+    - The most radical changes are in the proliferation of older technologies and the distribution of data/interconnection of databases
+    - Today's web-based interconnectivity has changed the fact that data used to be contained in isolated entities with no connection to each other
+  - Abuse of Databases
+    - Three major types: privacy, piracy, and preemption
+    - Privacy abuse is adding to a database without permission
+      - Typically personal information about an individual
+      - Added to public or private databases without the individual's permission/knowledge
+    - Piracy abuse is taking from a database without permission
+      - Might take intellectual property or government secrets that are essential to the operation of an organization
+  - Database Protection Yesterday and Today
+    - Historically, database protection has been afforded for entry to brick and mortar sites, access to virtual storage sites, and certification of online transactions
+      - Emphasis on user authentication
+    - Main historical modalities for user authentication have been presentations of:
+      - Something the user has
+      - Something the user knows
+      - Something the user is
+    - Emphasis turning to biometric authentication
+      - Good in determining identity
+      - Theoretically can be spoofed, but not practically a problem
+    - Big problem is hacking of databases
+      - US defense and intelligence agencies are fighting back against hackers continuously
+      - Corporations and individuals fighting back may be illegal, unethical, and dangerous
+        - Computer Fraud and Abuse Act condemns this, and the Active Cyber Defense Act was initiated to combat it
+    - Lack of decisive Federal action, with Democrats pushing for Web security and Republicans pushing for Web freedom
+      - Leaves protection against privacy and piracy abuse mainly up to the states and to the affected corporations, institutions, and individuals
+  - Big Data Complication
+    - "Big Data" is all data associated with an individual
+    - Government agencies are beginning to use big data for their own purposes
+    - Big data has created its own form of database abuse
+      - Discovery that Facebook was selling personal data of their users to other parties
+    - Commentators say that big data is creating a "voodoo doll" that can be used to manipulate people by means of fear tactics, as well as by personally targeted messages
+- Ethical Case 2: Surveillance Technology
+  - We recognize three eras of surveillance:
+    - Historically, surveillance has been a part of investigations of past illegal and/or dangerous activities, and has been used to follow suspects or intercept their communications to build a case against them
+    - In the 20th century, surveillance began to shift towards the prevention of future illegal and/or dangerous actions; especially during wartime or with respect to terrorist actions, individuals, or groups suspected of planning, involvement, or connection were subject to surveillance
+    - Currently, surveillance has broadened into looking at entire populations with the goal of recognizing potentially dangerous behavior patterns by unknown individuals or groups
+
+  - Constitutional Protection: The 4th Amendment
+    - 4th Amendment was prescient in framing the issue of individual security as it relates to the actions of government
+      - Important to note that it is not a blanker protection against search and seizure, only a protection against *unreasonable* actions
+
+  - Expectation of Privacy
+    - The general societal principle that underlies the 4th Amendment is the expectation of privacy
+      - The common understanding that, under some circumstances, personal actions and effects are private and not public
+
+    - What is our expectation of privacy in the Internet age?
+    - New grey areas of privacy expectation are being created by new technologies
+      - Police/private drones' low flight paths can encroach on what we thought were personal spaces over our homes and backyards
+      - Voice assistants in our home and smartphones open new pathways for violation of our privacy expectations
+
+    - Articulating a right to privacy is different than articulating a right to personal security
+      - Privacy doesn't appear in the US Constitution or its amendments
+      - Privacy is a natural "right to be let alone" according to Samuel Warren and Louis Brandeis
+
+  - Wiretap and SIGINT
+    - The idea of wiretapping goes back to the time when there was an actual wire connection between a speaker and listener
+      - Persons wanting to listen in to the conversation actually tapped into the wire are the speaker or listener's end
+      - Concept is still the same: someone listening to or recording a single conversation between a speaker and a listener, with at least one of them unaware
+
+    - SIGINT, or signal intelligence, is a military concept deriving from the time when battlefield communications moved from telegraph and telephone to radio, and people realized that radio signals could be listened to for intelligence purposes
+      - According to the DoD, SIGINT is a category of intelligence information comprising all communications intelligence, electronic intelligence, and telemetry intelligence
+      - After the collapse of the Soviet Union, SIGINT for potential terrorist activities became dominant in the government's surveillance missions
+      - Temptation to intercept all available signals led to the genesis of an R&D program called Total Information Awareness
+        - Imagine, develop, apply, integrate, demonstrate, and transition information technologies, components and prototype, closed-loop information systems that will counter asymmetric threats by achieving total information awareness
+        - Came close to stepping on constitutionally guaranteed rights against unreasonable search, so it was discontinued by order of Congress
+
+  - A New Surveillance Paradigm
+    - Post 9/11 government surveillance was conceived of as an integrated system comprising:
+      - Acquisition technology: included all the modalities discussed previously, plus any innovations
+      - Databases: might start separately, but would more and more be able to communicate together and be combined into larger repositories
+      - Integrated data mining: had the dual role of yielding information leading to the identification and apprehension of likely terrorist individuals and groups, and of providing the means for the information sharing rapidly among all levels of law enforcement in order to stop terrorist actions before they occur
+      - Modeling and simulation: a supporting technology that could establish models of terrorist actions so that observed actions could be analyzed with respect to those models
+      - Artificial intelligence: could glean critical information from communications, social media postings, and news events, or learn from the massive databases to find suspicious patterns of activity
+
+    - The disbanded Total Information Awareness program morphed into a large number of different R&D programs for information analysis
+    - The newly formed Department of Homeland Security took the lead in sponsoring R&D on technologies for rapidly and effectively sharing intelligence information among intelligence and law enforcement agencies
+      - The impetus was the government inquiry into the 9/11 attack, which showed that several intelligence agencies had pieces of information that might've prevented the attack if they had been analyzed and understood together
+
+  - Surveillance Technology Benefits and Costs
+    - Modern surveillance technology has significant potential benefits for public safety
+      - One benefit is the ability to "connect the dots", like in the 9/11 case
+      - Another benefit is the ability to take preemptive action against anticipated terrorist/criminal acts
+
+    - These benefits are offset by the societal costs, which include:
+      - Infringement on the 4th Amendment: remains an issue
+      - Increases law enforcement presence: if future surveillance technology is effective in anticipating terrorist and illegal actions, society will need a greater presence by police and other enforcement groups, which will now have to act as preventative agents
+      - Changes in individual behavior: people's behavior can be changed by the knowledge that they are continually under suspicion and continually being watched
+      - Questionable purposes: moving of idea of surveillance away from societal safety and toward social engineering
+
+  - Ethical Analysis
+    - Which should prevail:
+      - Individuals' rights to be secure against invasion of privacy, fear of legal association, and unfounded accusations of wrongdoing
+      - Society's rights to be secure and safe through analysis of readily available information
+
+    - In terms of duty ethics, it's a government's duty to preserve both individual rights and societal safety and security
+    - Utilitarianism has engendered two main types of approaches:
+      - A proactive approach, where principles were established before putting into place surveillance technologies
+      - A reactive approach, where surveillance's purpose/oversight varies based on the national climate
+
+- Ethical Case 3: Government Surveillance Programs
+  - Early Awareness
+    - From 2006-2008, the public began to realize that the Patriot Act had opened the door to the gathering of everyday phone records by the NSA
+    - The public didn't take these concerns very seriously and believed the NSA's efforts at widespread surveillance were no big deal
+
+  - Edward Snowden's Revelations
+    - In May 2013, Edward Snowden made his revelations about two congressionally authorized, but well-hidden, NSA surveillance programs in the US
+      - Took hundreds of thousands of restricted/classified documents from NSA databases and fled the country
+
+    - The two programs Snowden leaked that had the greatest impact on the US public were:
+      - Upstream
+        - Collection of phone connections from fiber cables and other communications infrastructure as data flowed past
+        - Data collected from major US communications companies
+        - Metadata are only stored for 5 years, but capability for seeing content data may have also existed
+
+      - Prism
+        - Collection of Internet data directly from servers of major US service providers
+        - Data included email, chat, videos, photos, VoIP, stored data, file transfers, video conferencing, social network details, etc.
+
+    - Public seemingly reacted more the the revelation that major American companies had been cooperating with the government
+    - Initial response was tepid, but by January 2014, most Americans did not think it was a good thing for people to believe someone was keeping an eye on them online
+    - Congress and the courts acted in response to the increasingly negative sentiment and rolled back the surveillance program
+      - Government agencies continued to argue for the security value of the data, so the pragmatic solution was for the phone company to sequester the data for one year and make it available to the government on a case-by-case, warranted basis
+
+  - A Prescient Case
+    - A mass shooting in December 2015 directly pitted corporate/individual interests in privacy against government interests in national security
+    - The police acquired the phone of the terrorists and wanted to access the phone for security reasons
+      - Apple refused to cooperate on the basis that providing the FBI with a backdoor to their phones would be destructive for their image of privacy and security
+
+    - Fundamental issue remains unsolved
+
+  - Government Surveillance Expands
+    - Dispute might also involve privacy vs. functions of government that are not widely accepted
+    - The battle of privacy vs. security may take forms other than strictly defense or criminal considerations
+
+  - Preemption: The Third Form of Database Abuse
+    - Those trying to defeat surveillance based on facial recognition are engaged in protesting the third abuse of databases: to wrongly accuse persons based on statistical data derived from surveillance and/or on behavioral/transactional modeling using the surveillance databases
+    - Goal is to take preemptive action against terrorist attacks or other crimes
+      - What if you get things wrong?
+      - What are the societal consequences even if you get things right?
+
+    - In the case of criminal activity, the purpose of the technology has generally been to put the most police in the city neighborhoods where crime is most likely to occur
+      - These neighborhoods are typically low income and populated by people of color, who are accustomed to an often racially biased and hostile police presence
+
+    - If surveillance technology is going to serve public safety, the public will need to be better informed about its benefits and costs and will need to trust that local/federal law enforcement agencies are interested solely in the public agenda
+
+  - Trust in Government
+    - The central societal/ethical issue surrounding government surveillance today may not be privacy or security, but rather peoples' basic trust that governments will do the right thing
+    - Surveillance technology opens the door to several avenues of potential government harm
+    - If privacy today is gone, we need to emphasize law, supervision, and transparency as pillars of fair and ethical use of technology now and in the future
+
+- Ethical Case 4: The Right to Information
+  - Since the Internet contains information that is antithetical to the strictures, ideologies, or interests of certain repressive governments, those governments have acted to restrict Internet access
+
+  - One key question is whether the companies are violating not only their own self-generated codes of ethics, but a broader ethical principle
+    - In today's world, where over half the population is directly connected to the Internet, all people have a right to the information available on it
+
+  - Which approach will provide the greatest long term economic/societal benefits: open access or restricted access?
+    - If information equals power, is free access more powerful than restricted access?
+    - Can repressive regimes that don't allow free access to information innovate as successfully as open societies
+
+  - China's position reflects a serious disagreement on technological progress and societal values:
+    - The US's template has been that rapid technological progress depends on a democratic and open society with broad distribution of scientific and technical information so that researchers and entrepreneurs can freely pursue objectives they find interesting and important
+    - China's template is that rapid technical progress can be impeded by unchecked democracy, so that careful and extensive state control is needed, of information as well as of scientific and technical emphasis
+
+  - Conclude that information will be the determinant of power in the 21st century
+    - Clear that the ability to act rapidly and effectively on the basis of new information is extremely important
+
+- Looking Ahead
+  - Databases
+    - Databases will likely continue proliferating and linking
+    - Current technical capabilities make it easy to gather and correlate information about known persons, but hard to find a terrorist/criminal based on measures/activities, and even harder to act preemptively
+    - Our government's current interests in surveillance include total information awareness, data mining, analysis for suspicious patterns of behavior, and distribution across a wide spectrum of military and law enforcement agencies
+    - Big data collection continues to feed governmental and company databases with both commercial and security objectives
+    - Ethical regulation of database use will be more a responsibility of industry than of government
+
+  - Professor Kleinrock Reassesses
+    - Scientists and technologists are the ones who must work together to create technology that is "ethical, open, trusted, free, shared"
+
+  - Industrial Self-Regulation
+    - Many observers have called on the technology industries to regulate themselves in the areas of databases and intelligent surveillance rather than depend on government guidance, regulation, and intervention
+    - The merging sets of ethical rules indicate that industry is not just recognizing the need for ethical standards, but is actually moving toward developing a rational and broadly acceptable set and acting on them
+
 
 
 
