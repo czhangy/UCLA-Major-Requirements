@@ -3200,11 +3200,328 @@
 
 
 
-
-
 ## Reading 15: Military Engineering Ethics
 
-- 
+- Introduction
+  - At this time, the US military is undergoing major changes in terms of its missions and the new technologies it employs, including AI, robotics, social media, etc.
+    - Facing new ethical issues related to these technologies
+
+- The Defense Establishment
+  - The Military-Industrial Complex
+    - Eisenhower alerted the country to the great influence the combination of the American military and its defense industry was capable of
+      - Largely as a result of our military success in WWII
+      - Warned not against all influence by the military-industrial complex, but against its *unwarranted* influence
+        - Recognizes the necessity of the complex in the nation's affairs, but told those in powerful government positions to ensure that its influence remained proportional
+
+    - In DC, the threads of government, the military, and the defense industry remain interwoven
+      - Likely that the practice of appointing military and industrial people to high-level government positions, "the revolving door", will continue into the foreseeable future
+      - Unlikely to harm the country, as long as the complex's influence is not unwarranted
+
+  - The Command Structure
+    - In the US, a single office comprises both the Presidency and the Commander in Chief of the military
+      - Puts a great deal of power/responsibility in the hands of one person
+      - The perceived ability of a candidate to lead the military as well as to govern politically is a major factor in presidential campaigns
+    - The Secretary of Defense directs the fighting forces
+      - Three main services: The Army, The Navy, and the Air Force
+      - Each service is headed by a Chief of Staff; together these form the Joint Chiefs of Staff as an advisory body to the Secretary of Defense
+  - DoD Headquarters
+    - The DoD is headquartered in the five-sided Pentagon building
+    - After 9/11, security tightened and the Pentagon is now mostly off-limits to civilians
+      - Only one of thousands of office spaces the DoD occupies in the DC area/country/around the world
+
+- The Defense Engineering Movement
+
+  - Defense Expenditures
+    - Timeline:
+
+      - Following WWII, the US's defense expenditures dropped precipitously
+        - Exhausted from war
+        - Turning its attention to building infrastructure and fueling consumerism
+
+      - Korean conflict in the 1950s soon caused expenditures to rise again
+      - Remainder of the 20th century saw a gradually rising level of expenditure
+        - Included local peaks in the late 60s for the Vietnam War and in the mid-80s at the apex of the Cold War
+
+      - After 9/11, annual expenditures rose to above $700 billion to accommodate the wars in Afghanistan and Iraq
+      - Started down again after 2010, reflecting the desires of Congress and Obama to reign in on the defense budget
+      - Election of Trump saw defense budgets move up again, and this trend is anticipated to remain
+
+    - US is the top military spender in the world
+      - Usually divided into four approximately equal shares for the Army, the Navy, the Air Force, and defense-wide expenditures
+      - A large portion of the budget goes for expenditures related to engineering
+        - Research, development, test and evaluation
+        - Procurement of new weapons and systems
+        - Operation and maintenance of the complex military structure
+
+  - Personnel
+    - With respect to world militaries, China and India have larger or equal active forces, and other countries much smaller/poorer than us have relatively large active forces as well
+    - We spend a lot more per soldier/sailor/airman than do the other countries
+
+  - Procurement
+    - Increase in cost due both to inflation and to the addition of expensive new stealth and electronic surveillance capabilities
+
+  - The Industry
+    - DoD wanted the industry to condense from the current dozens of medium-sized contractors to a handful of large contractors from which it could procure its most important systems
+      - Defense industry initiated a series of merges that resulted in the formation of five main defense companies: Lockheed Martin, Boeing, Northrup Grumman, General Dynamics, and Raytheon
+
+    - The big five are joined by thousands of smaller companies that provide defense research and development as well as military products
+      - Many are support contractors that provide a broad variety of services directly in support of uniformed personnel
+
+    - On the world-scene, even the largest defense contractors are small compared to tech and retail companies
+
+- Technology Thrusts
+
+  - Policy Drivers
+
+    - The defense environment changed after 9/11 in response to two new factors:
+      - The sudden emergence of world terrorist organizations that could seriously threated the US in our homeland
+      - Our entry into wars in Afghanistan and Iraq that were intended to reduce the level of terrorist threat
+
+    - A top-level policy driver is the ability to respond to two main types of threat:
+      - Conventional threats: the type of conflicts in which our military has historically engaged
+        - Regional conflicts in which we have a small hand and the monitoring of rogue states
+
+      - Asymmetrical threats: threats in which the originating sources are relative small and stateless, but the damage they can do with modern weaponry is large in terms of both casualties and economic disruption
+
+    - Military divides its thinking into strategic and tactical
+      - Strategic thinking is long-term consideration of fundamental policies
+      - Tactical thinking involves operational approaches and methods
+
+    - In the post-9/11 world, strategic thinking considerations have included:
+      - Multi-Domain Operations: a new strategic paradigm that identifies four interrelated trends that shape the future operational environment:
+        - Battles will be contested in all domains: land, maritime, air, space, and cyber
+        - The battlefield will be increasingly lethal and hyperactive
+        - The objective is to maintain competitive advantage, rather than ultimately defeat an adversary
+        - There will be multiple layers of standoff involving all military echelons
+
+      - Force composition: the personnel makeup has moved to more inclusive combat roles
+      - Worldwide security and peacekeeping: remains a main strategic consideration, but the amount of activity that the military devotes to it had varied with the administrations
+      - Promotion of stable and friendly governments: encouragement of worldwide democracy that also varies from administration to administration
+      - Limiting the size and duration of military missions: seeing an end at the beginning has emrged as a key strategic factor
+
+    - With respect to tactics, the military has developed some new requirements in the post-9/11 period:
+      - Rapid projection of overwhelming force: the conventional ways of moving heavy weapons and equipment to a distant battlefield were too slow for today's fast-paced world
+      - Minimal casualties, civilian as well as military: in the connected world, deaths and injuries are not merely statistics, but have names and places connected to them
+      - Attention to cultural and political factors: emphasis on the need for understanding what motivates local populations and how cultural and political factors influence their actions
+      - Use of social media: the ubiquitous presence of social media and its weaponization for both offensive and defensive purposes
+      - Employment of new technologies: our military is intensely aware of how rapidly new technologies progress today and is trying to reorient its development and procurement policies to speed up technical innovation and fielding of its results
+
+    - Rapid and effective exploitation of new technology is of paramount importance to the DoD
+    - Military engineering during the post-9/11 period has focused on seven main areas:
+      - Netcentric warfare
+      - Defeating asymmetric threats
+      - Information operations
+      - Electronic warfare
+      - Missile defense
+      - Artificial intelligence
+      - Robotics, intelligent weapons, and remote warfare
+
+  - Netcentric Warfare
+
+    - The migration into the military domain of the Internet information and connectivity revolution that occurred in the civil domain
+    - The netcentric environment makes available to lower echelons and smaller units battlefield information previously available only to higher headquarters
+      - Flattened the military hierarchy
+      - With this degree of situation awareness, they do not have to wait for headquarters to direct a course of action, but are able to choose one of their own
+      - Given new responsibility to lower echelon leaders, and has also created the need for mobile decision support systems to help them decide quickly and correctly
+
+    - Netcentric communications depend heavily on sophisticated field radios and often on satellite links as well
+      - Communications components can be transported to the battlefield in a number of ways
+
+  - Defeating Asymmetric Threats
+
+    - The world as a whole has seen the devastating power of attacks from terrorist organizations
+    - Proactive efforts are performed before a bomb is detonated and include the use of technologies for prediction of where bombings are likely to occur
+      - If detonation is prevented, the focus turns to how the enemy forces will adapt to the successful technology
+
+    - Reactive efforts focus on protection of individuals, including rapid treatment of injuries, detection and neutralization of additional effects, and avoidance of resultant dangerous areas
+    - Military is concerned with the influence of the explosion on public opinion/confidence
+      - Directing this influence is a task more and more dependent on social media
+
+    - Intent is that technology-aided proactive efforts will keep terrorist groups from acquiring or using such highly destructive weapons
+
+  - Information Operations
+
+    - In the 20th century, information operations centered on psychological operations
+      - Use of conventional communications technology to influence first the emotions and loyalties of populations and then the actions of their governments
+      - In the 21st century, the scope of information operations has greatly expanded
+        - Center is now the cyber-sphere rather than traditional media
+        - Key element is the continual 24/7 war to protect our computer networks and databases while probing adversarial networks and databases
+
+    - Have had to acquire new presence and gain new expertise in the use of social media
+      - Forced by the effective use of social media that terrorist/insurgent organizations were making for recruitment in local populations
+      - Our military has adjusted and now uses social media to provide accurate information within today's news cycles
+
+    - We are learning to employ modern sociological survey techniques using social data analysis, mobile devices, and AI algorithms to understand the important feelings, opinions, and desires of local populations in order to help us plan out actions as well as communications
+
+  - Electronic Warfare
+
+    - Recently military technology is increasingly directed to a new dimension of the battlefield: the electronic dimension
+      - Also called non-kinetic warfare by the military because it doesn't involve bullets, missiles, or bombs, only electrons
+
+    - This rapidly growing technical domain is focused on both offensive and defensive capabilities involving all the electronic components of the modern battlefield, including the following types of systems:
+      - Communications, signal intelligence, and commercial wireless systems
+      - Command, control, and battle management systems
+      - Data sciences and AI
+        - Used in battle areas and behind the lines for analysis of intelligence information and also for helping commanders decide on optimal courses of action
+
+    - Engineers working in this area have several main objectives:
+      - Applying emerging and disruptive technologies to achieve innovative solutions
+      - Rapidly designing, prototyping, and testing new systems for accelerated fielding
+      - Scaling systems and components from prototype to volume production quickly and efficiently
+
+    - Emergence of electronic warfare as a major defense thrust is analogous to the emergence of computation and rocketry as major thrusts during WWII, and is also likely to result in civilian discoveries and novel applications
+
+  - Missile Defense
+
+    - Defense against missiles has been an allusive military objective since the beginning of the Cold War in the 50s
+      - So far, without much success
+
+    - Early in the Cold War, major US cities were supposedly protected by the Army's Nike anti-ballistic missile system
+      - Realistically had no chance due to slow computers and conventional, rocket-powered missiles
+
+    - In the 80s, Ronald Reagan began the Strategic Defense Initiative
+      - Convinced the Soviets it would work, forcing them to respond with expenditures that helped bring about their collapse
+      - After the program had spent $30 billion without a result, SDI was ended by Bill Clinton in 1993
+
+    - More recently, short range anti-missile technology has had some success
+      - Iron Dome system is a mobile defense system that intercepts and destroys short-range rockets and artillery shells
+        - According to Israeli sources, the system has been 90% effective in destroying thousands of missiles aimed at Israel from neighboring territories
+
+    - Long-range defense remains much more difficult to achieve, and our nation missile defense program has had much less ambitious objectives than did the previous SDI program
+      - Goals are primarily to defend against a relatively small missile attack from a less sophisticated adversary and to focus on short-range missile defense as with the Iron Dome program
+
+  - Artificial Intelligence
+
+    - DoD has embraced AI as a defining technology for the 21st century and is working to include AI elements in all facets of military operations
+      - Use of AI-based software support for command planning and decision-making, intelligence gathering and interpretation, provision of training, etc.
+
+    - AI and robotics are coming together to create autonomous, intelligent weapon systems
+      - If we can develop such weapons, so can our adversaries
+      - The DoD is beginning to explore the area of counter-autonomy => autonomous intelligent systems to fight autonomous intelligent systems
+
+  - Robotic Technology
+
+    - Military robots can be classified into three general levels of capability:
+      - Unmanned: usually means remotely controlled by a human
+      - Semi-autonomous: directed and monitored by a human, but able to carry out selected tasks by themselves
+      - Autonomous: capable of completing an entire complex mission without human intervention
+
+    - Until now, military ground robots have been almost entirely remotely controlled and used for blue collar jobs
+    - Aerial robots have been more exotic
+      - Most recently, the military's emphasis in the development of UAV technology has moved to swarms, which are multiple drones acting in concert with enough intelligence to coordinate their movements independently of their remote controllers
+      - An article by Conor Friendersdorf says that the US's promotion of such deadly drone technology has given our adversaries access to new and very lethal asymmetrical weapons
+        - We are already seeing drones used by terrorist/insurgent forces
+
+    - The humanoid vision of robots has recently made impressive strides toward realization
+      - Envisions humanoid robots as able to carry out a broad variety of tasks such as demolition or rescue in environments too dangerous for humans
+
+  - Artificially Intelligent Weaponry
+
+    - The US military is working to introduce AI into all types of robotic systems
+    - Military planners are considering innovations such as intelligent armed battlefield vehicles with independent full-mission capacity and the addition of facial recognition technology to ground and aerial robots that would let them identify and engage designated targets on their own
+    - Robotics scientists and engineers, both outside and inside the military, are becoming more aware of the ethical and societal implications of their work
+      - How much autonomy should be given to robotic weapons?
+      - Are there ethical or moral limits on what intelligent military robotic systems should be programmed to do?
+      - What shared assumptions and values are necessary for the productive coexistence of humans and intelligent military robots?
+
+    - The DoD has recently moved to adopt new ethical principles for AI weapons
+      - A start, and will likely have to be rethought and refined as scientific and engineering development continues
+
+  - Remote Warfare
+
+    - Serious ethical concerns also surround the technology of remote warfare
+      - Major changes include the ability to control drones from far distances rather than the near battlefield and the shared responsibility for target engagement between the Air Force and other government agencies
+      - Raised new questions:
+        - Who decides on the targets?
+        - Does remote killing do more harm than good?
+        - What effect does warfare at a distance have on its participants?
+
+
+    - Research has shown that remote drone operators suffer stress symptoms similar to those of actual combat personnel
+      - Day-after-day routine of combining normal with extreme actions takes a psychological toll, reflecting the ethical ambiguities of modern warfare
+
+- The Ethics of Warfare
+
+  - Technology and warfare have been bound together for all of recorded history
+
+  - From the highest moral perspective, warfare is a yes or no proposition, that is:
+    - You can take the pacifistic position that war is *always* an immoral undertaking
+      - War is based on killing, and killing is considered by many as basically immoral
+      - War violates fundamental human rights because it imposes one side's will on the other by force
+
+    - War is sometimes moral
+      - War *can be* a moral undertaking if it is conducted in support of moral principles worth fighting to gain or preserve
+      - WWII is thought of in this regard as a war fought to keep us from a world controlled by fascism and evil
+      - Another argument is defense, hence the Department of Defense, not the Department of War
+
+  - Rules of Just Wars
+    - The four basic rules of wars are:
+      - Military necessity and objective: there must be valid military needs, objectives, and targets
+      - Avoidance of unnecessary suffering: military actions should encompass humanitarian concerns
+      - Distinction and discrimination: combatants should be considered distinct from noncombatants
+      - Proportionality: the loss of life and damage should be commensurate with the valid military needs and objectives
+
+    - These rules are generally accepted worldwide, if not always adhered to
+      - Attempts to enforce them by world organizations have been sporadic and often politically rather than ethically motivated
+
+  - Purposes of Just Wars
+    - We recognize the following main issues regarding war's purpose:
+      - National defense: we fight back aggressively when attacked
+      - Projection of power: we stay strong and show our strength in order to exert positive influence and deter hostile actions by others
+      - Humanitarian intervention: from time to time, we act to prevent or stop such crimes against humanity as genocide and ethnic cleansing
+        - We are not consistent here: sometimes we act, sometimes we don't
+
+      - Regime change: we act militarily to remove despots or to protect our resources, business, and political interests
+        - We have not been terribly successful or ethically consistent in this purpose after WWII
+
+      - Preventative or preemptive action: we act to *prevent* or *preempt* enemy actions in wars involving WMD or in wars with extra-national enemies such as terrorists
+        - Prevent means acting early, preempt means striking first
+
+    - Each of these purposes has nuances and interpretations that have varied from case to case both in benefits and costs and in their relation to the immediate geopolitical environment
+
+  - Conduct of Just Wars
+    - We can recognize a number of important ethical areas, including:
+      - Collateral damage: the military must consider collateral damage as a critical factor and assess from the start how much is avoidable
+      - Weapons of Mass Destruction (WMD): ethical issues now center on their use, which we generally oppose, and whether countries we consider rogue should be permitted to obtain/retain them
+      - Terror and suicide bombing: the question of whether these are morally wrong or just other weapons depends on the source and the situation
+      - Targeted assassination: we have now justified the assassination of terrorist leaders as long as it is done by authorized agencies and within accepted command structures
+      - Treatment of prisoners: this area of ethical contention today centers on the legal status of "stateless terrorists"
+        - The argument for harsh treatment is based on two main factors:
+          - The Geneva Convention applies only to uniformed forces and not to terrorists
+          - Torturing a single individual to extract information is sometimes justified by the greater good of preventing deaths/casualties of many individuals
+
+        - The argument against torture is also based on two factors:
+          - It is morally wrong
+          - It is ineffective because people will most often provide made-up or false information
+
+    - The conduct of wars in modern times requires thoughtful movement through minefields of ethical issues
+
+  - Consequences of Just Wars
+    - In the aftermath of fighting, military attention may turn to control of the consequences
+    - Ethical issues associated with this mission include:
+      - Occupation and peacekeeping: the obligations of the occupying forces to maintain order and stability, as well as their objectives in doing so and the methods used
+      - Nation building and guidance: questions of cultural factors and acceptance of our democratic traditions in other countries, and whether one system can fit all situations
+      - Counterterrorism/counterinsurgency: involves not only our strategy and tactics in long-term and possibly endless situations, but also the main question of how to define partial, if not final, victory
+
+    - We would like to see the consequences of just wars as a world more at peace and adhering to the principles of social justice and democracy that we see as ethically admirable for all of humanity
+
+- Societal Reactions
+
+  - The public's support for the military and military technology in peacetime is usually mixed
+    - During a conflict, it depends on whether things are seen as going well or poorly
+
+  - Focus on right and wrong methods
+  - This is a continuing conversation that is in line with the rapidly evolving nature of the technologies that inform those methods, and is expected to continue for a long time
+
+- Summing Up
+
+  - We are fortunate that engineering participation in military technology remains an individual decision
+    - Some members of the profession embrace the principles and welcome the many challenges that military technology presents
+    - Others feel the opposite and turn their backs on defense-related projects
+
+  - We have elucidated key aspects of today's and tomorrow's machinery of defense, and have presented this in the context of ethical methods and goals
+
+
 
 
 
