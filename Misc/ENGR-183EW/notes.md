@@ -3435,8 +3435,7 @@
         - Who decides on the targets?
         - Does remote killing do more harm than good?
         - What effect does warfare at a distance have on its participants?
-
-
+    
     - Research has shown that remote drone operators suffer stress symptoms similar to those of actual combat personnel
       - Day-after-day routine of combining normal with extreme actions takes a psychological toll, reflecting the ethical ambiguities of modern warfare
 
@@ -3523,11 +3522,63 @@
 
 
 
-
-
 ## Reading 16: Ethical Decision-Making
 
-- 
+- Origin and Expansion
+  - Decision-making is not only a continual requirement of the engineering profession, but also a continual requirement of life aside from engineering
+    - If we can improve our decision-making skills by even a small amount, this can have a large influence on our well-being and happiness in life, as well as on success in our engineering career
+
+  - Start with a general overview of two kinds of decision-making, and then discuss several methodologies that can support analytical decision-making while incorporating ethical/social factors
+  - Describe how common psychological proclivities and biases can influence decision-making
+  - Engineering decisions today are most usually made in groups, are often made under stress, and may or may not be subject to reevaluation
+    - We discuss some important factors that influence these processes
+
+- Naturalistic Decision-Making
+  - The way we normally make decisions
+    - Start with an apprehension of the decision-making environment
+      - Some portion of the real world
+
+    - Understand that we cannot apprehend even a portion of the real world in its entirety, so we use our senses to perceive what we can of it and build a situation model that contains what we consider to be the most important elements
+    - Working within our situation model, we apply pre-learned and stored heuristics ("rules of thumb") to mentally weigh our options and select a course of action
+    - The action we choose affects the real world, and the cycle begins again
+
+  - Naturalistic decisions are generally made in minutes and depend heavily on stored knowledge and previous experience
+    - Other naturalistic decisions are made even faster and depend on what we call intuition/"gut feel" and may or may not involve conscious knowledge or clearly evident previous experiences
+    - In 2005, Malcolm Gladwell published *Blink: The Power of Thinking Without Thinking*, which postulated that some of life's most important decisions are made in the blink of an eye
+
+  - Engineers engage in naturalistic decision-making, both professionally and personally, but there is another form of decision-making that is more closely associated with engineering practice
+
+- Analytical Decision-Making
+  - The outcome of an "Analysis Test" that we perform on the normal, naturalistic decision-making process
+  - We ask several important questions:
+    - Does the decision need to be made immediately, or is some delay possible?
+      - In most engineering cases, there is time to make a studied decision
+
+    - Is the cost of a decision-making error high?
+      - May be monetary, but it frequently can also be assessed in terms of human life and limb
+
+    - Is the situation novel, unfamiliar, or problematic in not being fully defined?
+      - Any of these conditions may preclude the selection and application of "tried and true" courses of action
+
+    - Can we have traceability on exactly how the course of action was rationally selected?
+
+  - We then proceed to the process of decision analysis
+    - Allows us to refine our situation model and express it in quantitative terms so that we are able to use numerical values rather than on-the-spot expert judgment to select optimal courses of action
+
+  - Real-world decisions are usually a combination of naturalistic and analytical processes
+    - For engineers, some form of analytical decision-making is generally required
+
+  - Analytical decision-making is a conscious process requiring cognitive performance
+    - Amenable to meta-cognitive evaluation => we can self-assess our decision-making processes and judge where there are effective and where they are lacking
+    - Decision-making is a learnable skill
+      - We can learn methodologies on which to base our analyses
+      - Experience and practice can help us if we use feedback properly and adjust accordingly
+      - We can learn how to work collaboratively during the analytic process
+      - We can learn to deal with the effects of psycho-physiological stress
+
+- Decisions with Certain Outcomes
+  - 
+
 
 
 
