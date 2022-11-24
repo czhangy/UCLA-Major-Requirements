@@ -3532,7 +3532,6 @@
   - Describe how common psychological proclivities and biases can influence decision-making
   - Engineering decisions today are most usually made in groups, are often made under stress, and may or may not be subject to reevaluation
     - We discuss some important factors that influence these processes
-
 - Naturalistic Decision-Making
   - The way we normally make decisions
     - Start with an apprehension of the decision-making environment
@@ -3547,7 +3546,6 @@
     - In 2005, Malcolm Gladwell published *Blink: The Power of Thinking Without Thinking*, which postulated that some of life's most important decisions are made in the blink of an eye
 
   - Engineers engage in naturalistic decision-making, both professionally and personally, but there is another form of decision-making that is more closely associated with engineering practice
-
 - Analytical Decision-Making
   - The outcome of an "Analysis Test" that we perform on the normal, naturalistic decision-making process
   - We ask several important questions:
@@ -3575,9 +3573,181 @@
       - Experience and practice can help us if we use feedback properly and adjust accordingly
       - We can learn how to work collaboratively during the analytic process
       - We can learn to deal with the effects of psycho-physiological stress
-
 - Decisions with Certain Outcomes
-  - 
+  - Use of multi-attribute utility analysis (MAUA) for two main reasons
+    - It is simple, often requiring little more than arithmetic
+    - Name is impressive
+  - Characteristics of a decision with certain outcomes are:
+    - There are a number of acceptable alternatives
+    - The alternatives share a number of known attributes or characteristics
+    - Each attribute can be assigned a weighting value reflecting its relative importance to the decision
+    - The objective is to select the best alternative using one of several possible optimizing criteria, which may include:
+      - Minimum cost
+      - Maximum gain
+      - Maximum utility
+  - The preferred criterion is maximum utility, a dimensionless measure of value which allows us to incorporate in the analysis attributes of widely differing types
+- Decision with Probabilistic Outcomes
+  - Decision Trees
+    - As decision trees become larger and more complex, they become difficult to comprehend and unwieldy computationally
+      - A new way of representing decision trees has recently become popular for decision analysis: influence diagrams
+
+    - The analysis of decisions with probabilistic outcomes has much in common with the preceding analysis of decisions with certain outcomes
+      - As before, we have several viable alternatives and we are interested in making the optimal choice from among them
+
+    - Difference is that the alternatives have probabilistic outcomes and consequences
+    - The decision criteria remain the same: the utility measure is strongly favored, and minimum cost and maximum gain are possible as well
+      - The difference is that because probabilities are involved, the criteria are termed *expected* utility, *expected* cost, or *expected* gain
+
+  - The Importance of Negative Thinking
+    - One very important factor is that the analysis should include consideration of negative consequences
+      - Frequently neglected by average decision-makers and, in particular, by more intuitive rather than analytical personalities
+      - Failure to consider probabilities and negative consequences can occur even at the highest decision-making levels
+
+    - Personality affects decision-making style, particularly when the person is in a position of great power and not subject to outside constraints
+      - Important decisions made on the basis of intuition and with serious analysis can go terribly wrong and result in substantial damage
+      - Analysis is warranted, particularly when the potential costs of mistakes are high
+
+  - Expected Value
+    - The expected value is the probability of getting a dollar times that amount plus the probability of getting nothing times that amount => generalize
+
+  - Influence Diagram Modeling
+    - Real-world, engineering-related decision trees can grow highly complex, and involve many branches and much redundancy
+    - Large decision trees in their traditional form are tedious to develop, hard to comprehend, and inefficient to deal with computationally
+      - Decision analysts have developed a new decision modeling methodology called the influence diagram
+
+    - An influence diagram is a condensed way of representing and calculating large decision trees and makes better use of today's computing and graphic display technology
+      - Links alternative action choice with desired outcomes through intervening factors and objectives
+      - Model of the decision situation in which the constituent sets of elements are connected by the probabilistic influence one element has on the other(s)
+      - Lines of influence are intended to include Bayesian probability estimates for the degree of influence
+        - Can be quantitative of qualitative
+
+    - Decision-makers are generally also able to readily assign qualitative values for the important of outcomes
+    - When we compute the influence diagram model, we obtain an expected utility value for each alternative COA
+
+  - The Factor of Risk
+    - The range of expected outcomes is another element of the choice
+
+- Psychological Factors in Decision-Making
+  - We have assumed that decision-makers are rational people and want to apply rational rules in choosing among alternatives
+    - Recently, experiments have shown that this is usually not true and that psychological factors such as preferences and biases can have a major role in decision-making
+
+  - Tversky and Kahneman showed that heuristics can mislead, biases can affect judgment, and emotions can affect decisions
+    - As a result, humans are not naturally rational decision-makers
+    - They called their work Prospect Theory and it has great implications for technical, as well as physical decision-making
+
+  - Dr. Baruch Fischhoff studied the availability heuristic
+    - The phenomenon that people tend to estimate the probability of an event according to the ease with which examples of it come to mind
+    - Carries over to civic as well as technical decisions
+    - Established a four-quadrant risk space for technologies:
+      - Involuntary exposure, unfamiliar, with catastrophic potential, but not definitely fatal and common
+      - Voluntary exposure, familiar, old with chronic risk, and definitely fatal and common
+      - Involuntary exposure, unfamiliar, new, with catastrophic potential and definitely fatal, instilling dread
+      - Voluntary exposure, familiar, old with catastrophic potential and definitely fatal, instilling dread
+
+- Analytical Decision-Making Takeaway
+  - What we have learned in our discussion of analytical decision-making includes:
+    - Methodologies: there are methodological ways of making analytical decisions, which are useful because they provide a commonly accepted process for reaching a rational choice as well as a record of the factors considered
+    - Societal/ethical factors: the methodologies used for both certain and probabilistic decision-making allow for the inclusion of societal/ethical factors
+    - Computer modeling and computation: the use of decision support software can greatly assist the decision-making process, particularly in the case of complex analyses using influence diagrams
+    - Decision-maker knowledge: inputs from the decision-maker in such form as setting priorities and estimating probabilities are still required
+      - Generally based on knowledge, experience, preferences, and judgment as well as on available data
+
+    - Even analytical decisions are subject to emotions and mind tricks: decision-makers have to guard against their built-in psychological biases and unwarranted assumptions
+
+- Ethical Case Studies: Executive Decisions
+  - 2003 Stock Market Bubble
+    - Martha Stewart engages in insider trading and is convicted
+    - A simple decision analysis would have shown that the potential loss from selling her stock on the basis of questionable information was much greater than the likely loss from holding it
+    - Ethical decision should have been even easier
+
+  - Rick Singer
+    - Gets kids into prestigious colleges by cheating on SATs, pretending to be qualified athletes, etc.
+    - Largely unpredictable costs, but extensive nonetheless
+    - Consider the downside when making a decision of consequence, or perhaps any decision at all
+
+- Group Decision-Making
+  - Common today, and probably the most usual form of engineering decision-making
+    - Long standing or formed for a specific problem or situation
+    - Generally multidisciplinary, comprising scientific, technical, managerial, and, frequently, legal participants
+    - May be located in one place or they may operate remotely
+    - May be advisory or represent a final authority
+
+  - The decision-making procedure a group employs may be unstructured and unaided
+    - May be structured in terms of an analytical methodology such as MAUA, influence diagram, etc.
+    - May be structured and aided through use of an analytical methodology supported by a software application
+
+  - Computer-aided groups spread their time more evenly over analytical decision-making activities
+    - Unaided groups spend almost all of their time proposing and arguing over alternative actions, and almost no time discussing probabilities of success or failure
+    - Aided groups were led into considering these elements by the structure of the program, which in turn led to a rational and unanimous group decision
+
+  - Analytical software is highly useful in group-decision-making in a broad variety of situations
+
+- Decision-Making under Stress
+  - Defining Stress
+    - Stress occurs when a person assesses that the demands of a task may approach or exceed his or her capacity, and realizes that seriously bad outcomes may occur if the task is not successfully completed
+
+  - Effects on Decision-Making
+    - Our response to stress if both physiological and psychological
+    - In most cases, the effects of stress are not conducive to good decision-making for the following reasons:
+      - The nervous system's response leaves less capacity for problem solving
+      - Narrowed attention reduces the set of options considered, and causes a focus on what first comes to mind
+      - Decisions are hurried to relieve the stress effects, which exacerbates the above problems
+
+    - Decision-making is generally worse under stress
+    - Engineers/leaders should consider stress a common occurrence and learn more about it
+
+  - Differences Among Individuals
+    - There are strong differences among individuals in their reaction to stress, which may be determined by innate characteristics, previously learned mitigation strategies, or both
+
+  - Using Stress Productively
+    - Study by W.D. Fenz and S. Epstein in 1967 shows that fear of a stressful even does not simply dissipate, but rather is inhibited or controlled
+      - While repeated exposure to a stressor is an important variable, there are also other variables which are responsible for differences between subjects in their ability to deal effectively with stress
+
+    - Anecdotal reports suggest that experience participants are able to apply their "stress energy" productively
+      - Can engineers apply this knowledge in our stressful, but usually not physically risky work environment
+
+  - Strategies for Mitigating Stress
+    - Several strategies for mitigating the negative effects of stress and recruiting its positive effects:
+      - Recognize the stress level; understand that the decision situation meets the criteria for eliciting stress effects, and that these are likely to occur
+      - Expect and understand the psycho-physiological effects on your body and mind
+        - Assume it is natural for your heart rate to be elevated, your breathing more rapid, your stomach upset, and your thoughts distracted
+
+      - Depend more on structured, familiar procedures
+        - Ensure that you and your team refer to and follow methodological steps in making decisions
+        - Use checklists if available
+        - Have team members review each other
+
+      - Learn to use the stress energy productively
+        - Most difficult, but may come naturally or with experience
+
+- Cognitive Dissonance and its Effects
+  - We can summarize the results of the engineering decision-making process with a simple decision matrix
+    - If we make good decisions, we can expect good outcomes, but because some outcomes depend on probabilities, we may be unlucky and have a bad outcome for a good decision
+    - Likewise, bad decisions will usually lead to bad results, but luck might be with us and provide the opposite
+
+  - The right thing in engineering decision-making is primarily to make best use of the information at hand, and to include all of the relevant factors fairly and honestly
+    - Doing the right thing includes taking responsibility or and gaining from bad outcomes
+
+  - Cognitive dissonance is a well-known psychological effect whereby a decision alternative looks better after it has been chosen than before it was chosen
+    - Your brain has a choice: either you're a great decision-maker, or you're a loser stuck with a wrong choice => brain prefers the first interpretation
+    - You don't have to sweat small decisions and makes you feel good about yourself
+    - Bad effects include:
+      - Holding on to false premises in the face of later facts
+      - Rationalizing your choice as the best possible under the circumstance, despite the fact that a later more complete analysis shows another option was the better one
+      - Continuing and even escalating wrong courses of action, because changing course means recognizing that the original decision was wrong
+      - Avoiding blame when blame is due
+
+  - The ability to learn from one's mistakes is necessary for truly effective decision-making
+
+- Summary
+  - Sometimes, ethics is the controlling factor in decision-making
+    - More usually, the ethical and/or societal elements appear in the decision-making process as benefit or cost factors with personal, organizational, and/or societal values and importance weights
+
+  - Hope that ethical considerations are the natural product of an ethical culture, manifested at the project and team level as collaborative decisions
+  - Ethical decision-making is a personal action
+    - Being ethical involves both knowing what you stand for and acting on that knowledge
+    - Provides an opportunity to answer "what do you stand for?" and "what do you do about it?"
+
 
 
 
