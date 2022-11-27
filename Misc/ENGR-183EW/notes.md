@@ -56,7 +56,7 @@
     - "With authority comes responsibility"
 
   - Engineering environment
-    - Jobs: employees to entrpreneurs
+    - Jobs: employees to entrepreneurs
     - Organizations: small to giant, local to distributed
     - Responsibilities: frequently immense and highly public
 
@@ -67,7 +67,7 @@
 
 - Sources of Ethics
   - Morals and ethics are: beliefs, assumptions, and values => guides to action
-  - The main sources of morals an ethics are considered to be:
+  - The main sources of morals and ethics are considered to be:
 
 - Ethical Progressions
   - Royal/divine legal codes => revealed moral/ethical codes => specialized life codes => ethical philosophies => societal regulations and laws
@@ -86,7 +86,7 @@
 - Early Biblical Material (~1000 BC)
   - Points:
     - You shall not do it, but worship the Lord
-    - Judge the slave and the widow/Judge the orphan and the stanger
+    - Judge the slave and the widow/Judge the orphan and the stranger
     - Plead for the infant/plead for the poor and the widow
     - Rehabilitate the
 
@@ -350,7 +350,7 @@
   - Cardinal Virtues
     - Greek "Cardinal" virtues of Plato and Aristotle were mainly intended for wealthy, land-owning males
     - Roman virtues of Cicero were intended for civic leaders of the more expansive and militant Roman Empire
-    - Christian fundamental virtues are intended for all belivers and have transcendental and historical roots
+    - Christian fundamental virtues are intended for all believers and have transcendental and historical roots
     - Virtues are values expressed as permanent modes of behavior
 
   - The Golden Mean
@@ -432,7 +432,7 @@
     - Provide guidelines and methodology for making ethical engineering decisions
       - Learning to make better decisions can have a significant effect on success in engineering, as well as in life
       - Examine naturalistic and analytical decision-making and present several ways of performing a quantitative analysis that combines technical and societal considerations
-    - Provide knowledge to improve performance in working on and leading diverse temas
+    - Provide knowledge to improve performance in working on and leading diverse teams
       - Successful engineering depends on both taskwork skills and teamwork skills
       - The importance of teamwork skills is heightened in today's international, distributed, and highly diverse working environment
     - Illuminate the path to continued learning
@@ -475,7 +475,7 @@
   - Decisions are actions, and engineers are required to make decisions continually, thus establishing the basis for defining their ethical framework
     - Engineering decisions often are simultaneously analytical and probabilistic
     - Engineers are often alright with time constraints on their decisions
-    - More and more, engineering decisions are multiperson and multiorganizations
+    - More and more, engineering decisions are multi-person and multi-organization
     - Generally involve both technical and societal factors
     - Engineering decisions are consequential, with consequences today happening at a speed and to an extent never before experienced
       - One wrong engineering decision can have an instantaneous and serious effect on millions or even billions of people
@@ -562,7 +562,7 @@
       - Earliest societies were ruled by kings considered both human and divine, and were therefore absolute in their power
       - The "law" was the prerogative of kings and priests, but could be influenced by societal custom
     - Code of Hammurabi
-      - Presented as representing right and justice and being in the interest of the oppressed, those most in need of right judgement
+      - Presented as representing right and justice and being in the interest of the oppressed, those most in need of right judgment
       - Harsh punishments, deals with property ownership
       - Details three levels of justice: aristocrats, commoners, and slaves, with punishments becoming more severe as the person's social status drops
     - Justice is a dominant theme
@@ -592,7 +592,7 @@
         - You shall not covet your neighbor's goods, nor his house, nor his wife, nor his manservant, ... nor anything that is your neighbor's
     - Much of American society has embraced the Ten Commandments as a historical moral symbol
       - Debate about separation of church and state
-      - Public has expressed its embrace of the laws through the practice of merchandizing
+      - Public has expressed its embrace of the laws through the practice of merchandising
   - The New Testament
     - Christian teaching diverges from the Old Testament both in its emphasis and in its particulars
     - Jesus didn't abandon the Torah, but his teachings were novel in that they emphasized humility, loving kindness, and forgiveness rather than prohibitions and retribution
@@ -821,7 +821,7 @@
       - One way to approach duty ethics is to say that each identified right has a duty associated with it
       - Another way is to establish basic principles upon which duties are constructed
         - This is the more traditional approach to duty ethics, called deontological ethics, or deontology
-    - To whom are what are duties owed? Why should we carry out ethical actions?
+    - To whom are what duties owed? Why should we carry out ethical actions?
       - The simplest answer is: "because it's right to do so"
         - Not a fully satisfying reason from a humanistic/practical standpoint
       - We often find that people feel an ethical obligation to other people
@@ -888,7 +888,7 @@
         - Wisdom: the ability to choose a proper course of action for a given situation at the right time
         - Courage: the ability to confront danger and uncertainty and to continue to act appropriately and effectively
         - Temperance: the ability to practice self-control, restraint, and discretion, sometimes translated as sound-mindedness
-        - Justice: the ability to act fairly in matters requiring judgement, also translated as righteousness
+        - Justice: the ability to act fairly in matters requiring judgment, also translated as righteousness
       - Influenced Roman ethical thought as well as subsequent Christian ethical philosophy
       - Mainly intended for wealthy, land-owning males, and not for the public at large
       - Considered justice the most important and extensive virtue
@@ -934,7 +934,7 @@
 
       - Svend Brinkman's *Resisting the Self-Improvement Craze*
         - Advocates a return to old-fashioned virtues:
-          - Integrity: keeping faith with your ethical framwork
+          - Integrity: keeping faith with your ethical framework
           - Self-control
           - Character: incorporating positive virtues, performing ethical duties
           - Dignity: maintaining a steady demeanor, even in hard circumstances
@@ -1014,7 +1014,7 @@
     - Nondemocratic: dictatorships, monarchies, and theocracies still exist in the world
       - These forms of government are much different from ours with sometimes fundamentally different sets of rights and duties
     - Nonpolitical: again, there is a spectrum from Libertarian thought, which advocates a minimum government concerned with defense and little else, to Anarchistic thought, which advocates for virtually no government at all
-    - Nonmartial: this philosophy builds a pacifistic framework based on the complete rejection of militarism and war, certainly not a mainstay of most Western philosophies
+    - Non-martial: this philosophy builds a pacifistic framework based on the complete rejection of militarism and war, certainly not a mainstay of most Western philosophies
     - Non-capitalistic: these frameworks, as Socialism and Communism, which hardly exist today in their originally conceived form, still advocate extensive state involvement in social and economic matters
     - Non-altruistic: the objectivist philosophy associated with Ayn Rand, author of *The Fountainhead* and *Atlas Shrugged* advocates for fair exchange of goods and services, rejecting such one-sided acts as those of charity
     - Nonessentialist: this is the Existentialist philosophy we introduced in Chapter 1, which basically says our character is determined by our actions and not a result of our natural being
@@ -1283,7 +1283,7 @@
     - Engineering teamwork inexorably involves social and ethical factors
 
   - Team success depends on a combination of technical skills, interpersonal skills, and methodological skills
-    - The interpersonal skillset includes communication, organization, leadership, team-building, coping, negotiation, and decision-making
+    - The interpersonal skill set includes communication, organization, leadership, team-building, coping, negotiation, and decision-making
     - Good leadership is essential for team success, and emotional intelligence is essential for good leadership
 
   - Interpersonal skills may govern our professional advancement
@@ -1317,15 +1317,15 @@
     - Systems engineering is an essential area of project conceptualization and initial design, and generally accomplishes the following tasks:
       - System concept: defines the overall design and functions of the system being developed, designed, and/or manufactured
       - Subsystem definitions: complete the details of system concept
-      - System modelling: includes the consideration of tradeoffs among technical and operational parameters
-      - Modelling data: acquired by analysis, experimentation, or prior sources
-      - Verification: uses the modelling data to show that all the requirements are achievable
+      - System modeling: includes the consideration of tradeoffs among technical and operational parameters
+      - Modeling data: acquired by analysis, experimentation, or prior sources
+      - Verification: uses the modeling data to show that all the requirements are achievable
       - Specification: quantify the requirements into actual system design factors
 
     - Projects are difficult for a variety of reasons
       - The problems for which a solution is desired may not be completely solvable
       - There may exist conflicting requirements and differing stakeholders' motivations
-      - Modelling data may be incomplete, contradictory, or nonexistent
+      - Modeling data may be incomplete, contradictory, or nonexistent
       - May be fundamental limitations of either technology or physics
 
   - Project Organization
@@ -1474,7 +1474,7 @@
     - Roman organization gave us the template for subsequent European society, both for its cities and for the integrated state
     - The Roman model included the following:
       - Consistency: Roman city plans were similar throughout the Empire
-      - Infrastructure: Cities provided for housing at several economic levels, for commerce, entertainment, sports, recreation, and eduction, while also providing water distribution and sewage disposal
+      - Infrastructure: Cities provided for housing at several economic levels, for commerce, entertainment, sports, recreation, and education, while also providing water distribution and sewage disposal
       - Governance: cities included public buildings where functions of government were carried out, including politics and courts of justice
     - With respect to the integrated state, we see:
       - Politics and the military: centrally coordinated from Rome and widely applied throughout the empire
@@ -1502,7 +1502,7 @@
 - Medieval Europe: The Not So Dark Ages
   - The lights of philosophical and scientific inquiry seem to have gone out, but several important innovations appeared during this time
     - Ex) The heavy plow creating agricultural surplus, leading to accumulation of funds, more efficient/effective use of horsepower, "stand-off" weapons
-  - Most important innovatins:
+  - Most important innovations:
     - Paper: provided an inexpensive product that could replace costly parchment for the dissemination of written material
     - Arabic numbers: provided a much more effective means of calculation than Roman numerals
     - Blast furnace: set the stage for industrial production of steel and other metals
@@ -1542,7 +1542,7 @@
   - Experimentation and Demonstration
     - Galileo confirmed Copernicus' sun-centric theory
     - Hooke first reported on cells using the microscope
-    - Boyle provided the laws of gases
+    - Boyle provided the laws of gasses
   - Society shifted from an evolutionary form of technical advance to a new environment of inventions and contributions, where technology advanced rapidly in large and well-documented leaps and bounds
 
 - The Industrial Revolution: Society Transforms
@@ -1618,7 +1618,7 @@
         - Comes from an author with a dyspeptic view of humanity in general
       - *Looking Further Backward*
         - Published as an answer to *Looking Backward*
-        - Described how Chine invaded the US, which had been weakened by socialism, to restore a capitalistic society
+        - Described how China invaded the US, which had been weakened by socialism, to restore a capitalistic society
       - *When the Sleeper Wakes*
         - Describes how a person sleeping for 200 years wakes in London, where people are dominated by propaganda and ruled by a demagogue
     - Several of these old dystopias have clear reflections in today's economic and political environments
@@ -1927,7 +1927,7 @@
       - Eroded the power of American unions and factory jobs in the US became lower paid, with fewer benefits and less security
 
   - Personal Computing and Communications
-    - Advances in the 70s moved the main locus of computing from large centralized main frames and smaller sized mini computers to the individual desktop
+    - Advances in the 70s moved the main locus of computing from large centralized mainframes and smaller sized mini computers to the individual desktop
       - First in business offices and research centers, and then in homes
       - The IBM PC was a revelation to society in the capability it put into the hands of its users
         - Lacked a friendly UI, which was supplied by the Apple line of personal computers, which borrowed from innovations at Xerox PARC to create a new level of interaction
@@ -1953,7 +1953,7 @@
       - Survival: asked if people would have to develop new coping skills, if education for tomorrow would have to take new forms, and if society should invest effort in taming technology
 
     - In 1989, Richard Saul Wurman published *Information Anxiety*, where he recognizes that the personal computer has made a great amount of information available to everybody, but has worries
-      - The Noninformation Explosion: we're inundated with facts, but starved for information
+      - The Non-information Explosion: we're inundated with facts, but starved for information
 
 - Postmodernism
   - 80s and 90s were a period of technical harvesting
@@ -2066,7 +2066,7 @@
       - Fossil sources (oil, natural gas, coal, etc.)
         - Limited, even though limits may be unclear
       - Renewable sources (solar, wind, hydro power, marine energy, etc.)
-        - No immediately discernable limits
+        - No immediately discernible limits
 
 - Energy Sources and their Evolution
 
@@ -2137,7 +2137,7 @@
     - An indicator of consumer class was personal transport by car
     - On a worldwide basis, transport represents ~20% of total energy use
     - Projections for growth in car population show that the US will remain relatively steady, but other countries will develop rapidly, especially China
-    - For cars to maintain their current percentage of energy use, it is estimated they have to average 60mi/gal by 2030 and 400mi/gal by 2100
+    - For cars to maintain their current percentage of energy use, it is estimated they have to average 60mpg by 2030 and 400mpg by 2100
       - The second number seems beyond the reach of current car technology, so changes will be necessary if the car population is to continually grow
     - In LA, we've seen a gradual shift from gasoline-powered cars to fuel-efficient cars
     - Another approach is to go all-electric
@@ -2166,7 +2166,7 @@
     - Species: for sustaining biodiversity and biological resources
   - Today, governments, organizations, and companies act in ways that endanger or destroy the commons, and there is a consensus that we need a worldwide ethical agreement on resource rights and duties
   - The ethical duties of engineers specifically will fall into the following areas:
-    - Analysis: to measure and analyze the current situation using the best equipment and methods available, predict future conditions through modelling and simulation, establish technical requirements for control and mitigation, and create new strategies for a sustainable environment
+    - Analysis: to measure and analyze the current situation using the best equipment and methods available, predict future conditions through modeling and simulation, establish technical requirements for control and mitigation, and create new strategies for a sustainable environment
     - Innovation and development: to improve current methods, and develop totally new approaches and technologies
     - Communication: most important, to convey the facts both to policy makers and the public in a form that is understandable, transparent, and above all, truthful
 
@@ -2193,7 +2193,7 @@
     - Pragmatism: the frequent need for antagonists to compromise in order to reach rational solutions, local as well as worldwide
 
   - We currently face a number of very serious environmental problems:
-    - Depletion of natural resources, exacerbated by the growing affluence of the world's popuation
+    - Depletion of natural resources, exacerbated by the growing affluence of the world's population
     - The industrialization of the environment
     - Industrial technology meets natural phenomena
 - Case Study 1: Los Angeles Smog
@@ -2229,21 +2229,21 @@
       - Most of the energy is absorbed to heat the Earth
       - Some energy is immediately reflected, particularly from the snow and ice at the poles
       - A substantial portion of the reflected energy moves through the near atmosphere to the higher atmosphere and is gone
-      - Currently, energy is being trapped and returned to the Earth's surface by greenhouse gases in the atmosphere, which function in the same way as glass does in the traditional greenhouse
+      - Currently, energy is being trapped and returned to the Earth's surface by greenhouse gasses in the atmosphere, which function in the same way as glass does in the traditional greenhouse
 
-    - Key greenhouse gases include:
+    - Key greenhouse gasses include:
       - Carbon dioxide: from burning fossil fuels for power generation and for transportation
-      - Methand: from industrial processes and from agriculture, in particular from beef production
+      - Methane: from industrial processes and from agriculture, in particular from beef production
       - Nitrous oxide: from soils under natural vegetation and agriculture
       - Ozone: from photochemical reaction of carbon-based fuels
       - Water vapor: from numerous water sources and from the oceans
 
   - The Facts
     - The global average temperature has been rising steadily for over 150 years, and has risen at a higher rate since the middle of the 20th century
-      - At the same time, there has been a dramatic rise in the concentration of greenhouse gases
+      - At the same time, there has been a dramatic rise in the concentration of greenhouse gasses
 
   - The Cause
-    - The rise in global temperature is due to the increase in the greenhouse gases that are primarily the result of industrial processes and related social activities
+    - The rise in global temperature is due to the increase in the greenhouse gasses that are primarily the result of industrial processes and related social activities
 
   - The Divided Political Situation
     - The division between climate change believers and skeptics follows political lines, preventing the US from taking needed actions on a national level
@@ -2356,7 +2356,7 @@
     - The cost of DNA sequencing has fallen drastically, supporting Moore's Law
     - Current frontiers of human DNA research include:
       - Interactions between DNA and other components of cells, such as RNA and ribosomes, and how these interactions control the complex process of protein formation
-        - What determines whether a given piece of DNA is function or is not functioning in the cell?
+        - What determines whether a given piece of DNA is functioning or is not functioning in the cell?
 
       - Connection between DNA and brain function, and, in particular, how genes influence cognition and behavior
         - Understanding how information is stored, retrieved, and used
@@ -2424,7 +2424,7 @@
       - Nanoengineers must move atoms into the right places, create structures in molecular detail without violating the laws of physics, and do this at low manufacturing costs
 
     - Recent developments:
-      - Buckeyballs: carbon atoms arranged as spheres for use in superhard substances such as synthetic diamonds
+      - Buckyballs: carbon atoms arranged as spheres for use in superhard substances such as synthetic diamonds
       - Nanotubes: carbon atoms are rolled into cylinders that exhibit exceptional electrical, thermal, and structural properties
       - Graphene: carbon atoms are spread into a one-atom sheet that is flexible and strong, also shows exceptional electrical and thermal properties, and is finding initial uses for display screens, batteries, lights, etc.
 
@@ -2512,11 +2512,11 @@
     - Basic scientific discovery that led to the development of CRISPR came from studies of bacteria
       - One of the main ways bacteria defends against viruses is determining what part of a virus' DNA is critical to its life, making a CRISPR RNA copy of the critical DNA segment, and then creating a CAS protein that uses the CRISPR RNA to find the virus' key DNA segment and then cut/destroy it
 
-    - Researchers demonstrated they could engineer CRISPR RNA-CAS9 proteins that would cut DNA in precisely specified places and could also determine how those cuts would repair themselves or allow in other preprogrammed DNA segments
+    - Researchers demonstrated they could engineer CRISPR RNA-CAS9 proteins that would cut DNA in precisely specified places and could also determine how those cuts would repair themselves or allow in other pre-programmed DNA segments
       - Technique enables precise editing to modify protein formation using an organism's own genes rather than genes from an outside source
 
     - Technique is readily available and simple
-    - Early targets include double-muscled dogs, micropigs, disease-resistant rice, slower-ripening tomatoes, and healthier potatoes
+    - Early targets include double-muscled dogs, micro-pigs, disease-resistant rice, slower-ripening tomatoes, and healthier potatoes
       - Attempts to humanize pig DNA so that pig organs could be suitable for transplant into humans
       - DNA-based naturalization of disease-carrying mosquitoes
 
@@ -2545,9 +2545,9 @@
     - True beginning of modern computing was the Babbage Analytical Machine
       - A novel machine featuring programmed inputs, an ability to branch in response to intermediate results, and printed output
       - Concurrent introduction of Boolean logic laid the groundwork for subsequent advances in computing technology and speed
-    - Another key 19th century innovation was the Hollerith tabulating machine, a mechnical tabulator that used punched cards as input
+    - Another key 19th century innovation was the Hollerith tabulating machine, a mechanical tabulator that used punched cards as input
       - Led to the formation of IBM
-    - Breakthrough in computing in the mid-20th century during WWII with the ULRA machines, the programmable electronic computers that helped the Allies break Enigma
+    - Breakthrough in computing in the mid-20th century during WWII with the ULTRA machines, the programmable electronic computers that helped the Allies break Enigma
       - The IBM/Harvard Mark I was a general-purpose electromechanical computer that was used during the last part of WWII
       - After WWII, universities initiated computer departments, resulting in the first all-electronic general-purpose computer: the ENIAC
     - The century from 1919 to 2019 saw great changes in the power of computing available to the general public
@@ -2629,7 +2629,7 @@
     - 1958: AI Laboratory is founded at MIT and used to make significant contributions to the theory/practice of AI
     - 1960: The Perceptron is demonstrated by Rosenblatt as the first learning machine
       - Rosenblatt recognized the importance of the machine learning principle for future Perceptron algorithms that could be supported on larger/faster computers
-    - 1979: the MYCIN Expert System for medical diagnosis was developed by a group of researchers at Sandord University
+    - 1979: the MYCIN Expert System for medical diagnosis was developed by a group of researchers at Stanford University
       - Used embedded expert knowledge to identify the bacteria that was causing serious infections and to recommend appropriate antibiotics
     - 1987: Speech recognition systems and speech generation systems were developed
       - Important in providing non-technical users with natural inputs to artificially intelligent systems
@@ -2778,7 +2778,7 @@
       - Rigorous and evidence-based: research conforms to the highest academic standards
       - Transparent and open: studies and trials are unrestricted, uninfluenced, and not predetermined
       - Diverse and interdisciplinary: work involves the broadest possible range of voices
-      - Collaborative and inclusive: continuing dialogs among public, academics, and developers about AI
+      - Collaborative and inclusive: continuing dialogue among public, academics, and developers about AI
 
   - Human-Centered Artificial Intelligence
 
@@ -2875,7 +2875,7 @@
     - The connective power of the Internet is also being used to interconnect a broad variety of devices, data sources, and individuals to form one massive IoT with the goal of increasing coordination, efficiency, and productivity in government, business, medicine, and personal activities
       - In a sense, this is a novel realization of the ARPANET developers' original goal of a supercomputer made by networking specialized computers around the country
 
-    - Entities on a network are potentially able to transmit information and form special-purpose sub-nets without human intervention, possibly guided by AI algorithms
+    - Entities on a network are potentially able to transmit information and form special-purpose subnets without human intervention, possibly guided by AI algorithms
 
   - The Internet Darkens
     - The Internet has developed a substantial dark side during its rapid growth
@@ -3055,7 +3055,7 @@
 
   - Constitutional Protection: The 4th Amendment
     - 4th Amendment was prescient in framing the issue of individual security as it relates to the actions of government
-      - Important to note that it is not a blanker protection against search and seizure, only a protection against *unreasonable* actions
+      - Important to note that it is not a blanket protection against search and seizure, only a protection against *unreasonable* actions
 
   - Expectation of Privacy
     - The general societal principle that underlies the 4th Amendment is the expectation of privacy
@@ -3262,7 +3262,7 @@
 
   - The Industry
     - DoD wanted the industry to condense from the current dozens of medium-sized contractors to a handful of large contractors from which it could procure its most important systems
-      - Defense industry initiated a series of merges that resulted in the formation of five main defense companies: Lockheed Martin, Boeing, Northrup Grumman, General Dynamics, and Raytheon
+      - Defense industry initiated a series of merges that resulted in the formation of five main defense companies: Lockheed Martin, Boeing, Northrop Grumman, General Dynamics, and Raytheon
 
     - The big five are joined by thousands of smaller companies that provide defense research and development as well as military products
       - Many are support contractors that provide a broad variety of services directly in support of uniformed personnel
@@ -3297,7 +3297,7 @@
       - Force composition: the personnel makeup has moved to more inclusive combat roles
       - Worldwide security and peacekeeping: remains a main strategic consideration, but the amount of activity that the military devotes to it had varied with the administrations
       - Promotion of stable and friendly governments: encouragement of worldwide democracy that also varies from administration to administration
-      - Limiting the size and duration of military missions: seeing an end at the beginning has emrged as a key strategic factor
+      - Limiting the size and duration of military missions: seeing an end at the beginning has emerged as a key strategic factor
 
     - With respect to tactics, the military has developed some new requirements in the post-9/11 period:
       - Rapid projection of overwhelming force: the conventional ways of moving heavy weapons and equipment to a distant battlefield were too slow for today's fast-paced world
@@ -3308,7 +3308,7 @@
 
     - Rapid and effective exploitation of new technology is of paramount importance to the DoD
     - Military engineering during the post-9/11 period has focused on seven main areas:
-      - Netcentric warfare
+      - Net-centric warfare
       - Defeating asymmetric threats
       - Information operations
       - Electronic warfare
@@ -3316,15 +3316,15 @@
       - Artificial intelligence
       - Robotics, intelligent weapons, and remote warfare
 
-  - Netcentric Warfare
+  - Net-Centric Warfare
 
     - The migration into the military domain of the Internet information and connectivity revolution that occurred in the civil domain
-    - The netcentric environment makes available to lower echelons and smaller units battlefield information previously available only to higher headquarters
+    - The net-centric environment makes available to lower echelons and smaller units battlefield information previously available only to higher headquarters
       - Flattened the military hierarchy
       - With this degree of situation awareness, they do not have to wait for headquarters to direct a course of action, but are able to choose one of their own
       - Given new responsibility to lower echelon leaders, and has also created the need for mobile decision support systems to help them decide quickly and correctly
 
-    - Netcentric communications depend heavily on sophisticated field radios and often on satellite links as well
+    - Net-centric communications depend heavily on sophisticated field radios and often on satellite links as well
       - Communications components can be transported to the battlefield in a number of ways
 
   - Defeating Asymmetric Threats
@@ -3530,7 +3530,7 @@
 
   - Start with a general overview of two kinds of decision-making, and then discuss several methodologies that can support analytical decision-making while incorporating ethical/social factors
   - Describe how common psychological proclivities and biases can influence decision-making
-  - Engineering decisions today are most usually made in groups, are often made under stress, and may or may not be subject to reevaluation
+  - Engineering decisions today are most usually made in groups, are often made under stress, and may or may not be subject to revaluation
     - We discuss some important factors that influence these processes
 - Naturalistic Decision-Making
   - The way we normally make decisions
@@ -3700,7 +3700,7 @@
     - There are strong differences among individuals in their reaction to stress, which may be determined by innate characteristics, previously learned mitigation strategies, or both
 
   - Using Stress Productively
-    - Study by W.D. Fenz and S. Epstein in 1967 shows that fear of a stressful even does not simply dissipate, but rather is inhibited or controlled
+    - Study by W.D. Fenz and S. Epstein in 1967 shows that fear of a stressful event does not simply dissipate, but rather is inhibited or controlled
       - While repeated exposure to a stressor is an important variable, there are also other variables which are responsible for differences between subjects in their ability to deal effectively with stress
 
     - Anecdotal reports suggest that experience participants are able to apply their "stress energy" productively
@@ -3750,8 +3750,80 @@
 
 
 
-
-
 ## Reading 17: Personal Ethics and Going Forward
 
-- 
+- Introduction
+  - Three main objectives:
+    - Explore the definitions and origins of ethics and ethical philosophies and describe five normative philosophies of particular importance to engineering practice
+    - Examine problems with both technological and societal impact facing the US and the world in the 21st century, and describe how selected ethical philosophies apply to their potential solution
+    - Help students build and/or extend their personal ethical frameworks by gaining more knowledge about normative ethical philosophies and seeing how ethical consideration can enter into the solution of real world technical problems
+- Personal Ethical Frameworks
+  - Construction
+    - Your personal ethical framework may originally derive from a variety of sources
+    - Both naturalistic and analytical decision will likely be informed by the elements of your ethical framework
+    - Your personal ethical framework is a complex, multilayered cognitive construction with much potential for evolution, growth, and application
+  - Personal Ethics Within Organizations
+    - Interactions with team members: as a member of an engineering team, your ethical imperatives focus on a few key elements:
+      - Showing respect to all of the tea, in your behavior and speech
+      - Respecting technical contributions from sources different than your own
+      - Maintaining and encouraging communication
+      - Helping ensure that contributions are forthcoming from all team members
+      - Keeping promises and delivering work on time so that others are not inconvenienced
+      - Exhibiting loyalty to the team within reason
+    - Interactions with higher management
+      - A primary ethical imperative is protecting data and results from interference by higher management
+      - It may be ethically necessary to move problems upward if they can't be resolved at the project level and maybe even outward to the public if they can't even be solved at the organizational level
+      - You have an ethical as well as a professional duty to accept responsibility in front of higher management if and when things go wrong
+    - Interactions as a manager
+      - Your decisions regarding your subordinates' assignments, evaluations, promotions, and dismissals will have a major effect on their financial and emotional well-being
+      - Essential that subordinates are treated with respect and consideration regardless of what actions you're taking
+      - Decision analysis can provide a defensible record of the rationale for team actions
+      - Potential for conflict of interest:
+        - Hiring employees and assigning them to projects
+        - Transferring employees from projects or dismissing them entirely
+        - Making technical and financial decisions that affect the project or the organization
+  - Utilization and Adaptation
+    - Use your personal ethical framework as a reference:
+      - As a rationalization for previous actions
+        - Can be influenced by the resolution of cognitive dissonance
+        - Can lead to distortion of your ethical framework in order to continue behaviors that were originally recognized as unethical
+        - Must be applied very carefully
+      - As a guide to future actions
+        - Ability to choose the ethical course of action comes from an understanding of your ethical framework
+    - Almost inevitable that your ethical framework will evolve over the course of your career
+      - Pragmatic analysis of specific socio/technical problems will highlight gaps and exceptions in your framework and you will have to use knowledge/experience to fill the gaps
+      - Evolution of society's ethical and legal standards will also affect your framework
+    - Will also be used for evaluation
+      - Of yourself and the distance between your ethical beliefs and your actions
+      - Of the actions of others
+        - Out of interest
+        - To learn things that can improve your framework
+        - Can conclude that the unethical actions of others constitute a serious wrong/danger and you must do something about them
+- Ethics Away from the Workplace
+  - Many opportunities to apply your ethical framework in situations different from those encountered on the job
+- Moving Forward: The Path to Being Ethical
+  - Outline a theoretical approach to ethical engineering decision-making:
+    - Recognize the important decision points
+    - Identify the available options
+    - Determine their consequences – positive and negative
+    - Include the relevant ethical and societal factors
+    - Apply some type of analytical decision-making process
+    - Choose the right thing to do
+    - Do it
+  - At least two serious practical problems with the theoretical approach:
+    - How do we identify the available decision options and their technical consequences?
+    - Where do we obtain the ethical/societal factors that are part of the consequences?
+      - Depend wholly on experts in the relevant societal fields
+      - Depend on our own real-life experience
+  - Solution:
+    - Directed continued learning in engineering and society
+    - Use of available learning materials as a form of simulation for practicing ethical engineering decisions
+- Learning Objectives
+  - Continued study: requires knowledge as well as methodology and knowledge acquisition is always ongoing
+  - Awareness of objectives: current events provide examples that can be the foci of your continued studies
+  - Evaluation and feedback: analysis of your own and others' actions will provide critical information for strengthening your framework
+  - Adjustment and improvement: involves minimizing the gap between your principals and your actions => dynamic process
+- Looking Ahead
+  - Good bet that the remainder of the 21st century will be fraught with major problems involving social and ethical as well as technological elements
+  - Engineering in its many forms must be central to solving these problems
+    - Future engineering practice will be able to incorporate in its solutions societal and ethical dimensions as well as technical ones
