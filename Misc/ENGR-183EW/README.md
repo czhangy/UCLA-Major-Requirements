@@ -2,7 +2,7 @@
 
 # Weltman/Browne - Fall '22
 
-## Overall: IP | Raw Percentage: IP
+## Overall: IP | Raw Percentage: 95.5%
 
 ## Grading:
 
@@ -18,10 +18,10 @@
 
 ## Essays
 
-|  #   | Score |
-| :--: | :---: |
-|  1   |  ???  |
-|  2   |  ???  |
+|  #   | Score  |
+| :--: | :----: |
+|  1   | 92/100 |
+|  2   | 95/100 |
 
 ## Exams
 
