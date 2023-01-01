@@ -2,7 +2,7 @@
 
 # Weltman/Browne - Fall '22
 
-## Overall: IP | Raw Percentage: 95.5%
+## Overall: A | Raw Percentage: 95.5%
 
 ## Grading:
 
