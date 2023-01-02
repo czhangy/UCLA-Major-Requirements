@@ -21,7 +21,7 @@
 | PHYSICS 1C | Spring '20 | A |
 | PHYSICS 4AL | Spring '20 | A |
 
-## Misc. Requiremen
+## Misc. Requirements
 
 | Requirement | Course | Term | Grade |
 |:----|:---:|:---:|:---:|
